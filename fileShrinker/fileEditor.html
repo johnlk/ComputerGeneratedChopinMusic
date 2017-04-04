@@ -3,23 +3,10 @@
 <head>
 	<title>Compress and Decompress Midi Text Files</title>
 	<style>
-		.textHolder{
-			display: inline-block;
-		}
-		h1{
-			font-size: 25px;
-			margin-left: 45px;
-		}
-		textarea{
-			width: 500px;
-		    height: 300px;
-		    margin: 0 -20px 32px 32px;
-		}
-		button{
-			width: 97px;
-		    margin: 0 25px 9px -73px;
-		    font-size: 12px;
-		}
+		.textHolder{ display: inline-block;	}
+		h1{ font-size: 25px; margin-left: 45px;	}
+		textarea{ width: 500px; height: 300px; margin: 0 -20px 32px 32px; }
+		button{ width: 97px; margin: 0 25px 9px -73px; font-size: 12px; }
 	</style>
 	<script src="compress.js"></script>
 	<script src="decompress.js"></script>
@@ -27,15 +14,12 @@
 <body>
 	<div class="textHolder">
 		<h1>Text to Compress</h1>
-		<textarea id="toCompress">
-		</textarea>
+		<textarea id="toCompress"></textarea>
 		<button onclick="compress()">Compress</button>
 	</div>
-
 	<div class="textHolder">
 		<h1>Text to Decompress</h1>
-		<textarea id="toDecompress">
-		</textarea>
+		<textarea id="toDecompress"></textarea>
 		<button onclick="decompress()">Decompress</button>
 	</div>
 </body>
