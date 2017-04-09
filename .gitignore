@@ -1,3 +1,5 @@
 data.t7
 vocab.t7
 */.DS_Store
+.DS_Store
+cv/*.t7
