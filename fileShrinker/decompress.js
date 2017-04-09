@@ -17,9 +17,9 @@ function decompress(){
 		}
 	}
 
-	expandedText += "BA " + sectionCounter + " CR 0 TR 0 CH 16 End of track"; //adds a flag for end of music
-
 	expandedText = "format=1 tracks=7 division=480\n\n" + expandedText;
+
+	expandedText += "BA " + sectionCounter + " CR 0 TR 0 CH 16 End of track"; //adds a flag for end of music	
 	
 	textField.value = expandedText;
 
