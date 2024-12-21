@@ -1,0 +1,3414 @@
+1+1/6 TR 0 CH 16 Tempo 81
+1+1/4 TR 0 CH 16 Tempo 93.5
+1+1/4 TR 1 CH 1 NT D 1/4 von=57
+1+1/3 TR 0 CH 16 Tempo 92.5
+1+5/12 TR 0 CH 16 Tempo 99
+1+1/2 TR 0 CH 16 Tempo 93
+1+1/2 TR 1 CH 1 NT C' 1/8 von=61
+1+1/2 TR 2 CH 1 NT A-- 1/8 von=47
+1+1/2 TR 2 CH 1 NT F- 1/8 von=50
+1+7/12 TR 0 CH 16 Tempo 92.5
+1+5/8 TR 1 CH 1 NT Db 1/8 von=60
+1+2/3 TR 0 CH 16 Tempo 94
+1+3/4 TR 0 CH 16 Tempo 96
+1+3/4 TR 1 CH 1 NT Eb 1/8 von=58
+1+3/4 TR 2 CH 1 NT Ab- 1/8 von=54
+1+11/12 TR 0 CH 16 Tempo 94.5
+2 TR 0 CH 16 Tempo 92.5
+2 TR 1 CH 1 NT A 1/4
+2 TR 1 CH 1 NT C'' 1/4 von=79
+2 TR 2 CH 1 NT Eb-- 1/4 von=67
+2 TR 2 CH 1 NT Bb-- 1/4 von=63
+2+1/8 TR 1 CH 1 NT Db' 1/16 von=70
+2+1/6 TR 1 CH 1 NT Db'' 1/12 von=75
+2+5/24 TR 0 CH 16 Tempo 82.5
+2+1/4 TR 1 CH 1 NT Db' 1/4 von=75
+2+1/3 TR 0 CH 16 Tempo 87
+2+1/2 TR 0 CH 16 Tempo 86.5
+2+1/2 TR 1 CH 1 NT Db' 1/12 von=75
+2+1/2 TR 1 CH 1 NT Eb' 1/12
+2+1/2 TR 2 CH 1 NT Eb 1/2 von=63
+2+1/2 TR 2 CH 1 NT F 1/2 von=52
+2+1/2 TR 2 CH 1 NT Bb 1/2 von=55
+2+1/2 TR 2 CH 1 NT Cb 1/2 von=50
+2+3/4 TR 0 CH 16 Tempo 87.5
+2+3/4 TR 1 CH 1 NT Ab' 1/4 von=77
+2+3/4 TR 1 CH 1 NT Eb'' 1/4
+
+0 TR 0 CH 16 Tempo 85.5
+0 TR 1 CH 1 NT F' 1/4 von=81
+0 TR 1 CH 1 NT F'' 1/4
+0 TR 1 CH 1 NT Eb'' 1/4 von=90
+0 TR 2 CH 1 NT Ab-- 1/4 von=62
+17/480 TR 2 CH 1 ST &B0 &40 &00
+67/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT F- 1/4 von=51
+1/2 TR 0 CH 16 Tempo 108
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 2 CH 1 NT Ab- 1/4 von=52
+1+1/4 TR 2 CH 1 NT Ab-- 1/4 von=51
+1+1/2 TR 0 CH 16 Tempo 115.5
+1+1/2 TR 2 CH 1 NT Db- 1/4 von=61
+1+3/4 TR 2 CH 1 NT Bb-- 1/4 von=51
+
+0 TR 1 CH 1 NT Ab'' 2 von=92
+0 TR 1 CH 1 NT Ab'' 2 von=89
+0 TR 2 CH 1 NT Ab-- 1/4 von=63
+13/480 TR 2 CH 1 ST &B0 &40 &00
+97/480 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT F 1/4 von=50
+1/2 TR 2 CH 1 NT Ab 1/4 von=59
+3/4 TR 2 CH 1 NT Ab' 1/4 von=58
+1 TR 2 CH 1 NT F' 1/4 von=63
+1+1/4 TR 1 CH 1 NT Eb'' 1/4 von=77
+1+1/4 TR 1 CH 1 NT Db'' 1/4 von=71
+1+1/4 TR 2 CH 1 NT Ab 1/4 von=56
+1+1/2 TR 0 CH 16 Tempo 114.5
+1+1/2 TR 1 CH 1 NT Eb' 1/4 von=73
+1+1/2 TR 1 CH 1 NT C''' 1/4 von=88
+1+1/2 TR 2 CH 1 NT Ab 1/4 von=60
+1+1/2 TR 2 CH 1 NT Eb 1/4 von=51
+1+1/2 TR 2 CH 1 NT Ab 1/4 von=60
+1+1/2 TR 2 CH 1 NT C 1/4
+1+41/80 TR 2 CH 1 ST &B0 &40 &00
+1+3/4 TR 1 CH 1 NT C''' 13/48 von=76
+1+3/4 TR 2 CH 1 NT C' 1/4 von=56
+2 TR 0 CH 16 Tempo 152
+2 TR 1 CH 1 NT Ab'' 13/48 von=75
+2 TR 2 CH 1 NT A 13/48
+2+1/6 TR 0 CH 16 Tempo 155.72
+2+1/4 TR 1 CH 1 NT Ab'' 13/48 von=71
+2+5/12 TR 0 CH 16 Tempo 158.41
+2+1/2 TR 1 CH 1 NT G'' 13/48 von=72
+2+1/2 TR 2 CH 1 NT C' 1/4 von=45
+2+1/2 TR 2 CH 1 NT Ab 1/4 von=46
+2+1/2 TR 2 CH 1 NT D 1/4 von=33
+2+1/2 TR 2 CH 1 NT Ab 1/4
+2+1/2 TR 2 CH 1 NT Bb' 1/4 von=61
+2+5/8 TR 0 CH 16 Tempo 162.87
+2+3/4 TR 1 CH 1 NT F'' 7/24 von=75
+2+5/6 TR 0 CH 16 Tempo 161.02
+2+11/12 TR 0 CH 16 Tempo 187.86
+
+0 TR 0 CH 16 Tempo 192.19
+0 TR 1 CH 1 NT F'' 7/24 von=78
+0 TR 2 CH 1 NT Db- 1/4 von=57
+1/4 TR 1 CH 1 NT C'' 7/24 von=71
+1/4 TR 2 CH 1 NT Db' 7/24 von=57
+1/2 TR 1 CH 1 NT F'' 7/24 von=70
+1/2 TR 2 CH 1 NT Ab 1/4 von=44
+1/2 TR 2 CH 1 NT F- 1/4 von=37
+3/4 TR 0 CH 16 Tempo 187.29
+3/4 TR 1 CH 1 NT Gb' 7/24
+3/4 TR 2 CH 1 NT Cb 7/24 von=54
+1 TR 0 CH 16 Tempo 192.19
+1 TR 1 CH 1 NT Bb' 7/24 von=74
+1 TR 2 CH 1 NT Ab- 7/24 von=55
+1+1/32 TR 2 CH 1 ST &B0 &40 &00
+1+1/6 TR 0 CH 16 Tempo 192.73
+1+5/24 TR 0 CH 16 Tempo 193.41
+1+1/4 TR 1 CH 1 NT Ab 7/24 von=56
+1+1/4 TR 2 CH 1 NT Gb 7/24 von=55
+1+1/2 TR 1 CH 1 NT Db' 7/24 von=59
+1+1/2 TR 2 CH 1 NT Db 7/24
+1+2/3 TR 0 CH 16 Tempo 194.43
+1+3/4 TR 1 CH 1 NT Fb' 7/24 von=60
+1+3/4 TR 2 CH 1 NT Bb- 7/24 von=59
+2 TR 1 CH 1 NT F 7/24 von=54
+2+1/4 TR 1 CH 1 NT Gb' 7/24 von=61
+2+1/2 TR 1 CH 1 NT Db' 7/24
+2+7/12 TR 0 CH 16 Tempo 191.62
+2+3/4 TR 1 CH 1 NT F' 7/24 von=61
+2+3/4 TR 2 CH 1 NT Eb 7/24
+3 TR 1 CH 1 NT Cb' 7/24 von=71
+3 TR 2 CH 1 NT Eb 7/24
+3+1/12 TR 0 CH 16 Tempo 191.41
+3+1/4 TR 1 CH 1 NT D' 7/24 von=70
+3+1/4 TR 2 CH 1 NT Db 7/24 von=58
+3+1/3 TR 0 CH 16 Tempo 189.86
+3+1/2 TR 1 CH 1 NT Eb' 7/24 von=67
+3+1/2 TR 2 CH 1 NT Gb 7/24
+3+3/4 TR 1 CH 1 NT F' 7/24
+3+3/4 TR 2 CH 1 NT D 7/24
+3+11/12 TR 0 CH 16 Tempo 194.76
+
+0 TR 0 CH 16 Tempo 188.2
+0 TR 1 CH 1 NT Ab' 7/24 von=83
+0 TR 2 CH 1 NT Fb- 7/24
+1/480 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 190.88
+1/4 TR 1 CH 1 NT Ab 7/24 von=71
+1/4 TR 2 CH 1 NT Ab-- 7/24 von=51
+1/2 TR 1 CH 1 NT Gb 7/24 von=61
+1/2 TR 2 CH 1 NT Ab- 7/24
+3/4 TR 1 CH 1 NT Eb'' 7/24 von=78
+3/4 TR 2 CH 1 NT F 7/24 von=62
+1 TR 0 CH 16 Tempo 191.95
+1 TR 1 CH 1 NT Ab' 7/24
+1 TR 2 CH 1 NT Db 7/24 von=59
+1+1/4 TR 1 CH 1 NT Bb' 7/24 von=81
+1+1/4 TR 2 CH 1 NT Ab- 7/24
+1+1/2 TR 1 CH 1 NT Ab' 7/24
+1+1/2 TR 2 CH 1 NT Ab 7/24
+1+7/12 TR 0 CH 16 Tempo 191.61
+1+3/4 TR 1 CH 1 NT A' 7/24 von=69
+1+31/40 TR 2 CH 1 ST &B0 &40 &00
+
+0 TR 0 CH 16 Tempo 191.61
+0 TR 1 CH 1 NT Fb'' 7/24 von=92
+0 TR 2 CH 1 NT Ab- 7/24 von=62
+1/12 TR 0 CH 16 Tempo 190.43
+1/4 TR 0 CH 16 Tempo 190.5
+1/4 TR 1 CH 1 NT D' 7/24
+1/4 TR 2 CH 1 NT Bb 7/24 von=65
+5/12 TR 0 CH 16 Tempo 193.91
+1/2 TR 1 CH 1 NT C'' 7/24 von=86
+1/2 TR 2 CH 1 NT Eb 7/24 von=60
+1/2 TR 2 CH 1 NT Db 1/4 von=54
+1/2 TR 2 CH 1 NT F 1/4
+7/12 TR 0 CH 16 Tempo 191.71
+3/4 TR 1 CH 1 NT Ab'' 7/24 von=81
+1 TR 1 CH 1 NT C'' 7/24 von=74
+1+11/480 TR 2 CH 1 ST &B0 &40 &00
+1+1/12 TR 0 CH 16 Tempo 192.1
+1+1/4 TR 1 CH 1 NT Ab'' 7/24 von=91
+1+1/4 TR 2 CH 1 NT Ab- 7/24
+1+1/2 TR 2 CH 1 NT Db 1/4 von=56
+1+3/4 TR 0 CH 16 Tempo 193.38
+1+3/4 TR 1 CH 1 NT Db'' 7/24 von=83
+1+3/4 TR 2 CH 1 NT Ab 7/24 von=66
+1+11/12 TR 0 CH 16 Tempo 192.24
+2 TR 0 CH 16 Tempo 192.19
+2 TR 1 CH 1 NT Gb'' 7/24
+2 TR 2 CH 1 NT Eb 7/24
+2+11/480 TR 2 CH 1 ST &B0 &40 &00
+2+1/4 TR 1 CH 1 NT Ab' 7/24 von=84
+2+1/4 TR 2 CH 1 NT C 7/24 von=61
+2+1/2 TR 1 CH 1 NT Bb' 7/24
+2+1/2 TR 2 CH 1 NT Eb 7/24
+2+2/3 TR 0 CH 16 Tempo 192.34
+2+3/4 TR 1 CH 1 NT Gb' 7/24
+2+3/4 TR 2 CH 1 NT Db 7/24
+3 TR 1 CH 1 NT Db' 7/24 von=79
+3 TR 2 CH 1 NT Ab- 7/24
+3+1/4 TR 0 CH 16 Tempo 190.84
+3+1/4 TR 1 CH 1 NT Db' 7/24 von=74
+3+1/4 TR 2 CH 1 NT Db 7/24
+3+1/2 TR 2 CH 1 NT Ab- 1/4 von=52
+3+1/2 TR 2 CH 1 NT Cb 1/4 von=52
+3+23/24 TR 0 CH 16 Tempo 192.86
+
+0 TR 1 CH 1 NT D' 7/24 von=72
+0 TR 2 CH 1 NT G-- 1/2 von=61
+1/4 TR 1 CH 1 NT G' 1/4 von=78
+1/3 TR 0 CH 16 Tempo 192.5
+1/2 TR 1 CH 1 NT C' 7/24
+1/2 TR 2 CH 1 NT A- 1/4 von=57
+7/12 TR 0 CH 16 Tempo 192.61
+3/4 TR 1 CH 1 NT Eb' 7/24 von=77
+11/12 TR 0 CH 16 Tempo 190.44
+1 TR 1 CH 1 NT Db'' 7/24 von=75
+1 TR 2 CH 1 NT Db 7/24 von=57
+1+1/6 TR 0 CH 16 Tempo 192.41
+1+1/4 TR 1 CH 1 NT F'' 7/24 von=73
+1+1/4 TR 2 CH 1 NT Eb 7/24 von=58
+1+1/2 TR 0 CH 16 Tempo 191.02
+1+1/2 TR 1 CH 1 NT Ab' 7/24 von=71
+1+1/2 TR 2 CH 1 NT F 7/24
+1+3/4 TR 1 CH 1 NT Eb' 7/24
+1+3/4 TR 2 CH 1 NT C 7/24 von=58
+1+5/6 TR 0 CH 16 Tempo 193.17
+2 TR 1 CH 1 NT Ab' 7/24 von=64
+2 TR 2 CH 1 NT Db- 7/24
+2+1/4 TR 1 CH 1 NT Db' 7/24 von=67
+2+1/4 TR 2 CH 1 NT C 7/24
+2+1/2 TR 1 CH 1 NT Cb' 7/24
+2+1/2 TR 2 CH 1 NT Gb 7/24 von=57
+2+13/24 TR 0 CH 16 Tempo 188.26
+2+3/4 TR 0 CH 16 Tempo 187.89
+2+3/4 TR 1 CH 1 NT F' 7/24 von=72
+2+5/6 TR 0 CH 16 Tempo 192.19
+2+11/12 TR 0 CH 16 Tempo 189.66
+3 TR 1 CH 1 NT Gb' 7/24 von=72
+3+1/30 TR 2 CH 1 ST &B0 &40 &00
+3+1/4 TR 1 CH 1 NT Ab' 7/24 von=73
+3+1/4 TR 2 CH 1 NT Ab- 7/24
+3+1/2 TR 1 CH 1 NT Ab' 7/24
+3+1/2 TR 2 CH 1 NT Bb- 7/24 von=57
+3+3/4 TR 1 CH 1 NT Gb 7/24 von=69
+3+5/6 TR 0 CH 16 Tempo 186.24
+
+0 TR 0 CH 16 Tempo 189.86
+0 TR 1 CH 1 NT C' 7/24 von=79
+0 TR 2 CH 1 NT Cb- 7/24 von=50
+1/4 TR 1 CH 1 NT Ab 7/24 von=63
+1/4 TR 2 CH 1 NT Ab- 7/24 von=59
+1/2 TR 1 CH 1 NT F' 7/24
+1/2 TR 2 CH 1 NT Cb 7/24
+3/4 TR 1 CH 1 NT Cb' 7/24
+3/4 TR 2 CH 1 NT Db 7/24 von=59
+1 TR 1 CH 1 NT Ab 7/24
+1 TR 2 CH 1 NT Db 7/24 von=57
+1+1/6 TR 0 CH 16 Tempo 194.46
+1+1/4 TR 1 CH 1 NT G 7/24
+1+1/4 TR 2 CH 1 NT F- 7/24 von=57
+1+1/2 TR 0 CH 16 Tempo 191.31
+1+1/2 TR 1 CH 1 NT Fb' 7/24
+1+1/2 TR 2 CH 1 NT Eb 7/24 von=59
+1+3/4 TR 1 CH 1 NT F' 7/24 von=70
+1+3/4 TR 2 CH 1 NT Fb 7/24 von=66
+
+0 TR 0 CH 16 Tempo 187.36
+0 TR 1 CH 1 NT Ab'' 7/24 von=88
+0 TR 2 CH 1 NT F 7/24
+1/4 TR 1 CH 1 NT Eb' 7/24 von=72
+1/4 TR 2 CH 1 NT Eb 7/24 von=58
+1/2 TR 1 CH 1 NT Ab 7/24 von=55
+1/2 TR 2 CH 1 NT Gb- 1/4 von=41
+3/4 TR 1 CH 1 NT Ab' 7/24
+3/4 TR 2 CH 1 NT Db 7/24
+1 TR 0 CH 16 Tempo 196.04
+1 TR 1 CH 1 NT F' 7/24 von=70
+1 TR 2 CH 1 NT Ab- 7/24 von=58
+1+1/4 TR 0 CH 16 Tempo 190.95
+1+1/4 TR 1 CH 1 NT A 7/24 von=63
+1+1/4 TR 2 CH 1 NT A- 7/24
+1+1/2 TR 1 CH 1 NT Bb' 7/24 von=71
+1+1/2 TR 2 CH 1 NT Db 7/24 von=56
+1+3/4 TR 1 CH 1 NT Ab' 7/24 von=70
+1+3/4 TR 2 CH 1 NT F 7/24 von=68
+2 TR 0 CH 16 Tempo 185.28
+2 TR 1 CH 1 NT Db'' 7/24 von=77
+2 TR 2 CH 1 NT Cb 7/24
+2+1/40 TR 2 CH 1 ST &B0 &40 &00
+2+1/12 TR 0 CH 16 Tempo 193.94
+2+1/4 TR 1 CH 1 NT Bb 7/24 von=69
+2+1/4 TR 2 CH 1 NT F- 7/24
+2+1/2 TR 1 CH 1 NT Ab' 7/24 von=69
+2+1/2 TR 2 CH 1 NT C 7/24 von=60
+2+3/4 TR 1 CH 1 NT Db'' 7/24
+2+3/4 TR 2 CH 1 NT Bb 7/24 von=62
+3 TR 0 CH 16 Tempo 191.02
+3 TR 1 CH 1 NT Ab' 7/24 von=76
+3 TR 2 CH 1 NT F 7/24 von=63
+3+1/4 TR 1 CH 1 NT Cb' 7/24 von=70
+3+1/4 TR 2 CH 1 NT F- 7/24 von=54
+3+1/2 TR 1 CH 1 NT D' 7/24 von=67
+3+1/2 TR 2 CH 1 NT Db 7/24
+3+3/4 TR 1 CH 1 NT Ab- 7/24
+3+3/4 TR 2 CH 1 NT C 7/24
+3+11/12 TR 0 CH 16 Tempo 187.18
+
+0 TR 1 CH 1 NT Ab 7/24 von=78
+0 TR 2 CH 1 NT Db- 7/24
+3/160 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 1 CH 1 NT Ab 7/24 von=72
+1/4 TR 2 CH 1 NT Db 7/24 von=57
+5/12 TR 0 CH 16 Tempo 193.94
+1/2 TR 1 CH 1 NT Eb' 7/24 von=71
+3/4 TR 1 CH 1 NT Db' 7/24 von=73
+1 TR 1 CH 1 NT Cb'' 7/24 von=85
+1 TR 2 CH 1 NT Db 7/24 von=62
+1+1/4 TR 1 CH 1 NT Db'' 7/24 von=87
+1+1/4 TR 2 CH 1 NT Db 7/24 von=58
+1+5/12 TR 0 CH 16 Tempo 193.81
+1+1/2 TR 1 CH 1 NT Eb' 7/24 von=73
+1+1/2 TR 2 CH 1 NT Db 7/24
+1+3/4 TR 1 CH 1 NT Eb'' 7/24 von=76
+1+3/4 TR 2 CH 1 NT Cb 1/4 von=55
+2 TR 1 CH 1 NT Fb' 7/24 von=74
+2 TR 2 CH 1 NT Ab- 7/24 von=64
+2+1/4 TR 0 CH 16 Tempo 192.79
+2+1/4 TR 1 CH 1 NT Eb' 7/24
+2+1/4 TR 2 CH 1 NT Bb 7/24
+2+1/2 TR 0 CH 16 Tempo 186.74
+2+1/2 TR 1 CH 1 NT Db' 7/24 von=70
+2+1/2 TR 2 CH 1 NT C 7/24
+2+3/4 TR 1 CH 1 NT Db' 7/24 von=74
+2+5/6 TR 0 CH 16 Tempo 192.19
+2+9/10 TR 1 CH 1 NT Gb' 7/24 von=75
+3 TR 1 CH 1 NT Ab' 7/24 von=77
+3+1/12 TR 0 CH 16 Tempo 191.11
+3+1/4 TR 1 CH 1 NT D'' 7/24 von=89
+3+1/4 TR 2 CH 1 NT F 7/24
+3+1/2 TR 0 CH 16 Tempo 188.66
+3+1/2 TR 1 CH 1 NT Db' 7/24 von=76
+3+1/2 TR 2 CH 1 NT C 7/24 von=60
+3+3/4 TR 1 CH 1 NT Gb'' 7/24 von=80
+3+3/4 TR 1 CH 1 NT Db'' 7/24
+3+3/4 TR 2 CH 1 NT Gb 7/24 von=61
+
+0 TR 0 CH 16 Tempo 172.13
+0 TR 1 CH 1 NT A'' 7/24
+0 TR 2 CH 1 NT Db' 1/4 von=69
+1/4 TR 2 CH 1 NT C' 1/4 von=61
+1/2 TR 2 CH 1 NT Db' 1/4 von=67
+3/4 TR 2 CH 1 NT C'' 1/4 von=73
+1 TR 0 CH 16 Tempo 118
+1 TR 1 CH 1 NT Eb'' 1/4 von=72
+1 TR 1 CH 1 NT F'' 1/4 von=72
+1 TR 2 CH 1 NT Db' 1/4 von=49
+1 TR 2 CH 1 NT Bb 1/4 von=57
+1+1/4 TR 1 CH 1 NT Bb' 1/4 von=71
+1+1/4 TR 1 CH 1 NT F'' 1/4 von=72
+1+1/2 TR 1 CH 1 NT C'' 1/4 von=85
+1+1/2 TR 2 CH 1 NT Bb 1/4 von=60
+1+1/2 TR 2 CH 1 NT Db 1/4 von=60
+1+1/2 TR 2 CH 1 NT Ab 1/4 von=72
+1+3/4 TR 1 CH 1 NT C''' 1/4 von=78
+1+3/4 TR 1 CH 1 NT C'' 1/4 von=72
+
+0 TR 0 CH 16 Tempo 106.5
+0 TR 1 CH 1 NT A' 1/4 von=89
+0 TR 1 CH 1 NT E'' 1/4 von=98
+0 TR 2 CH 1 NT Eb-- 1/4 von=77
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 1 CH 1 NT C'' 1/4 von=82
+1/4 TR 1 CH 1 NT Eb' 1/4 von=59
+1/2 TR 0 CH 16 Tempo 107.5
+1/2 TR 1 CH 1 NT Eb' 1/4 von=72
+1/2 TR 2 CH 1 NT D 1/2 von=59
+1/2 TR 2 CH 1 NT A- 1/2 von=51
+1/2 TR 2 CH 1 NT C 1/2 von=52
+3/4 TR 0 CH 16 Tempo 87.25
+3/4 TR 1 CH 1 NT D'' 1/4 von=71
+3/4 TR 1 CH 1 NT C#'' 1/4 von=79
+3/4 TR 1 CH 1 NT D'' 1/4 von=76
+1 TR 0 CH 16 Tempo 84
+1 TR 1 CH 1 NT C' 1/2 von=62
+1 TR 1 CH 1 NT Db'' 1/2 von=83
+1 TR 1 CH 1 NT Bb' 1/2
+1 TR 2 CH 1 NT Ab 1/2
+1 TR 2 CH 1 NT Eb 1/2
+1 TR 2 CH 1 NT Db 1/2
+1 TR 2 CH 1 NT Db 1/2 von=65
+1+1/120 TR 2 CH 1 ST &B0 &40 &00
+1+5/32 TR 2 CH 1 ST &B0 &40 &7F
+1+1/2 TR 0 CH 16 Tempo 80.5
+1+1/2 TR 1 CH 1 NT F 1/4 von=64
+1+1/2 TR 1 CH 1 NT Eb' 1/4 von=77
+1+1/2 TR 2 CH 1 NT F 3/8 von=56
+1+1/2 TR 2 CH 1 NT Ab 3/8
+1+1/2 TR 2 CH 1 NT Eb' 3/8 von=72
+1+3/4 TR 0 CH 16 Tempo 89.5
+1+7/8 TR 0 CH 16 Tempo 95.5
+1+7/8 TR 1 CH 1 NT C' 1/8 von=57
+1+7/8 TR 1 CH 1 NT B' 1/8
+1+7/8 TR 1 CH 1 NT A' 1/8 von=71
+2 TR 0 CH 16 Tempo 83.5
+2 TR 1 CH 1 NT Ab' 1/12 von=58
+2 TR 1 CH 1 NT Eb' 1/8 von=61
+2 TR 2 CH 1 NT G- 1/4
+2+1/12 TR 0 CH 16 Tempo 90
+2+1/8 TR 1 CH 1 NT C' 1/8 von=56
+2+1/8 TR 1 CH 1 NT E' 1/8 von=61
+2+1/6 TR 0 CH 16 Tempo 95
+2+1/6 TR 1 CH 1 NT E' 1/6 von=65
+2+1/4 TR 0 CH 16 Tempo 93
+2+1/4 TR 1 CH 1 NT Eb' 1/8 von=67
+2+1/4 TR 2 CH 1 NT C 1/4 von=52
+2+3/8 TR 1 CH 1 NT E' 3/4 von=69
+2+1/2 TR 1 CH 1 NT Eb' 1/4 von=71
+2+1/2 TR 2 CH 1 NT F- 1/4 von=38
+2+7/12 TR 1 CH 1 NT Ab' 1/8 von=72
+2+2/3 TR 0 CH 16 Tempo 95.5
+2+3/4 TR 1 CH 1 NT Eb' 1/8
+2+3/4 TR 2 CH 1 NT A 1/4 von=62
+2+7/8 TR 1 CH 1 NT F'' 1/8 von=79
+2+43/60 TR 0 CH 16 Tempo 95.5
+
+0 TR 0 CH 16 Tempo 93.5
+0 TR 1 CH 1 NT D'' 1/4 von=81
+0 TR 1 CH 1 NT Db'' 1/4 von=83
+0 TR 2 CH 1 NT Db 2 von=66
+0 TR 2 CH 1 NT Ab- 2
+0 TR 2 CH 1 NT Db 2
+0 TR 2 CH 1 NT Ab 1 von=74
+1/32 TR 2 CH 1 ST &B0 &40 &00
+7/96 TR 2 CH 1 ST &B0 &40 &7F
+1/3 TR 1 CH 1 NT Ab' 1/3 von=70
+1/3 TR 1 CH 1 NT Ab' 1/3 von=76
+1/3 TR 2 CH 1 NT Db 1/3 von=58
+1/3 TR 2 CH 1 NT Gb 1/3 von=61
+2/3 TR 0 CH 16 Tempo 204.87
+2/3 TR 1 CH 1 NT Gb' 1/3 von=79
+2/3 TR 1 CH 1 NT Db'' 1/3 von=85
+2/3 TR 2 CH 1 NT Db- 1/3 von=52
+1/2 TR 2 CH 1 NT Db 1/3 von=50
+2/3 TR 2 CH 1 NT Bb 1/3 von=61
+1 TR 0 CH 16 Tempo 99.92
+1 TR 1 CH 1 NT F' 1/3 von=76
+1 TR 1 CH 1 NT Bb' 1/3 von=95
+1 TR 2 CH 1 NT Fb 1/3 von=59
+1 TR 2 CH 1 NT Eb' 1/3 von=65
+1+1/3 TR 1 CH 1 NT Db' 1/3 von=67
+1+1/3 TR 1 CH 1 NT Eb' 1/3 von=75
+1+1/3 TR 2 CH 1 NT C- 1/3 von=41
+1+1/3 TR 2 CH 1 NT Fb- 1/3 von=45
+1+2/3 TR 1 CH 1 NT D' 1/3 von=62
+1+2/3 TR 1 CH 1 NT F' 1/3 von=77
+1+2/3 TR 1 CH 1 NT Bb' 1/3 von=74
+1+2/3 TR 2 CH 1 NT Cb- 1/3 von=43
+1+2/3 TR 2 CH 1 NT Eb- 1/3
+1+11/12 TR 0 CH 16 Tempo 85.5
+2 TR 0 CH 16 Tempo 90.5
+2 TR 1 CH 1 NT Db'' 1/6 von=69
+2 TR 1 CH 1 NT Ab' 1/6 von=75
+2 TR 2 CH 1 NT Ab 1/3 von=57
+2 TR 2 CH 1 NT C' 1/3 von=57
+2+1/160 TR 3 CH 1 ST &B0 &40 &00
+2+1/12 TR 0 CH 16 Tempo 98.5
+2+1/12 TR 0 CH 16 Tempo 99.83
+2+1/8 TR 1 CH 1 NT Db'' 1/8
+2+1/6 TR 0 CH 16 Tempo 97.51
+2+1/6 TR 1 CH 1 NT Db'' 1/6
+2+1/6 TR 1 CH 1 NT Db'' 1/6 von=66
+2+1/4 TR 0 CH 16 Tempo 97.99
+2+1/4 TR 1 CH 1 NT Db'' 1/12 von=60
+2+1/3 TR 1 CH 1 NT Gb' 1/6 von=61
+2+1/3 TR 1 CH 1 NT Db'' 1/6 von=63
+2+1/2 TR 1 CH 1 NT Eb' 1/6 von=55
+2+1/2 TR 2 CH 1 NT D 1/4 von=43
+2+1/2 TR 2 CH 1 NT Ab- 1/2 von=48
+2+1/2 TR 2 CH 1 NT Db 1/2 von=50
+2+257/480 TR 2 CH 1 ST &B0 &40 &00
+2+3/4 TR 0 CH 16 Tempo 84
+2+3/4 TR 2 CH 1 NT Ab 1/4 von=54
+2+7/8 TR 1 CH 1 NT Db' 1/8 von=58
+2+7/8 TR 2 CH 1 NT Ab-- 1/8 von=51
+2+7/8 TR 2 CH 1 NT Ab 1/8 von=61
+2+23/24 TR 0 CH 16 Tempo 82
+
+0 TR 0 CH 16 Tempo 87.5
+0 TR 1 CH 1 NT Eb' 1/6 von=57
+0 TR 1 CH 1 NT D'' 1/6 von=89
+0 TR 1 CH 1 NT Ab'' 1/6 von=78
+0 TR 2 CH 1 NT Db- 1/4 von=60
+0 TR 2 CH 1 NT Ab- 1/4 von=64
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 1 CH 1 NT Bb' 1/6 von=72
+1/4 TR 1 CH 1 NT Db'' 1/6
+1/4 TR 2 CH 1 NT Eb- 1/4
+1/3 TR 1 CH 1 NT C' 1/6 von=58
+1/3 TR 1 CH 1 NT Ab' 1/6
+1/3 TR 2 CH 1 NT F-- 1/6 von=57
+1/3 TR 2 CH 1 NT Ab- 1/4
+1/2 TR 0 CH 16 Tempo 95.5
+1/2 TR 1 CH 1 NT Db'' 1/6 von=83
+1/2 TR 2 CH 1 NT C 1/4
+3/4 TR 2 CH 1 NT Db 1/4 von=54
+5/6 TR 1 CH 1 NT Ab' 1/6
+5/6 TR 1 CH 1 NT Db'' 1/6
+1 TR 1 CH 1 NT Db'' 1/6 von=85
+1 TR 2 CH 1 NT Db 1/4 von=53
+1+1/4 TR 1 CH 1 NT F' 1/12 von=68
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+7/24 TR 0 CH 16 Tempo 95
+1+1/3 TR 1 CH 1 NT Eb'' 1/12 von=70
+1+1/3 TR 1 CH 1 NT Gb' 1/12 von=66
+1+1/3 TR 2 CH 1 NT Db 1/4 von=49
+1+1/2 TR 0 CH 16 Tempo 91.5
+1+1/2 TR 1 CH 1 NT F'' 1/2 von=77
+1+1/2 TR 1 CH 1 NT Db' 1/2 von=62
+1+1/2 TR 2 CH 1 NT Eb 1/4 von=56
+1+1/2 TR 2 CH 1 NT Db' 1/4 von=62
+1+7/12 TR 0 CH 16 Tempo 91
+1+2/3 TR 0 CH 16 Tempo 94.5
+1+3/4 TR 0 CH 16 Tempo 47.5
+1+3/4 TR 2 CH 1 NT Bb- 1/4
+1+19/24 TR 0 CH 16 Tempo 47.5
+1+5/6 TR 0 CH 16 Tempo 47
+1+7/8 TR 0 CH 16 Tempo 44.5
+1+7/8 TR 1 CH 1 NT Ab' 1/8 von=63
+2 TR 0 CH 16 Tempo 48
+2 TR 1 CH 1 NT Bb' 1/12 von=70
+2 TR 2 CH 1 NT Gb- 1/4 von=42
+2+1/8 TR 0 CH 16 Tempo 47
+2+1/6 TR 1 CH 1 NT Gb' 1/12 von=58
+2+5/24 TR 0 CH 16 Tempo 47.5
+2+1/4 TR 0 CH 16 Tempo 47
+2+1/4 TR 1 CH 1 NT Db'' 1/12 von=69
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+7/24 TR 0 CH 16 Tempo 43.5
+2+3/8 TR 0 CH 16 Tempo 45.5
+2+1/2 TR 0 CH 16 Tempo 48.5
+2+1/2 TR 1 CH 1 NT Db' 1/12 von=60
+2+1/2 TR 1 CH 1 NT Db' 1/12 von=61
+2+1/2 TR 2 CH 1 NT Bb- 1/4
+2+7/12 TR 1 CH 1 NT Db'' 1/12
+2+2/3 TR 1 CH 1 NT Db' 1/12 von=58
+2+3/4 TR 0 CH 16 Tempo 43
+2+3/4 TR 1 CH 1 NT Db' 1/4 von=62
+2+3/4 TR 2 CH 1 NT Gb- 1/4
+
+0 TR 0 CH 16 Tempo 46
+0 TR 1 CH 1 NT F' 1/4 von=66
+0 TR 1 CH 1 NT Ab' 1/4
+0 TR 1 CH 1 NT G' 1/4 von=55
+0 TR 1 CH 1 NT Bb' 1/4 von=70
+0 TR 2 CH 1 NT Ab-- 1/4 von=51
+1/48 TR 3 CH 1 ST &B0 &40 &00
+23/240 TR 3 CH 1 ST &B0 &40 &7F
+1/6 TR 1 CH 1 NT Ab 1/12 von=54
+1/6 TR 1 CH 1 NT Eb' 1/6 von=68
+1/3 TR 1 CH 1 NT Ab' 1/6 von=75
+1/2 TR 1 CH 1 NT Eb'' 1/4 von=80
+1/2 TR 2 CH 1 NT Ab--- 1/4 von=49
+1/2 TR 2 CH 1 NT Ab-- 1/4 von=77
+17/24 TR 0 CH 16 Tempo 56.5
+13/16 TR 1 CH 1 NT Db' 1/16 von=66
+15/16 TR 1 CH 1 NT Eb'' 1/16 von=72
+1 TR 0 CH 16 Tempo 50
+1+1/2 TR 0 CH 16 Tempo 53.5
+1+1/2 TR 1 CH 1 NT Ab' 1/4 von=70
+1+1/2 TR 1 CH 1 NT F' 1/4 von=72
+1+1/2 TR 2 CH 1 NT Eb- 3/8 von=43
+1+1/2 TR 2 CH 1 NT Bb- 3/8 von=48
+1+1/2 TR 2 CH 1 NT Bb- 3/8 von=46
+1+3/4 TR 0 CH 16 Tempo 89
+1+5/6 TR 0 CH 16 Tempo 84.5
+1+7/8 TR 1 CH 1 NT Db' 1/8 von=55
+1+7/8 TR 1 CH 1 NT Eb' 1/8 von=64
+1+7/8 TR 2 CH 1 NT Gb- 1/8
+1+11/12 TR 0 CH 16 Tempo 83
+2 TR 0 CH 16 Tempo 82.5
+2 TR 2 CH 1 NT Db 1/4 von=49
+2+1/12 TR 0 CH 16 Tempo 46.5
+2+1/8 TR 0 CH 16 Tempo 47.5
+2+1/8 TR 1 CH 1 NT Db' 1/8
+2+1/8 TR 2 CH 1 ST &B0 &40 &00
+2+1/6 TR 0 CH 16 Tempo 43.5
+2+1/6 TR 1 CH 1 NT Bb 1/12 von=67
+2+1/4 TR 0 CH 16 Tempo 44.5
+2+1/4 TR 1 CH 1 NT Ab' 1/12 von=61
+2+1/4 TR 2 CH 1 NT Ab 1/4 von=35
+2+1/3 TR 0 CH 16 Tempo 46.5
+2+1/3 TR 1 CH 1 NT F' 1/12 von=54
+2+5/12 TR 1 CH 1 NT Db'' 1/12 von=70
+2+5/12 TR 1 CH 1 NT Ab' 1/12 von=62
+2+5/12 TR 1 CH 1 NT Db'' 1/12
+2+1/2 TR 2 CH 1 NT Db 1/4 von=35
+2+7/12 TR 0 CH 16 Tempo 47.5
+2+5/8 TR 0 CH 16 Tempo 43
+2+2/3 TR 1 CH 1 NT Db' 1/12 von=51
+2+2/3 TR 2 CH 1 NT Db 1/4 von=30
+2+3/4 TR 0 CH 16 Tempo 49.74
+2+3/4 TR 1 CH 1 NT Fb' 1/4 von=77
+2+3/4 TR 1 CH 1 NT Ab' 1/4 von=71.5
+2+3/4 TR 2 CH 1 NT Eb 1/4
+
+0 TR 0 CH 16 Tempo 44.5
+0 TR 1 CH 1 NT F' 1/4 von=60
+0 TR 1 CH 1 NT Cb'' 1/4 von=74
+0 TR 2 CH 1 NT Ab-- 1/4 von=52
+11/480 TR 2 CH 1 ST &B0 &40 &00
+7/48 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT C 1/4 von=55
+1/2 TR 2 CH 1 NT Ab- 1/4 von=45
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 2 CH 1 NT Gb- 1/4
+1+1/4 TR 2 CH 1 NT Db 1/4
+1+1/2 TR 0 CH 16 Tempo 47
+1+1/2 TR 2 CH 1 NT Eb- 1/4 von=42
+1+2/3 TR 1 CH 1 NT Db'' 1/4 von=73
+1+3/4 TR 1 CH 1 NT Ab'' 1/4 von=78
+1+3/4 TR 2 CH 1 NT Eb 1/4 von=28
+2 TR 0 CH 16 Tempo 49
+2 TR 1 CH 1 NT Eb'' 1/4
+2 TR 2 CH 1 NT Bb 1/4
+2+1/4 TR 1 CH 1 NT Db'' 1/4 von=62
+2+1/4 TR 1 CH 1 NT Db'' 1/4 von=65
+2+1/4 TR 1 CH 1 NT C'' 1/4 von=53
+2+1/4 TR 2 CH 1 NT C 1/4
+2+1/4 TR 2 CH 1 NT F 1/4
+2+1/3 TR 0 CH 16 Tempo 48.5
+2+1/2 TR 1 CH 1 NT Ab 1/4 von=59
+2+1/2 TR 1 CH 1 NT Ab' 1/4 von=61
+2+1/2 TR 2 CH 1 NT Eb 1/4 von=33
+2+13/24 TR 0 CH 16 Tempo 48.88
+2+5/8 TR 0 CH 16 Tempo 46.31
+2+2/3 TR 0 CH 16 Tempo 47
+2+5/8 TR 1 CH 1 NT Db'' 1/12
+2+2/3 TR 0 CH 16 Tempo 47.1
+2+17/24 TR 0 CH 16 Tempo 43.75
+2+3/4 TR 0 CH 16 Tempo 47.4
+2+3/4 TR 1 CH 1 NT Ab' 1/4 von=73
+2+3/4 TR 2 CH 1 NT Db- 1/4
+
+0 TR 1 CH 1 NT Gb' 1/4 von=53
+0 TR 1 CH 1 NT F' 1/4 von=67
+0 TR 2 CH 1 NT Db 1/4
+3/480 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 0 CH 16 Tempo 40.5
+1/4 TR 2 CH 1 NT Fb 1/4 von=41
+7/24 TR 0 CH 16 Tempo 48.5
+1/3 TR 1 CH 1 NT Db' 1/3 von=51
+1/3 TR 1 CH 1 NT Ab' 1/3 von=68
+1/3 TR 2 CH 1 NT Db 1/4 von=29
+3/8 TR 0 CH 16 Tempo 48.5
+5/12 TR 0 CH 16 Tempo 48.5
+1/2 TR 0 CH 16 Tempo 52.5
+1/2 TR 1 CH 1 NT Db'' 1/6 von=57
+1/2 TR 2 CH 1 NT Ab 1/4 von=30
+7/12 TR 0 CH 16 Tempo 47.5
+2/3 TR 0 CH 16 Tempo 47.5
+2/3 TR 2 CH 1 NT Ab- 1/3
+3/4 TR 0 CH 16 Tempo 47.5
+3/4 TR 2 CH 1 NT Db 1/4
+5/6 TR 1 CH 1 NT Ab' 1/6 von=52
+11/12 TR 1 CH 1 NT Db'' 1/6 von=52
+1 TR 0 CH 16 Tempo 46.5
+1 TR 1 CH 1 NT Bb' 1/6 von=66
+1 TR 2 CH 1 NT C 1/4
+1+1/6 TR 1 CH 1 NT Eb' 1/6
+1+1/6 TR 1 CH 1 NT Ab' 1/6 von=59
+1+1/6 TR 1 CH 1 NT Ab' 1/6 von=67
+1+1/6 TR 1 CH 1 NT Ab'' 1/6 von=68
+1+1/4 TR 2 CH 1 NT F 1/4 von=44
+1+1/3 TR 1 CH 1 NT Db'' 1/6 von=52
+1+1/3 TR 1 CH 1 NT Db'' 1/6 von=62
+1+1/3 TR 2 CH 1 NT Gb- 1/4
+1+1/3 TR 2 CH 1 NT Ab 1/6 von=45
+1+5/12 TR 0 CH 16 Tempo 46.5
+1+1/2 TR 0 CH 16 Tempo 80.5
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Db 1/4
+1+7/8 TR 0 CH 16 Tempo 46.5
+1+11/12 TR 0 CH 16 Tempo 48
+1+13/15 TR 0 CH 16 Tempo 46
+1+5/6 TR 0 CH 16 Tempo 48
+1+7/8 TR 1 CH 1 NT Db'' 1/8 von=63
+1+43/48 TR 0 CH 16 Tempo 46.5
+2 TR 2 CH 1 NT Db- 1/4 von=51
+2+7/80 TR 2 CH 1 ST &B0 &40 &7F
+2+1/4 TR 0 CH 16 Tempo 48
+2+1/4 TR 2 CH 1 NT Ab- 1/4
+2+1/3 TR 2 CH 1 NT Ab- 1/3 von=48
+2+2/3 TR 1 CH 1 NT Eb' 1/3 von=74
+2+2/3 TR 1 CH 1 NT Fb' 3/4 von=80
+2+3/4 TR 2 CH 1 NT Ab 1/4
+
+0 TR 0 CH 16 Tempo 49.48
+0 TR 1 CH 1 NT Ab' 1 von=67
+0 TR 1 CH 1 NT Db'' 1/2 von=74
+0 TR 2 CH 1 NT Ab- 1/4 von=35
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 0 CH 16 Tempo 46
+1/6 TR 0 CH 16 Tempo 46.5
+1/8 TR 0 CH 16 Tempo 45
+1/6 TR 0 CH 16 Tempo 46.5
+1/4 TR 0 CH 16 Tempo 48.5
+1/4 TR 2 CH 1 NT Eb 1/4 von=19
+1/4 TR 2 CH 1 NT Eb 1/4 von=34
+1/4 TR 2 CH 1 NT Ab 1/4 von=46
+1/3 TR 2 CH 1 NT F 1/3 von=34
+1/2 TR 0 CH 16 Tempo 46.5
+1/2 TR 2 CH 1 NT Gb- 1/4 von=39
+3/4 TR 2 CH 1 NT Ab 1/4
+1 TR 2 CH 1 NT Db 1/4
+1+1/4 TR 0 CH 16 Tempo 48
+1+1/4 TR 2 CH 1 NT Ab 1/4 von=30
+1+1/2 TR 0 CH 16 Tempo 46.5
+1+1/2 TR 1 CH 1 NT Ab'' 1/2 von=65
+1+1/2 TR 2 CH 1 NT F 1/4
+1+3/4 TR 2 CH 1 NT Cb' 1/4
+
+0 TR 0 CH 16 Tempo 51.5
+0 TR 1 CH 1 NT Ab' 3 von=49
+0 TR 2 CH 1 NT F-- 1/4 von=29
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Fb 1/4 von=15
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Db' 1/2 von=48
+1/2 TR 1 CH 1 NT Gb' 1/2 von=49
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT C' 1/4 von=22
+1 TR 0 CH 16 Tempo 51.02
+1 TR 1 CH 1 NT C'' 2 von=54
+1 TR 2 CH 1 NT Db 1/4
+1+1/4 TR 2 CH 1 NT Db 1/4
+1+1/2 TR 0 CH 16 Tempo 46.48
+1+1/2 TR 1 CH 1 NT Db' 1/2 von=56
+1+1/2 TR 2 CH 1 NT F 1/4
+1+1/2 TR 2 CH 1 NT Db 1/4 von=24
+1+1/2 TR 2 CH 1 NT Eb- 1/4
+1+2/3 TR 0 CH 16 Tempo 49.5
+1+3/4 TR 2 CH 1 NT Fb- 1/4
+1+11/12 TR 0 CH 16 Tempo 49.5
+2 TR 0 CH 16 Tempo 50
+2 TR 2 CH 1 NT Eb- 1/4
+2+1/4 TR 1 CH 1 NT C' 1/4 von=51
+2+1/4 TR 2 CH 1 NT Bb- 1/4
+2+1/2 TR 1 CH 1 NT Gb' 2/12 von=49
+2+1/2 TR 2 CH 1 NT Db 1/4 von=27
+2+251/480 TR 2 CH 1 ST &B0 &40 &00
+2+3/4 TR 0 CH 16 Tempo 49.82
+2+3/4 TR 1 CH 1 NT Eb'' 1/4 von=46
+2+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 0 CH 16 Tempo 44
+0 TR 1 CH 1 NT Db'' 1/2 von=55
+0 TR 2 CH 1 NT Db 1/4 von=33
+1/4 TR 2 CH 1 NT F 1/4 von=24
+1/2 TR 0 CH 16 Tempo 50
+1/2 TR 1 CH 1 NT Db' 1/2
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Eb 1/4
+1 TR 2 CH 1 NT F 1/4 von=29
+1+1/4 TR 2 CH 1 NT Fb 1/4
+1+1/2 TR 2 CH 1 NT Ab 1/4 von=25
+1+7/12 TR 0 CH 16 Tempo 48.5
+1+3/4 TR 0 CH 16 Tempo 48
+1+3/4 TR 1 CH 1 NT Fb' 1/4 von=44
+1+3/4 TR 1 CH 1 NT Cb' 1/4 von=52
+1+3/4 TR 2 CH 1 NT Db- 1/4
+1+7/8 TR 1 CH 1 NT Ab' 1/8 von=49
+2 TR 0 CH 16 Tempo 51.5
+2 TR 1 CH 1 NT F' 1/4 von=49
+2 TR 2 CH 1 NT F- 1/4
+2+1/12 TR 0 CH 16 Tempo 45.15
+2+1/8 TR 1 CH 1 NT Db' 1/8 von=55
+2+1/6 TR 0 CH 16 Tempo 47.5
+2+1/6 TR 1 CH 1 NT Ab' 1/12 von=55
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+1/3 TR 1 CH 1 NT Ab' 1/6 von=56
+2+1/3 TR 1 CH 1 NT Ab' 1/6 von=60
+2+1/2 TR 1 CH 1 NT Bb' 1/12
+2+1/2 TR 1 CH 1 NT Db'' 1/6
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+3/4 TR 2 CH 1 NT Ab 1/4
+
+0 TR 0 CH 16 Tempo 41.5
+0 TR 1 CH 1 NT Db' 1/2 von=48
+0 TR 1 CH 1 NT Ab' 1/2 von=56
+0 TR 2 CH 1 NT Bb-- 1/4 von=32
+1/60 TR 2 CH 1 ST &B0 &40 &00
+5/48 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab 1/4 von=24
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Eb' 1/4 von=49
+1/2 TR 1 CH 1 NT Cb'' 1/4 von=59
+1/2 TR 1 CH 1 NT Ab' 1/4 von=48
+1/2 TR 2 CH 1 NT G 1/4
+3/4 TR 2 CH 1 NT Ab 1/4 von=24
+1 TR 1 CH 1 NT Ab' 2 von=47
+1 TR 2 CH 1 NT Ab- 1/4
+1+1/4 TR 2 CH 1 NT Ab-- 1/4 von=25
+1+1/2 TR 1 CH 1 NT Db 1/4 von=42
+1+1/2 TR 1 CH 1 NT Db' 1/2 von=51
+1+1/2 TR 2 CH 1 NT Gb- 1/4
+1+3/4 TR 2 CH 1 NT Db 1/4
+1+3/4 TR 2 CH 1 NT Gb 1/4
+
+0 TR 1 CH 1 NT Eb' 1 von=52
+0 TR 1 CH 1 NT Eb' 2
+0 TR 1 CH 1 NT Ab' 2+1/4
+0 TR 2 CH 1 NT Db 1/4 von=28
+1/4 TR 0 CH 16 Tempo 51
+1/4 TR 2 CH 1 NT Ab 1/4 von=22
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Ab' 1/2 von=56
+1/2 TR 2 CH 1 NT D- 1/4 von=27
+3/4 TR 1 CH 1 NT C' 1/4 von=42
+3/4 TR 1 CH 1 NT Eb' 1/4 von=35
+1 TR 0 CH 16 Tempo 50
+1 TR 1 CH 1 NT Gb' 1/4 von=48
+1 TR 1 CH 1 NT Ab' 1/4 von=55
+1 TR 2 CH 1 NT F 1/4 von=27
+1+1/4 TR 0 CH 16 Tempo 47.47
+1+1/4 TR 1 CH 1 NT Eb' 1/4 von=52
+1+1/4 TR 2 CH 1 NT Db 1/4
+1+1/2 TR 2 CH 1 NT Gb- 1/4
+1+3/4 TR 2 CH 1 NT Ab- 1/4
+
+0 TR 1 CH 1 NT Gb' 1 von=52
+0 TR 1 CH 1 NT Db' 1/2 von=53
+0 TR 2 CH 1 NT Ab-- 1/4 von=25
+1/48 TR 2 CH 1 ST &B0 &40 &00
+53/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Eb 1/4
+1/2 TR 0 CH 16 Tempo 48.94
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Db' 1/4 von=28
+1 TR 0 CH 16 Tempo 48.5
+1 TR 1 CH 1 NT Eb' 1+1/2
+1 TR 1 CH 1 NT Ab' 2 von=61
+1+1/2 TR 0 CH 16 Tempo 56.5
+1+1/2 TR 1 CH 1 NT F' 1/2 von=68
+1+1/2 TR 2 CH 1 NT Ab- 1/4 von=30
+1+3/4 TR 2 CH 1 NT Ab 1/4
+1+11/12 TR 0 CH 16 Tempo 44.92
+2 TR 0 CH 16 Tempo 49.88
+2 TR 1 CH 1 NT Ab' 1/2 von=54
+2 TR 1 CH 1 NT Gb'' 1/2
+2 TR 2 CH 1 NT Gb 1/4
+2+1/2 TR 0 CH 16 Tempo 51
+2+1/2 TR 1 CH 1 NT Eb' 1/2 von=57
+2+1/2 TR 1 CH 1 NT F'' 1/2 von=67
+2+1/2 TR 2 CH 1 NT Db 1/4 von=48
+2+1/2 TR 2 CH 1 NT Eb 1/4
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+1/2 TR 2 CH 1 NT Eb 1/4 von=36
+2+3/4 TR 1 CH 1 NT Bb 1/4 von=64
+2+3/4 TR 1 CH 1 NT Db'' 1/4
+2+3/4 TR 2 CH 1 NT C 1/4
+
+0 TR 0 CH 16 Tempo 48.45
+0 TR 1 CH 1 NT Db' 1/2 von=51
+0 TR 2 CH 1 NT Ab- 1/4
+3/160 TR 2 CH 1 ST &B0 &40 &00
+1/8 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Eb 1/4 von=24
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT A' 1/2 von=52
+1/2 TR 1 CH 1 NT Db'' 1/2 von=58
+1/2 TR 2 CH 1 NT A- 1/4
+3/4 TR 2 CH 1 NT F 1/4 von=27
+1 TR 0 CH 16 Tempo 51
+1 TR 2 CH 1 NT Ab- 1/4 von=27
+1+1/4 TR 1 CH 1 NT Db' 1/4 von=46
+1+1/4 TR 1 CH 1 NT Gb' 1/4 von=60
+1+1/4 TR 2 CH 1 NT Gb 1/4
+1+1/2 TR 0 CH 16 Tempo 49
+1+1/2 TR 2 CH 1 NT Ab-- 1/4 von=30
+1+8/15 TR 2 CH 1 ST &B0 &40 &00
+1+61/96 TR 2 CH 1 ST &B0 &40 &7F
+1+3/4 TR 1 CH 1 NT Ab' 1/4 von=62
+1+3/4 TR 1 CH 1 NT Bb' 1/4 von=61
+
+0 TR 0 CH 16 Tempo 90.74
+0 TR 1 CH 1 NT Gb' 2+3/4 von=61
+0 TR 2 CH 1 NT Eb-- 1/4 von=35
+1/48 TR 3 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 87.5
+1/12 TR 0 CH 16 Tempo 95.86
+1/8 TR 1 CH 1 NT Ab' 1/8 von=74
+1/8 TR 2 CH 1 ST &B0 &40 &7F
+1/6 TR 0 CH 16 Tempo 99.44
+1/4 TR 0 CH 16 Tempo 95.9
+1/4 TR 1 CH 1 NT Db' 1/8 von=69
+1/4 TR 1 CH 1 NT Ab' 1/8 von=68
+1/4 TR 2 CH 1 NT Bb- 1/4 von=52
+23/60 TR 0 CH 16 Tempo 99.3
+7/24 TR 0 CH 16 Tempo 97.25
+1/3 TR 0 CH 16 Tempo 90.82
+11/24 TR 0 CH 16 Tempo 99.04
+1/2 TR 1 CH 1 NT Db'' 1/4 von=78
+1/2 TR 2 CH 1 NT F 1/4 von=52
+3/4 TR 1 CH 1 NT C' 1/4 von=61
+3/4 TR 2 CH 1 NT Fb 1/4 von=48
+1 TR 1 CH 1 NT Ab' 1/12 von=62
+1 TR 2 CH 1 NT Ab- 1/4 von=45
+1+1/4 TR 0 CH 16 Tempo 113.29
+1+1/4 TR 1 CH 1 NT Ab' 1/12 von=61
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=42
+1+1/3 TR 1 CH 1 NT Db'' 1/12 von=63
+1+1/3 TR 1 CH 1 NT C'' 1/12 von=72
+1+5/12 TR 1 CH 1 NT Ab' 1/12 von=67
+1+1/2 TR 0 CH 16 Tempo 120.88
+1+1/2 TR 1 CH 1 NT Db'' 1/4 von=69
+1+1/2 TR 1 CH 1 NT Ab' 1/4 von=60
+1+1/2 TR 2 CH 1 NT Ab-- 1/4 von=38
+1+251/480 TR 2 CH 1 ST &B0 &40 &00
+1+3/4 TR 1 CH 1 NT Eb'' 1/4 von=78
+1+3/4 TR 2 CH 1 NT Ab 1/4
+1+11/12 TR 0 CH 16 Tempo 114.5
+2 TR 0 CH 16 Tempo 116
+2 TR 1 CH 1 NT Eb'' 1/4 von=55
+2 TR 2 CH 1 NT Ab- 1/4 von=37
+2+3/80 TR 2 CH 1 ST &B0 &40 &00
+2+1/24 TR 0 CH 16 Tempo 128.5
+2+1/8 TR 0 CH 16 Tempo 113.13
+2+1/8 TR 0 CH 16 Tempo 108.95
+2+1/6 TR 0 CH 16 Tempo 108.17
+2+1/6 TR 1 CH 1 NT Db'' 1/6 von=56
+2+1/4 TR 1 CH 1 NT Eb'' 1/12 von=61
+2+1/4 TR 2 CH 1 NT Eb 1/4 von=36
+2+3/8 TR 0 CH 16 Tempo 109.5
+2+1/2 TR 0 CH 16 Tempo 98.2
+2+1/2 TR 1 CH 1 NT Eb' 1/6 von=50
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+7/12 TR 0 CH 16 Tempo 100.5
+2+5/8 TR 0 CH 16 Tempo 98.5
+2+5/8 TR 0 CH 16 Tempo 98.5
+2+2/3 TR 1 CH 1 NT Db' 1/12 von=54
+2+2/3 TR 1 CH 1 NT F' 1/12 von=57
+2+2/3 TR 1 CH 1 NT G' 1/12 von=60
+2+17/24 TR 0 CH 16 Tempo 99
+2+3/4 TR 1 CH 1 NT Ab' 1/4 von=68
+2+3/4 TR 2 CH 1 NT A 1/4 von=38
+2+5/6 TR 1 CH 1 NT Db'' 1/12 von=65
+2+11/12 TR 1 CH 1 NT Db'' 1/12 von=62
+2+11/12 TR 1 CH 1 NT Eb'' 1/12 von=61
+
+0 TR 0 CH 16 Tempo 92.5
+0 TR 1 CH 1 NT Ab' 1/12 von=61
+0 TR 2 CH 1 NT F- 1/4 von=34
+1/32 TR 2 CH 1 ST &B0 &40 &00
+19/160 TR 2 CH 1 ST &B0 &40 &7F
+1/8 TR 1 CH 1 NT Eb' 1/8 von=53
+1/6 TR 1 CH 1 NT Ab' 1/16 von=49
+1/4 TR 0 CH 16 Tempo 94.86
+1/4 TR 1 CH 1 NT G' 1/8 von=55
+1/4 TR 2 CH 1 NT F 1/4 von=35
+1/2 TR 1 CH 1 NT C'' 1/4 von=69
+1/2 TR 2 CH 1 NT F- 1/4
+3/4 TR 1 CH 1 NT F' 1/4
+3/4 TR 2 CH 1 NT G- 1/4
+1 TR 1 CH 1 NT F' 1/4 von=53
+1 TR 2 CH 1 NT Eb- 1/4 von=37
+1+17/480 TR 3 CH 1 ST &B0 &40 &00
+1+19/160 TR 3 CH 1 ST &B0 &40 &7F
+1+1/4 TR 1 CH 1 NT Cb' 1/4 von=41
+1+1/4 TR 1 CH 1 NT F' 1/4
+1+1/4 TR 1 CH 1 NT Fb' 1/4 von=55
+1+1/4 TR 2 CH 1 NT Fb 1/4 von=33
+1+1/2 TR 0 CH 16 Tempo 93.72
+1+1/2 TR 1 CH 1 NT Fb' 1/4 von=48
+1+1/2 TR 1 CH 1 NT Db'' 1/3 von=59
+1+1/2 TR 2 CH 1 NT Db- 1/4
+1+2/3 TR 1 CH 1 NT Eb' 1/3 von=56
+1+2/3 TR 1 CH 1 NT Ab' 1/3 von=61
+1+3/4 TR 2 CH 1 NT Cb 1/4 von=28
+
+0 TR 0 CH 16 Tempo 84.81
+0 TR 1 CH 1 NT Cb'' 1/2 von=56
+0 TR 2 CH 1 NT Db- 1/4 von=31
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/24 TR 0 CH 16 Tempo 43
+1/8 TR 0 CH 16 Tempo 44.5
+23/240 TR 2 CH 1 ST &B0 &40 &7F
+1/8 TR 0 CH 16 Tempo 45.5
+1/6 TR 0 CH 16 Tempo 46.5
+5/24 TR 0 CH 16 Tempo 46.5
+1/4 TR 2 CH 1 NT Db 1/4 von=28
+7/24 TR 0 CH 16 Tempo 47.5
+3/4 TR 0 CH 16 Tempo 49.5
+3/4 TR 2 CH 1 NT Fb- 1/4 von=22
+1 TR 1 CH 1 NT Gb' 3/16 von=50
+1 TR 2 CH 1 NT Eb- 1/4 von=30
+1+1/12 TR 0 CH 16 Tempo 43
+1+1/6 TR 1 CH 1 NT Cb' 1/6 von=58
+1+1/4 TR 1 CH 1 NT Eb' 1/6 von=61
+1+1/4 TR 2 CH 1 NT Fb- 1/4
+1+1/3 TR 2 CH 1 NT Ab 1/6
+1+1/2 TR 0 CH 16 Tempo 86
+1+1/2 TR 2 CH 1 NT Ab- 1/4 von=47
+1+2/3 TR 0 CH 16 Tempo 48
+1+2/3 TR 1 CH 1 NT Cb' 1/12 von=54
+1+2/3 TR 1 CH 1 NT Db' 1/12 von=58
+1+2/3 TR 1 CH 1 NT Ab' 1/6 von=71
+1+3/4 TR 2 CH 1 NT Db 1/4
+1+5/6 TR 1 CH 1 NT Eb' 1/6
+2 TR 0 CH 16 Tempo 47
+2 TR 1 CH 1 NT Db' 3/8 von=58
+2 TR 2 CH 1 NT Ab- 1/4
+2+1/6 TR 1 CH 1 NT Db' 1/6 von=57
+2+1/6 TR 1 CH 1 NT Eb'' 1/6 von=68
+2+1/4 TR 1 CH 1 NT Db'' 1/6
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+1/3 TR 1 CH 1 NT Db'' 1/6 von=71
+2+1/3 TR 1 CH 1 NT Cb'' 1/6 von=61
+2+1/2 TR 0 CH 16 Tempo 48
+2+1/2 TR 1 CH 1 NT C'' 1/6 von=70
+2+1/2 TR 1 CH 1 NT Ab' 1/6 von=52
+2+1/2 TR 2 CH 1 NT Fb 1/4 von=49
+2+1/2 TR 2 CH 1 NT Db 1/6
+2+1/2 TR 2 CH 1 NT Gb 1/4
+2+1/2 TR 2 CH 1 NT F 1/6
+2+1/2 TR 2 CH 1 NT Gb 1/6 von=43
+2+1/2 TR 2 CH 1 NT Cb' 1/4 von=50
+2+13/24 TR 0 CH 16 Tempo 47.5
+2+7/12 TR 0 CH 16 Tempo 46.5
+2+5/8 TR 0 CH 16 Tempo 45.5
+2+5/8 TR 1 CH 1 NT Gb'' 1/8 von=71
+2+41/60 TR 0 CH 16 Tempo 43.5
+2+3/4 TR 1 CH 1 NT C'' 1/12 von=63
+2+3/4 TR 2 CH 1 NT Ab 1/8 von=46
+2+5/6 TR 1 CH 1 NT Bb' 1/10 von=58
+2+5/6 TR 1 CH 1 NT Db'' 1/12 von=72
+2+11/12 TR 1 CH 1 NT Db'' 1/12 von=70
+2+23/24 TR 0 CH 16 Tempo 50.5
+
+0 TR 0 CH 16 Tempo 45.5
+0 TR 1 CH 1 NT Ab' 1/4 von=77
+0 TR 1 CH 1 NT Eb'' 1/4
+0 TR 1 CH 1 NT C'' 1/4
+0 TR 2 CH 1 NT Ab-- 1/4 von=55
+1/4 TR 2 CH 1 NT Eb 1/4 von=56
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Eb' 1/4 von=57
+1/2 TR 1 CH 1 NT Ab' 1/4 von=67
+1/2 TR 2 CH 1 NT Gb 1/4 von=50
+3/4 TR 0 CH 16 Tempo 50.5
+3/4 TR 2 CH 1 NT Eb- 1/4 von=41
+1 TR 0 CH 16 Tempo 50
+1 TR 1 CH 1 NT Ab' 1/4 von=58
+1 TR 1 CH 1 NT C'' 1/4 von=75
+1 TR 2 CH 1 NT Bb- 1/4
+1+1/4 TR 1 CH 1 NT Eb'' 1/4 von=55
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=58
+1+1/2 TR 0 CH 16 Tempo 50.5
+1+1/2 TR 1 CH 1 NT Eb' 1/4
+1+1/2 TR 2 CH 1 NT F- 1 von=30
+1+1/2 TR 2 CH 1 NT Ab- 1 von=38
+1+257/480 TR 2 CH 1 ST &B0 &40 &00
+1+107/160 TR 2 CH 1 ST &B0 &40 &7F
+1+3/4 TR 0 CH 16 Tempo 78.96
+1+7/8 TR 1 CH 1 NT Ab 1/8 von=54
+1+23/24 TR 0 CH 16 Tempo 50.5
+2 TR 0 CH 16 Tempo 85.5
+2 TR 1 CH 1 NT Eb' 1/2 von=56
+2 TR 2 CH 1 NT Eb 1/2 von=37
+2 TR 2 CH 1 NT Gb 1/2 von=49
+2+13/480 TR 2 CH 1 ST &B0 &40 &00
+2+13/80 TR 2 CH 1 ST &B0 &40 &7F
+2+1/2 TR 0 CH 16 Tempo 87.9
+2+1/2 TR 1 CH 1 NT F' 1/4 von=67
+2+1/2 TR 2 CH 1 NT Gb-- 1/2 von=55
+2+1/2 TR 2 CH 1 NT Db 1/2 von=61
+2+3/4 TR 0 CH 16 Tempo 84.5
+2+3/4 TR 1 CH 1 NT Gb' 1/8 von=71
+2+3/4 TR 2 CH 1 NT Ab- 1/8 von=53
+2+7/8 TR 1 CH 1 NT C' 1/8
+2+3/4 TR 2 CH 1 NT Ab- 1/8 von=66
+2+7/8 TR 2 CH 1 NT Ab- 1/8 von=59
+
+0 TR 0 CH 16 Tempo 87.5
+0 TR 1 CH 1 NT Ab 1/2 von=66
+0 TR 2 CH 1 NT Bb-- 1/4 von=51
+1/60 TR 2 CH 1 ST &B0 &40 &00
+23/120 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab- 1/4
+1/2 TR 0 CH 16 Tempo 100.5
+1/2 TR 2 CH 1 NT C 1/4 von=45
+3/4 TR 2 CH 1 NT Bb 1/4 von=53
+1 TR 0 CH 16 Tempo 116
+1 TR 1 CH 1 NT Ab' 1/2 von=70
+1 TR 1 CH 1 NT Gb'' 1/2
+1 TR 2 CH 1 NT C 1/4 von=53
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=52
+
+0 TR 0 CH 16 Tempo 114
+0 TR 1 CH 1 NT G'' 2+1/4 von=87
+0 TR 1 CH 1 NT Ab' 1+1/4 von=88
+0 TR 2 CH 1 NT Bb-- 1/4 von=68
+3/160 TR 3 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 NT F 1/4 von=59
+1/2 TR 2 CH 1 NT Bb 1/4 von=55
+3/4 TR 2 CH 1 ST &B0 &40 &7F
+3/4 TR 2 CH 1 NT C 1/4
+1 TR 2 CH 1 NT Cb 1/4 von=50
+1+1/4 TR 2 CH 1 NT Db 1/4 von=57
+1+1/2 TR 2 CH 1 NT Ab- 1/4 von=52
+1+3/4 TR 2 CH 1 NT Bb 1/4 von=62
+2 TR 0 CH 16 Tempo 127
+2 TR 1 CH 1 NT F'' 23/48 von=82
+2 TR 2 CH 1 NT Db 1/4 von=54
+2+1/4 TR 2 CH 1 NT Db 1/4 von=54
+2+1/2 TR 2 CH 1 NT Db 1/4 von=55
+2+3/4 TR 2 CH 1 NT Eb 1/4
+
+0 TR 1 CH 1 NT Eb' 1/2 von=62
+0 TR 1 CH 1 NT Db' 1/2 von=62
+0 TR 1 CH 1 NT Bb' 1/2 von=78
+0 TR 2 CH 1 NT Db- 1/4 von=56
+1/32 TR 3 CH 1 ST &B0 &40 &00
+17/160 TR 3 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Eb- 1/4 von=51
+1/2 TR 0 CH 16 Tempo 114.71
+1/2 TR 1 CH 1 NT C'' 1/4 von=84
+1/2 TR 2 CH 1 NT C 1/4 von=51
+3/4 TR 2 CH 1 NT D' 1/4 von=61
+1 TR 0 CH 16 Tempo 117
+1 TR 1 CH 1 NT Gb' 1+1/2 von=72
+1 TR 2 CH 1 NT D 1/4 von=54
+1+1/4 TR 2 CH 1 NT A- 1/4 von=52
+1+1/2 TR 0 CH 16 Tempo 114.5
+1+1/2 TR 2 CH 1 NT G 1/4 von=55
+1+3/4 TR 2 CH 1 NT A 1/4 von=53
+2 TR 0 CH 16 Tempo 114.5
+2 TR 1 CH 1 NT Eb'' 1/2 von=86
+2 TR 2 CH 1 NT F 1/4 von=51
+2+1/4 TR 2 CH 1 NT Db 1/4 von=51
+2+1/2 TR 0 CH 16 Tempo 118.64
+2+1/2 TR 1 CH 1 NT Eb' 1/4 von=63
+2+1/2 TR 1 CH 1 NT Gb' 1/4 von=67
+2+1/2 TR 1 CH 1 NT Gb' 1/4 von=74
+2+1/2 TR 2 CH 1 NT Gb 1/4 von=60
+2+3/4 TR 0 CH 16 Tempo 129.83
+
+0 TR 0 CH 16 Tempo 121.5
+0 TR 1 CH 1 NT A' 1/4 von=82
+0 TR 1 CH 1 NT Ab' 1/4 von=77
+0 TR 2 CH 1 NT Db- 1/4 von=59
+1/48 TR 3 CH 1 ST &B0 &40 &00
+53/480 TR 3 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Gb- 1/4 von=48
+1/2 TR 0 CH 16 Tempo 114.5
+1/2 TR 1 CH 1 NT C'' 1/4 von=67
+1/2 TR 2 CH 1 NT F 1/4 von=50
+3/4 TR 2 CH 1 NT Ab 1/4 von=54
+1 TR 0 CH 16 Tempo 125.5
+1 TR 1 CH 1 NT Ab' 3/4 von=77
+1 TR 2 CH 1 NT Eb 1/4 von=50
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=49
+
+0 TR 0 CH 16 Tempo 116
+0 TR 1 CH 1 NT Eb'' 1/2 von=82
+0 TR 1 CH 1 NT Gb'' 1/2
+0 TR 2 CH 1 NT Db-- 1/4 von=65
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/24 TR 0 CH 16 Tempo 117
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Cb 1/4 von=50
+1/2 TR 2 CH 1 NT Eb- 1/4 von=52
+3/4 TR 2 CH 1 NT Ab- 1/4 von=51
+1 TR 2 CH 1 NT A- 1/4 von=50
+1+1/4 TR 2 CH 1 NT A-- 1/4 von=52
+1+1/2 TR 2 CH 1 NT A- 1/4
+1+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 0 CH 16 Tempo 126
+0 TR 1 CH 1 NT Bb' 1+1/2 von=86
+0 TR 1 CH 1 NT Ab' 2+1/4
+0 TR 2 CH 1 NT Db 1/4 von=59
+1/4 TR 1 CH 1 NT Db' 1/4 von=51
+1/4 TR 1 CH 1 NT Eb' 1/4 von=71
+1/4 TR 2 CH 1 NT Bb- 1/4 von=42
+1/3 TR 0 CH 16 Tempo 127.5
+3/8 TR 0 CH 16 Tempo 113.5
+11/24 TR 0 CH 16 Tempo 115.5
+1/2 TR 1 CH 1 NT Gb' 1/12 von=67
+1/2 TR 2 CH 1 NT F- 1/4 von=43
+7/12 TR 0 CH 16 Tempo 128.5
+3/4 TR 0 CH 16 Tempo 111
+3/4 TR 2 CH 1 NT Ab 1/4 von=48
+5/6 TR 0 CH 16 Tempo 116.5
+11/12 TR 0 CH 16 Tempo 113
+1 TR 0 CH 16 Tempo 112.5
+1 TR 1 CH 1 NT Eb' 1/2
+1 TR 1 CH 1 NT D'' 1/2 von=78
+1 TR 2 CH 1 NT Db 1/4 von=43
+1+1/60 TR 2 CH 1 ST &B0 &40 &00
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 0 CH 16 Tempo 104.5
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Db 1/4 von=41
+
+0 TR 0 CH 16 Tempo 103.5
+0 TR 1 CH 1 NT Eb' 2 von=67
+0 TR 2 CH 1 NT Db- 1/4 von=35
+1/30 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 139.5
+1/12 TR 0 CH 16 Tempo 113.5
+13/120 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 0 CH 16 Tempo 118.5
+1/4 TR 2 CH 1 NT Ab- 1/4 von=37
+3/8 TR 1 CH 1 NT Ab' 1/8 von=57
+1/2 TR 0 CH 16 Tempo 119.5
+1/2 TR 1 CH 1 NT Ab' 1/4 von=68
+1/2 TR 2 CH 1 NT Gb- 1/4
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 2 CH 1 NT Gb- 1/4 von=39
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+
+0 TR 1 CH 1 NT Ab' 2 von=66
+0 TR 2 CH 1 NT Ab-- 1/4 von=32
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab- 1/4 von=35
+1/2 TR 2 CH 1 NT Ab- 1/4 von=41
+3/4 TR 2 CH 1 NT Db 1/4 von=41
+1 TR 2 CH 1 NT Ab- 1/4 von=39
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=34
+
+0 TR 0 CH 16 Tempo 110
+0 TR 1 CH 1 NT Db'' 1+1/2 von=62
+0 TR 2 CH 1 NT Eb- 1/4 von=35
+11/480 TR 2 CH 1 ST &B0 &40 &00
+1/8 TR 0 CH 16 Tempo 110.5
+1/8 TR 1 CH 1 NT Ab' 1/8 von=57
+1/4 TR 0 CH 16 Tempo 131.5
+1/4 TR 2 CH 1 NT Ab- 1/4 von=39
+1/3 TR 0 CH 16 Tempo 136
+1/2 TR 0 CH 16 Tempo 114
+1/2 TR 1 CH 1 NT F' 1/4 von=68
+1/2 TR 2 CH 1 NT Bb- 1/4 von=38
+3/4 TR 2 CH 1 NT F 1/4 von=48
+1 TR 2 CH 1 NT Db 1/4 von=42
+1+1/4 TR 2 CH 1 NT Ab-- 1/4 von=41
+
+0 TR 0 CH 16 Tempo 119.5
+0 TR 1 CH 1 NT Ab' 1/2 von=70
+0 TR 1 CH 1 NT Db'' 1/2
+0 TR 2 CH 1 NT Ab-- 1/4 von=30
+1/40 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Cb 1/4 von=34
+3/8 TR 1 CH 1 NT Db'' 1/8 von=54
+1/2 TR 1 CH 1 NT Db'' 1/4 von=62
+1/2 TR 2 CH 1 NT Gb- 1/4 von=35
+3/4 TR 1 CH 1 NT Ab'' 1/4 von=66
+3/4 TR 2 CH 1 NT Bb 1/4 von=43
+1 TR 0 CH 16 Tempo 116.5
+1 TR 1 CH 1 NT Eb'' 1/4 von=69
+1 TR 1 CH 1 NT G'' 1/4 von=77
+1 TR 2 CH 1 NT C' 1/4 von=44
+1 TR 2 CH 1 NT F' 1/4 von=43
+1+1/4 TR 0 CH 16 Tempo 125.3
+1+1/4 TR 1 CH 1 NT Eb'' 1/4 von=53
+1+1/4 TR 2 CH 1 NT F 1/4 von=33
+1+1/2 TR 1 CH 1 NT G'' 1/4 von=68
+1+1/2 TR 2 CH 1 NT F 1/4 von=34
+1+251/480 TR 2 CH 1 ST &B0 &40 &00
+1+3/4 TR 1 CH 1 NT Ab' 1/4 von=55
+1+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 0 CH 16 Tempo 104
+0 TR 1 CH 1 NT G' 1/4 von=57
+0 TR 2 CH 1 NT Bb-- 1/4 von=33
+3/160 TR 2 CH 1 ST &B0 &40 &00
+47/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Eb 1/4 von=31
+1/2 TR 0 CH 16 Tempo 109
+1/2 TR 2 CH 1 NT Eb 1/4
+3/4 TR 2 CH 1 NT Cb' 1/4
+1 TR 1 CH 1 NT Eb' 1/2 von=52
+1 TR 1 CH 1 NT Db'' 1/2 von=56
+1 TR 2 CH 1 NT Ab- 1/4 von=35
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=34
+
+0 TR 0 CH 16 Tempo 152
+0 TR 1 CH 1 NT F' 1/2 von=52
+0 TR 1 CH 1 NT Gb' 1/2 von=57
+0 TR 2 CH 1 NT Ab-- 1/4 von=35
+1/48 TR 2 CH 1 ST &B0 &40 &00
+11/96 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Fb 1/4 von=39
+1/2 TR 2 CH 1 NT F 1/4 von=37
+3/4 TR 2 CH 1 NT Ab 1/4 von=39
+1 TR 1 CH 1 NT Ab' 1/2 von=60
+1 TR 1 CH 1 NT Eb'' 1/2 von=66
+1 TR 2 CH 1 NT Gb 1/4 von=39
+1+1/4 TR 2 CH 1 NT Bb- 1/4 von=36
+
+0 TR 1 CH 1 NT Db' 1+1/2 von=63
+0 TR 1 CH 1 NT Gb' 1+1/2
+0 TR 2 CH 1 NT Db- 1/4
+1/40 TR 2 CH 1 ST &B0 &40 &00
+33/160 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab- 1/4 von=34
+1/2 TR 2 CH 1 NT Fb 1/4 von=44
+3/4 TR 2 CH 1 NT Bb 1/4 von=45
+1 TR 0 CH 16 Tempo 92.5
+1 TR 1 CH 1 NT C'' 1/2 von=62
+1 TR 1 CH 1 NT Ab' 1/2 von=64
+1 TR 1 CH 1 NT Db'' 1/2 von=73
+1 TR 2 CH 1 NT C 1/4 von=38
+1+1/4 TR 2 CH 1 NT F 1/4 von=36
+
+0 TR 0 CH 16 Tempo 103.5
+0 TR 1 CH 1 NT Db' 1/8 von=53
+0 TR 2 CH 1 NT Bb-- 1/4 von=35
+1/4 TR 0 CH 16 Tempo 90.5
+1/4 TR 1 CH 1 NT Cb' 1/4 von=52
+1/4 TR 1 CH 1 NT F' 1/4 von=65
+1/2 TR 0 CH 16 Tempo 90.7
+1/2 TR 1 CH 1 NT Bb 1/2 von=50
+1/2 TR 1 CH 1 NT Ab' 1/2
+1/2 TR 2 CH 1 NT Eb 1/4 von=42
+3/4 TR 2 CH 1 NT C' 1/4 von=37
+1 TR 0 CH 16 Tempo 82.5
+1 TR 1 CH 1 NT G' 1 von=63
+1 TR 2 CH 1 NT C 1/4
+1+1/4 TR 1 CH 1 NT G' 1/4 von=57
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=68
+1+1/4 TR 2 CH 1 NT C 1/4
+1+1/2 TR 0 CH 16 Tempo 87.5
+1+1/2 TR 2 CH 1 NT C 1/4 von=36
+1+2/3 TR 1 CH 1 NT Eb' 1/6
+1+3/4 TR 2 CH 1 NT C 1/4
+1+13/24 TR 0 CH 16 Tempo 97
+1+5/6 TR 1 CH 1 NT Gb' 1/6 von=54
+1+5/6 TR 1 CH 1 NT F' 1/6 von=52
+
+0 TR 0 CH 16 Tempo 90.28
+0 TR 1 CH 1 NT Gb' 3/16 von=56
+0 TR 2 CH 1 NT Eb- 17/48 von=44
+1/6 TR 0 CH 16 Tempo 106.19
+1/6 TR 1 CH 1 NT G' 3/16 von=48
+1/3 TR 0 CH 16 Tempo 105.75
+1/3 TR 1 CH 1 NT Gb' 3/16 von=52
+1/3 TR 2 CH 1 NT Eb 17/48 von=32
+1/2 TR 1 CH 1 NT C' 3/16 von=52
+2/3 TR 1 CH 1 NT Gb' 3/16
+2/3 TR 2 CH 1 NT C 1/3 von=34
+5/6 TR 0 CH 16 Tempo 103.34
+5/6 TR 1 CH 1 NT F' 1/6 von=53
+1 TR 0 CH 16 Tempo 109.63
+1 TR 1 CH 1 NT G' 3/16 von=67
+1 TR 2 CH 1 NT D- 17/48 von=46
+1+1/32 TR 2 CH 1 ST &B0 &40 &00
+1+11/96 TR 2 CH 1 ST &B0 &40 &7F
+1+1/6 TR 1 CH 1 NT Eb' 3/16 von=50
+1+1/3 TR 1 CH 1 NT C' 3/16 von=53
+1+1/3 TR 2 CH 1 NT F 17/48 von=34
+1+1/2 TR 1 CH 1 NT Eb' 3/16
+1+2/3 TR 1 CH 1 NT Eb' 3/16
+1+2/3 TR 2 CH 1 NT Gb 1/3
+1+5/6 TR 1 CH 1 NT C' 1/6 von=55
+2 TR 0 CH 16 Tempo 103.28
+2 TR 1 CH 1 NT Eb' 1/6 von=60
+2 TR 2 CH 1 NT C- 1/4 von=48
+2+1/8 TR 1 CH 1 NT F' 1/8 von=63
+2+1/6 TR 0 CH 16 Tempo 107.1
+2+1/6 TR 1 CH 1 NT Ab' 1/6 von=63
+2+1/4 TR 0 CH 16 Tempo 99.83
+2+1/4 TR 1 CH 1 NT Cb'' 1/12 von=64
+2+1/3 TR 0 CH 16 Tempo 98.6
+2+1/3 TR 1 CH 1 NT Ab' 1/12 von=63
+2+1/3 TR 2 CH 1 NT Db' 1/6
+2+1/2 TR 0 CH 16 Tempo 97.5
+2+1/2 TR 1 CH 1 NT F'' 1/12 von=71
+2+1/2 TR 1 CH 1 NT Ab'' 1/4 von=75
+2+1/2 TR 2 CH 1 NT Ab 1/4 von=52
+2+1/2 TR 2 CH 1 NT Db 1/2 von=42
+2+1/2 TR 2 CH 1 NT G 1/2 von=47
+2+1/2 TR 2 CH 1 NT F 1/2 von=54
+2+1/2 TR 2 CH 1 NT Eb 1/2 von=51
+2+5/8 TR 1 CH 1 NT C'' 1/8
+2+3/4 TR 1 CH 1 NT Eb'' 1/8
+2+3/4 TR 2 CH 1 NT F 1/4 von=54
+2+5/6 TR 1 CH 1 NT G' 1/12 von=61
+
+0 TR 0 CH 16 Tempo 96.75
+0 TR 1 CH 1 NT C''' 1/4 von=85
+0 TR 2 CH 1 NT A-- 1/4 von=54
+1/40 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 94
+23/160 TR 2 CH 1 ST &B0 &40 &7F
+11/80 TR 0 CH 16 Tempo 98.5
+1/4 TR 0 CH 16 Tempo 92.5
+1/4 TR 1 CH 1 NT Db'' 1/8 von=68
+1/4 TR 2 CH 1 NT Ab 1/4 von=53
+1/3 TR 0 CH 16 Tempo 92.5
+5/12 TR 0 CH 16 Tempo 94.5
+1/2 TR 0 CH 16 Tempo 93.48
+1/2 TR 1 CH 1 NT Db'' 3/16 von=69
+1/2 TR 2 CH 1 NT Db 1/4 von=48
+3/4 TR 1 CH 1 NT A' 1/4 von=70
+3/4 TR 1 CH 1 NT Db'' 1/4 von=68
+3/4 TR 2 CH 1 NT Ab- 1/4
+1 TR 0 CH 16 Tempo 106
+1 TR 1 CH 1 NT Gb'' 1/4 von=81
+1 TR 1 CH 1 NT Db' 1/4 von=62
+1 TR 2 CH 1 NT D- 1/4 von=66
+1+1/30 TR 2 CH 1 ST &B0 &40 &00
+1+1/6 TR 2 CH 1 ST &B0 &40 &7F
+1+1/4 TR 2 CH 1 NT Eb 1/4 von=51
+1+1/2 TR 0 CH 16 Tempo 88.5
+1+1/2 TR 1 CH 1 NT Eb' 1/2 von=67
+1+1/2 TR 1 CH 1 NT C'' 1/2 von=71
+1+1/2 TR 2 CH 1 NT F 1/4 von=55
+1+3/4 TR 2 CH 1 NT C 1/4
+2 TR 0 CH 16 Tempo 85
+2 TR 1 CH 1 NT Gb' 2 von=72
+2 TR 2 CH 1 NT Ab-- 1/4
+2+1/4 TR 0 CH 16 Tempo 49.5
+2+1/4 TR 1 CH 1 NT Eb' 1/4
+2+1/4 TR 2 CH 1 NT Eb 1/4
+2+11/24 TR 0 CH 16 Tempo 47.5
+2+1/2 TR 1 CH 1 NT F' 1/4 von=58
+2+1/2 TR 2 CH 1 NT Gb-- 1/4 von=53
+2+13/24 TR 0 CH 16 Tempo 47.31
+2+11/24 TR 0 CH 16 Tempo 46
+2+5/8 TR 0 CH 16 Tempo 47.5
+2+2/3 TR 0 CH 16 Tempo 44.5
+2+17/24 TR 2 CH 1 NT Ab-- 1/4
+2+19/24 TR 0 CH 16 Tempo 47.5
+2+11/12 TR 0 CH 16 Tempo 47.5
+2+11/12 TR 0 CH 16 Tempo 45.5
+2+23/24 TR 0 CH 16 Tempo 46.5
+
+0 TR 0 CH 16 Tempo 48.5
+0 TR 1 CH 1 NT Db 1/3 von=54
+0 TR 1 CH 1 NT Db' 1+1/2 von=57
+0 TR 2 CH 1 NT Ab-- 1/4 von=37
+1/80 TR 2 CH 1 ST &B0 &40 &00
+29/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Db- 1/4 von=40
+1/3 TR 1 CH 1 NT Db' 1/3 von=58
+1/3 TR 1 CH 1 NT Ab' 1/3 von=76
+1/3 TR 2 CH 1 NT Fb 1/4
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Eb 1/4
+1 TR 0 CH 16 Tempo 50.5
+1 TR 2 CH 1 NT Gb- 1/4 von=33
+1+1/4 TR 1 CH 1 NT Cb' 1/4 von=58
+1+1/4 TR 2 CH 1 NT Fb- 1/4
+1+1/2 TR 0 CH 16 Tempo 49.5
+1+1/2 TR 1 CH 1 NT D' 1/4 von=64
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 0 CH 16 Tempo 47.5
+0 TR 1 CH 1 NT F' 1+1/2 von=73
+0 TR 2 CH 1 NT Db- 1/4 von=25
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 48
+1/8 TR 0 CH 16 Tempo 47
+1/6 TR 0 CH 16 Tempo 48
+1/4 TR 0 CH 16 Tempo 47.5
+1/4 TR 2 CH 1 NT Ab- 1/4 von=23
+31/120 TR 2 CH 1 ST &B0 &40 &7F
+1/3 TR 0 CH 16 Tempo 48
+1/2 TR 0 CH 16 Tempo 52
+1/2 TR 2 CH 1 NT Gb- 1/4
+3/4 TR 2 CH 1 NT Gb 1/4
+1 TR 2 CH 1 NT Db 1/4 von=28
+1+1/4 TR 0 CH 16 Tempo 48
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 1 CH 1 NT Db'' 1/2 von=56
+1+1/2 TR 1 CH 1 NT Bb' 1/2
+1+1/2 TR 2 CH 1 NT Cb 1/4
+1+2/3 TR 0 CH 16 Tempo 48
+1+17/24 TR 0 CH 16 Tempo 46.5
+1+3/4 TR 0 CH 16 Tempo 46.5
+1+3/4 TR 2 CH 1 NT F- 1/4
+1+5/6 TR 1 CH 1 NT Eb' 1/12 von=52
+1+5/6 TR 1 CH 1 NT Eb'' 1/12 von=68
+2 TR 1 CH 1 NT Fb' 1/12 von=63
+2 TR 2 CH 1 NT Ab-- 1/4 von=52
+2 TR 2 CH 1 NT Ab- 1/4
+2+1/4 TR 0 CH 16 Tempo 48.5
+2+1/4 TR 1 CH 1 NT Ab' 1/12 von=66
+2+1/4 TR 2 CH 1 NT F 1/4 von=31
+2+3/8 TR 1 CH 1 NT Db' 1/8
+2+3/8 TR 1 CH 1 NT Ab' 1/8
+2+1/2 TR 0 CH 16 Tempo 48.5
+2+1/2 TR 1 CH 1 NT Ab' 1/8 von=64
+2+1/2 TR 2 CH 1 NT Eb 1/4 von=33
+2+13/24 TR 0 CH 16 Tempo 42
+2+7/12 TR 0 CH 16 Tempo 48
+2+5/8 TR 0 CH 16 Tempo 43
+2+2/3 TR 0 CH 16 Tempo 47
+2+17/24 TR 0 CH 16 Tempo 47.5
+2+3/4 TR 0 CH 16 Tempo 48
+2+3/4 TR 2 CH 1 NT F- 1/4 von=31
+2+5/6 TR 0 CH 16 Tempo 45
+2+5/6 TR 1 CH 1 NT C' 1/12 von=51
+2+5/6 TR 1 CH 1 NT Ab' 1/12 von=61
+2+11/12 TR 1 CH 1 NT Ab' 1/12 von=71
+
+0 TR 0 CH 16 Tempo 47
+0 TR 1 CH 1 NT Db' 1/4 von=65
+0 TR 1 CH 1 NT Gb' 1/4 von=80
+0 TR 2 CH 1 NT Bb-- 1/4 von=54
+11/480 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Gb 1/4 von=25
+1/2 TR 0 CH 16 Tempo 50
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Fb 1/4
+1 TR 0 CH 16 Tempo 50
+1 TR 2 CH 1 NT Db 1/4
+1+1/4 TR 0 CH 16 Tempo 47
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 0 CH 16 Tempo 48.5
+1+1/2 TR 1 CH 1 NT C'' 1/2 von=66
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Ab 1/4
+2 TR 2 CH 1 NT Ab- 1/4
+2+1/4 TR 2 CH 1 NT A 1/4
+2+1/2 TR 2 CH 1 NT Ab 1/4
+2+251/480 TR 2 CH 1 ST &B0 &40 &00
+2+67/96 TR 2 CH 1 ST &B0 &40 &7F
+2+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 0 CH 16 Tempo 45
+0 TR 1 CH 1 NT F' 1/2 von=61
+0 TR 1 CH 1 NT Db'' 1/2
+0 TR 1 CH 1 NT Ab' 1/2 von=61
+0 TR 2 CH 1 NT Db- 1/4 von=30
+11/480 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 48.5
+53/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Db 1/4 von=30
+3/8 TR 1 CH 1 NT Ab'' 1/8 von=67
+1/2 TR 0 CH 16 Tempo 51
+1/2 TR 1 CH 1 NT Gb' 1/4 von=60
+1/2 TR 1 CH 1 NT Ab' 3/4 von=55
+1/2 TR 2 CH 1 NT Eb 1/4
+3/4 TR 2 CH 1 NT F 1/4
+1 TR 2 CH 1 NT Gb 1/4 von=38
+1+1/4 TR 0 CH 16 Tempo 49
+1+1/4 TR 1 CH 1 NT Eb' 1/4 von=58
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=60
+1+1/4 TR 2 CH 1 NT Ab 1/4 von=30
+1+1/2 TR 0 CH 16 Tempo 49.5
+1+1/2 TR 1 CH 1 NT Ab' 1 von=63
+1+1/2 TR 1 CH 1 NT Db'' 1/2 von=65
+1+1/2 TR 2 CH 1 NT Db 1/4
+1+3/4 TR 2 CH 1 NT F 1/4
+
+0 TR 0 CH 16 Tempo 46
+0 TR 1 CH 1 NT F'' 1+1/2 von=75
+0 TR 2 CH 1 NT Ab- 1/4 von=30
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 47
+37/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab 1/4 von=26
+5/12 TR 0 CH 16 Tempo 48.5
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Bb' 3/16 von=42
+1/2 TR 2 CH 1 NT Ab 1/4 von=27
+1/2 TR 2 CH 1 NT Cb 1/4 von=27
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 0 CH 16 Tempo 53
+3/4 TR 1 CH 1 NT Cb'' 1/4
+3/4 TR 2 CH 1 NT Fb 1/4
+1 TR 2 CH 1 NT Ab- 1/4
+1+1/4 TR 1 CH 1 NT Ab' 1/4 von=44
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 0 CH 16 Tempo 49.5
+1+1/2 TR 1 CH 1 NT Eb' 3/4 von=50
+1+1/2 TR 2 CH 1 NT Db 1/4
+1+2/3 TR 1 CH 1 NT Ab' 1/3 von=40
+1+2/3 TR 1 CH 1 NT Db' 1/3 von=42
+1+3/4 TR 1 CH 1 NT C'' 1/4 von=29
+1+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 1 CH 1 NT Db' 1 von=40
+1/48 TR 2 CH 1 ST &B0 &40 &00
+23/120 TR 2 CH 1 ST &B0 &40 &7F
+1/2 TR 1 CH 1 NT C' 1/4 von=42
+1/2 TR 1 CH 1 NT A' 1/4
+1/2 TR 2 CH 1 NT C 1/4 von=33
+7/12 TR 0 CH 16 Tempo 84.7
+2/3 TR 0 CH 16 Tempo 85.87
+3/4 TR 1 CH 1 NT Ab' 1/4 von=40
+3/4 TR 2 CH 1 NT G 1/4 von=28
+1 TR 0 CH 16 Tempo 88
+1 TR 1 CH 1 NT Ab' 1/4 von=44
+1 TR 2 CH 1 NT C- 1/4 von=25
+1+1/4 TR 0 CH 16 Tempo 88.29
+1+1/4 TR 1 CH 1 NT Gb' 1/4 von=41
+1+1/4 TR 2 CH 1 NT Gb 1/4
+
+0 TR 0 CH 16 Tempo 81
+0 TR 1 CH 1 NT Ab' 1+1/2 von=59
+0 TR 1 CH 1 NT Ab' 1+1/2
+0 TR 2 CH 1 NT Ab- 1/4 von=29
+0 TR 2 CH 1 NT Db 1/4 von=37
+1/40 TR 3 CH 1 ST &B0 &40 &00
+13/80 TR 3 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT C 1/4 von=27
+1/2 TR 0 CH 16 Tempo 88.86
+1/2 TR 1 CH 1 NT Gb' 1/4 von=49
+1/2 TR 1 CH 1 NT Ab' 1/4 von=40
+1/2 TR 2 CH 1 NT C 1/4 von=30
+3/4 TR 2 CH 1 NT F 1/4
+1 TR 2 CH 1 NT Db 1/4 von=25
+1+1/4 TR 0 CH 16 Tempo 81.35
+1+1/4 TR 1 CH 1 NT Ab' 1/4 von=41
+1+1/4 TR 2 CH 1 NT Eb 1/4
+1+1/2 TR 0 CH 16 Tempo 50.5
+1+1/2 TR 1 CH 1 NT Ab' 3/4 von=54
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT F 1/4
+1+23/24 TR 0 CH 16 Tempo 47.39
+2 TR 1 CH 1 NT Db' 3/4 von=52
+2 TR 1 CH 1 NT Gb' 3/4 von=55
+2+1/32 TR 2 CH 1 ST &B0 &40 &00
+2+109/480 TR 2 CH 1 ST &B0 &40 &7F
+2+1/2 TR 0 CH 16 Tempo 50
+2+1/2 TR 1 CH 1 NT C'' 3/4 von=52
+2+1/2 TR 2 CH 1 NT A 1/4
+2+3/4 TR 2 CH 1 NT F 1/4
+
+0 TR 0 CH 16 Tempo 47
+0 TR 1 CH 1 NT Ab' 1+1/2 von=55
+0 TR 2 CH 1 NT Eb- 1/4 von=26
+7/480 TR 2 CH 1 ST &B0 &40 &00
+53/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab- 1/4
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Db' 1 von=57
+1/2 TR 1 CH 1 NT Ab' 1/2 von=58
+1/2 TR 2 CH 1 NT Db 1/4
+3/4 TR 2 CH 1 NT Cb 1/4
+1 TR 2 CH 1 NT Db 1/4 von=30
+1+1/4 TR 0 CH 16 Tempo 48
+1+1/4 TR 1 CH 1 NT Gb' 1/2 von=57
+1+1/4 TR 1 CH 1 NT Bb' 1/4 von=57
+1+1/4 TR 2 CH 1 NT Db 1/4
+1+1/2 TR 0 CH 16 Tempo 50.5
+1+1/2 TR 1 CH 1 NT Db' 1/2 von=51
+1+1/2 TR 1 CH 1 NT Gb' 1/2 von=56
+1+1/2 TR 2 CH 1 NT Ab- 1/4 von=30
+1+251/480 TR 2 CH 1 ST &B0 &40 &00
+1+13/24 TR 0 CH 16 Tempo 48
+1+13/24 TR 0 CH 16 Tempo 48
+1+5/8 TR 0 CH 16 Tempo 47
+1+2/3 TR 0 CH 16 Tempo 49
+1+2/3 TR 1 CH 1 NT Db' 1/12 von=55
+1+17/24 TR 0 CH 16 Tempo 46.5
+1+3/4 TR 0 CH 16 Tempo 48
+1+3/4 TR 2 CH 1 NT Ab- 1/4
+
+0 TR 0 CH 16 Tempo 46
+0 TR 1 CH 1 NT Fb' 3/4 von=68
+0 TR 2 CH 1 NT Db- 1/4 von=27
+3/160 TR 2 CH 1 ST &B0 &40 &00
+1/8 TR 0 CH 16 Tempo 48
+23/120 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab- 1/4
+1/2 TR 0 CH 16 Tempo 49
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Gb 1/4
+1 TR 2 CH 1 NT Bb- 1/4 von=25
+1+1/48 TR 2 CH 1 ST &B0 &40 &00
+1+17/96 TR 2 CH 1 ST &B0 &40 &7F
+1+1/4 TR 2 CH 1 NT Gb 1/4 von=23
+1+1/2 TR 0 CH 16 Tempo 49.5
+1+1/2 TR 1 CH 1 NT G' 1/2 von=56
+1+1/2 TR 2 CH 1 NT A-- 1/4
+1+21/40 TR 2 CH 1 ST &B0 &40 &00
+1+7/12 TR 0 CH 16 Tempo 49.5
+1+3/4 TR 2 CH 1 NT Gb- 1/4
+1+19/24 TR 0 CH 16 Tempo 48.5
+1+7/8 TR 0 CH 16 Tempo 48
+1+11/12 TR 0 CH 16 Tempo 45
+2 TR 0 CH 16 Tempo 44.5
+2 TR 1 CH 1 NT C' 1/4 von=49
+2 TR 1 CH 1 NT Eb' 1/4
+2 TR 2 CH 1 NT Ab- 1/4
+2+1/4 TR 1 CH 1 NT Eb' 1/12 von=50
+2+1/4 TR 2 CH 1 NT F 1/4 von=26
+2+3/8 TR 1 CH 1 NT Fb' 1/8 von=55
+2+7/16 TR 1 CH 1 NT Gb' 1/16
+2+1/2 TR 1 CH 1 NT Db' 1/12 von=55
+2+1/2 TR 2 CH 1 NT Ab- 1/4
+2+7/12 TR 1 CH 1 NT Db' 1/12 von=49
+2+5/8 TR 0 CH 16 Tempo 42
+2+2/3 TR 0 CH 16 Tempo 45
+2+17/24 TR 0 CH 16 Tempo 47.5
+2+3/4 TR 0 CH 16 Tempo 43
+2+3/4 TR 2 CH 1 NT Eb- 1/4
+
+0 TR 0 CH 16 Tempo 48.5
+0 TR 1 CH 1 NT Db' 3/4 von=53
+0 TR 1 CH 1 ST &B0 &5B &7F
+0 TR 2 CH 1 NT F-- 1/4 von=30
+1/80 TR 2 CH 1 ST &B0 &40 &00
+71/480 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Gb- 1/4 von=25
+1/2 TR 0 CH 16 Tempo 44.5
+1/2 TR 1 CH 1 NT Db' 1/4 von=49
+1/2 TR 2 CH 1 NT Ab- 1/4 von=27
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 2 CH 1 NT Ab- 1/4 von=28
+1+1/4 TR 2 CH 1 NT Gb- 1/4
+1+1/2 TR 1 CH 1 NT Db' 3/4 von=54
+1+1/2 TR 1 CH 1 NT Eb' 3/4 von=41
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Gb 1/4
+2 TR 0 CH 16 Tempo 46.5
+2 TR 2 CH 1 NT Ab-- 1/4
+2+1/4 TR 2 CH 1 NT Eb- 1/4
+2+1/2 TR 2 CH 1 NT Ab- 1/4
+2+2/3 TR 0 CH 16 Tempo 46.5
+2+17/24 TR 0 CH 16 Tempo 48
+2+3/4 TR 0 CH 16 Tempo 47.5
+2+3/4 TR 1 CH 1 NT Db' 1/4 von=49
+2+3/4 TR 2 CH 1 NT F 1/4 von=26
+2+11/12 TR 0 CH 16 Tempo 48
+2+11/12 TR 0 CH 16 Tempo 46
+2+11/12 TR 0 CH 16 Tempo 44.5
+2+23/24 TR 0 CH 16 Tempo 48
+
+0 TR 0 CH 16 Tempo 41.5
+0 TR 1 CH 1 NT Ab 1+1/2
+0 TR 2 CH 1 NT Db- 1/4 von=25
+1/40 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 0 CH 16 Tempo 46
+1/4 TR 2 CH 1 NT Gb- 1/4
+1/3 TR 2 CH 1 NT Ab-- 1/4
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Bb' 1/2 von=51
+1/2 TR 2 CH 1 NT F- 1/4
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 1 CH 1 NT C 1/2 von=43
+1 TR 1 CH 1 NT Ab' 1/2 von=63
+1 TR 2 CH 1 NT Db- 1/4
+1+1/4 TR 2 CH 1 NT F- 1/4
+1+1/2 TR 0 CH 16 Tempo 49
+1+1/2 TR 1 CH 1 NT Eb' 1/2 von=54
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Cb 1/4
+2 TR 2 CH 1 NT Fb- 1/4
+2+1/6 TR 0 CH 16 Tempo 49
+2+1/4 TR 0 CH 16 Tempo 49.5
+2+1/4 TR 2 CH 1 NT F 1/4 von=26
+2+5/12 TR 0 CH 16 Tempo 48.5
+2+1/2 TR 2 CH 1 NT Gb- 1/4 von=29
+2+11/24 TR 0 CH 16 Tempo 48
+2+7/12 TR 0 CH 16 Tempo 47
+2+2/3 TR 0 CH 16 Tempo 45.5
+2+17/24 TR 0 CH 16 Tempo 45
+2+3/4 TR 0 CH 16 Tempo 48.5
+2+3/4 TR 2 CH 1 NT Ab 1/4 von=28
+2+19/24 TR 0 CH 16 Tempo 42.5
+2+11/12 TR 0 CH 16 Tempo 48.5
+
+0 TR 0 CH 16 Tempo 48.5
+0 TR 1 CH 1 NT Fb'' 3/4 von=58
+0 TR 2 CH 1 NT Db 1/4
+3/160 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 48
+1/6 TR 0 CH 16 Tempo 46
+5/24 TR 0 CH 16 Tempo 49
+1/4 TR 0 CH 16 Tempo 47.5
+1/4 TR 2 CH 1 NT F 1/4 von=21
+5/12 TR 0 CH 16 Tempo 49.5
+2/3 TR 0 CH 16 Tempo 48
+3/4 TR 0 CH 16 Tempo 46.5
+3/4 TR 2 CH 1 NT Db 1/4 von=28
+11/12 TR 0 CH 16 Tempo 47
+1 TR 0 CH 16 Tempo 51.5
+1 TR 1 CH 1 NT Ab' 1/2 von=51
+1+1/2 TR 0 CH 16 Tempo 50
+1+1/2 TR 1 CH 1 NT Db' 1/2 von=57
+1+1/2 TR 2 CH 1 NT Ab- 1/2 von=30
+1+2/3 TR 1 CH 1 NT Ab 1/4 von=47
+1+2/3 TR 1 CH 1 NT Ab' 1/4 von=53
+1+3/4 TR 0 CH 16 Tempo 48.5
+1+3/4 TR 1 CH 1 NT Db'' 1/4 von=66
+1+3/4 TR 2 CH 1 NT Eb- 1/4 von=32
+1+5/6 TR 1 CH 1 NT F' 1/12 von=52
+1+7/8 TR 0 CH 16 Tempo 48.5
+1+11/12 TR 0 CH 16 Tempo 45
+1+49/40 TR 0 CH 16 Tempo 38.5
+2 TR 0 CH 16 Tempo 52
+2 TR 1 CH 1 NT F' 1/8 von=54
+2 TR 2 CH 1 NT Eb- 1/2 von=38
+2+1/8 TR 1 CH 1 NT Eb' 1/8 von=52
+2+1/6 TR 1 CH 1 NT Db' 1/16 von=52
+2+1/4 TR 0 CH 16 Tempo 57
+2+1/4 TR 1 CH 1 NT Db' 1/8 von=56
+2+1/3 TR 0 CH 16 Tempo 48.5
+2+1/3 TR 1 CH 1 NT Db' 1/12 von=44
+2+11/24 TR 0 CH 16 Tempo 80
+2+1/2 TR 0 CH 16 Tempo 40
+2+1/2 TR 1 CH 1 NT Db' 1/12 von=49
+2+1/2 TR 2 CH 1 NT Gb- 1/4 von=30
+2+5/8 TR 1 CH 1 NT Db' 1/8 von=58
+2+2/3 TR 0 CH 16 Tempo 46.5
+2+2/3 TR 1 CH 1 NT Gb' 1/12 von=56
+2+2/3 TR 1 CH 1 NT Eb' 1/12 von=50
+2+17/24 TR 0 CH 16 Tempo 44.5
+2+3/4 TR 0 CH 16 Tempo 49.5
+2+3/4 TR 2 CH 1 NT Fb 1/4 von=26
+2+5/6 TR 1 CH 1 NT Eb' 1/12 von=56
+2+11/12 TR 1 CH 1 NT Db' 1/12 von=58
+2+23/24 TR 0 CH 16 Tempo 45.5
+3 TR 1 CH 1 NT Bb' 1/4 von=64
+3 TR 2 CH 1 NT Ab- 1/4 von=34
+3+1/4 TR 0 CH 16 Tempo 47
+3+1/4 TR 1 CH 1 NT Ab' 1/12 von=51
+3+1/4 TR 2 CH 1 NT Gb 1/4 von=29
+3+11/24 TR 0 CH 16 Tempo 47.5
+3+1/2 TR 1 CH 1 NT Gb' 1/4 von=57
+3+1/2 TR 1 CH 1 NT Fb' 1/4
+3+1/2 TR 2 CH 1 NT Cb- 1/4 von=30
+3+13/24 TR 0 CH 16 Tempo 47
+3+5/8 TR 0 CH 16 Tempo 47.5
+3+17/24 TR 0 CH 16 Tempo 43.5
+3+3/4 TR 0 CH 16 Tempo 49.5
+3+3/4 TR 2 CH 1 NT Ab-- 1/4 von=28
+
+0 TR 0 CH 16 Tempo 44
+0 TR 1 CH 1 NT Bb' 1+1/2 von=78
+0 TR 2 CH 1 NT Db- 1/4
+3/80 TR 2 CH 1 ST &B0 &40 &00
+53/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 0 CH 16 Tempo 49
+1/4 TR 2 CH 1 NT Ab- 1/4 von=29
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 2 CH 1 NT F- 1/4
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 2 CH 1 NT Eb 1/4 von=35
+1+1/4 TR 0 CH 16 Tempo 46
+1+1/4 TR 2 CH 1 NT Ab-- 1/4
+1+1/2 TR 0 CH 16 Tempo 52
+1+1/2 TR 1 CH 1 NT Ab' 3/4 von=76
+1+1/2 TR 2 CH 1 NT Db- 1/4
+1+3/4 TR 2 CH 1 NT Gb 1/4
+2 TR 0 CH 16 Tempo 52
+2 TR 2 CH 1 NT Ab-- 1/4 von=38
+2+1/12 TR 0 CH 16 Tempo 47
+2+1/6 TR 0 CH 16 Tempo 47
+2+1/6 TR 1 CH 1 NT Ab' 1/12 von=60
+2+1/6 TR 1 CH 1 NT Bb 1/12 von=54
+2+1/6 TR 1 CH 1 NT Ab' 1/6 von=61
+2+1/4 TR 2 CH 1 NT D 1/4
+2+1/3 TR 0 CH 16 Tempo 48
+2+1/2 TR 0 CH 16 Tempo 50
+2+1/2 TR 1 CH 1 NT Gb' 1/4 von=64
+2+1/2 TR 2 CH 1 NT F- 1/4
+2+2/3 TR 0 CH 16 Tempo 47.5
+2+3/4 TR 0 CH 16 Tempo 48.5
+2+3/4 TR 2 CH 1 NT Fb- 1/4
+
+0 TR 0 CH 16 Tempo 47
+0 TR 1 CH 1 NT Cb' 1 von=71
+0 TR 2 CH 1 NT Ab-- 1/4 von=44
+1/80 TR 2 CH 1 ST &B0 &40 &00
+7/96 TR 2 CH 1 ST &B0 &40 &7F
+1/8 TR 0 CH 16 Tempo 47.5
+1/4 TR 0 CH 16 Tempo 47
+1/4 TR 2 CH 1 NT Fb 1/4 von=49
+1/3 TR 0 CH 16 Tempo 45
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT C' 1/4 von=51
+1/2 TR 1 CH 1 NT Gb' 1/4 von=67
+1/2 TR 2 CH 1 NT F- 1/4
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 2 CH 1 NT Gb 1/4
+1+1/4 TR 0 CH 16 Tempo 46.5
+1+1/4 TR 1 CH 1 NT Db' 1/4 von=55
+1+1/4 TR 1 CH 1 NT Db' 1/4 von=65
+1+1/4 TR 2 CH 1 NT F 1/4 von=24
+1+1/2 TR 0 CH 16 Tempo 46.87
+1+1/2 TR 1 CH 1 NT Eb' 1/4 von=54
+1+1/2 TR 1 CH 1 NT Ab' 1/4 von=71
+1+1/2 TR 2 CH 1 NT Eb- 1/4
+1+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 1 CH 1 NT Eb' 1 von=53
+0 TR 1 CH 1 NT Db' 1 von=58
+0 TR 1 CH 1 NT Eb' 1 von=63
+0 TR 2 CH 1 NT Db- 1/4 von=24
+1/48 TR 2 CH 1 ST &B0 &40 &00
+11/96 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab- 1/4 von=28
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 2 CH 1 NT Db 1/4
+3/4 TR 2 CH 1 NT C 1/4
+7/8 TR 0 CH 16 Tempo 47
+11/12 TR 0 CH 16 Tempo 50.5
+1 TR 1 CH 1 NT Db' 1/6 von=52
+1 TR 1 CH 1 NT Ab' 1/12 von=53
+1 TR 2 CH 1 NT Db- 1/4
+1+1/6 TR 1 CH 1 NT C' 1/6 von=55
+1+1/6 TR 1 CH 1 NT F' 1/6 von=59
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/3 TR 1 CH 1 NT C' 1/6 von=44
+1+1/3 TR 1 CH 1 NT F' 1/6
+1+1/3 TR 1 CH 1 NT Db' 1/6 von=57
+1+1/3 TR 1 CH 1 NT Ab' 1/6 von=56
+1+1/2 TR 0 CH 16 Tempo 51
+1+1/2 TR 1 CH 1 NT Db' 1/6 von=50
+1+1/2 TR 1 CH 1 NT Fb' 1/6 von=57
+1+1/2 TR 2 CH 1 NT Gb-- 1/4 von=29
+1+3/4 TR 0 CH 16 Tempo 45.06
+1+3/4 TR 2 CH 1 NT Db 1/4 von=22
+1+19/24 TR 0 CH 16 Tempo 44.1
+1+5/6 TR 1 CH 1 NT Eb' 1/6
+1+5/6 TR 1 CH 1 NT Ab' 1/6
+1+7/8 TR 1 CH 1 NT F' 1/8 von=53
+2 TR 0 CH 16 Tempo 48
+2 TR 1 CH 1 NT Gb 1/6 von=50
+2 TR 1 CH 1 NT G 1/6 von=52
+2 TR 2 CH 1 NT Ab-- 1/4 von=27
+2+1/12 TR 0 CH 16 Tempo 48
+2+1/12 TR 0 CH 16 Tempo 47.5
+2+1/8 TR 1 CH 1 NT Db' 1/8 von=49
+2+1/6 TR 0 CH 16 Tempo 47.5
+2+5/24 TR 0 CH 16 Tempo 47
+2+1/4 TR 0 CH 16 Tempo 47
+2+1/4 TR 1 CH 1 NT Gb' 1/12 von=51
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+5/12 TR 0 CH 16 Tempo 48.5
+2+1/2 TR 1 CH 1 NT F' 1/4 von=50
+2+1/2 TR 2 CH 1 NT A-- 1/4 von=27
+2+7/12 TR 0 CH 16 Tempo 40.89
+2+5/8 TR 0 CH 16 Tempo 42.65
+2+2/3 TR 0 CH 16 Tempo 49.24
+2+17/24 TR 0 CH 16 Tempo 40.1
+2+3/4 TR 0 CH 16 Tempo 40.7
+2+3/4 TR 2 CH 1 NT F-- 1/4
+2+19/24 TR 0 CH 16 Tempo 47.17
+2+11/12 TR 0 CH 16 Tempo 42.31
+3 TR 0 CH 16 Tempo 46.45
+3 TR 1 CH 1 NT Ab 1/4 von=48
+3 TR 2 CH 1 NT Ab- 1/4 von=24
+3+1/8 TR 0 CH 16 Tempo 45.71
+3+1/4 TR 0 CH 16 Tempo 47
+3+1/4 TR 1 CH 1 NT Eb' 1/4 von=48
+3+1/4 TR 2 CH 1 NT Eb 1/4
+3+1/2 TR 0 CH 16 Tempo 50.5
+3+1/2 TR 1 CH 1 NT C' 1/4 von=47
+3+1/2 TR 2 CH 1 NT Db 1/4
+3+7/12 TR 0 CH 16 Tempo 42.71
+3+2/3 TR 0 CH 16 Tempo 47.9
+3+2/3 TR 1 CH 1 NT B 1/3 von=47
+3+2/3 TR 1 CH 1 NT C' 1/3
+3+3/4 TR 0 CH 16 Tempo 47.95
+3+3/4 TR 2 CH 1 NT F- 1/4 von=23
+
+0 TR 0 CH 16 Tempo 46.31
+0 TR 1 CH 1 NT A 1/4 von=44
+0 TR 2 CH 1 NT Eb-- 1/4 von=30
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 48.5
+21/160 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 1 CH 1 NT Db' 1/4 von=52
+1/4 TR 2 CH 1 NT Eb 1/4 von=22
+1/2 TR 0 CH 16 Tempo 47.96
+1/2 TR 1 CH 1 NT Eb' 1/2 von=51
+1/2 TR 1 CH 1 NT Eb' 1/2 von=40
+1/2 TR 2 CH 1 NT Db- 1/4
+3/4 TR 2 CH 1 NT C 1/4
+1 TR 2 CH 1 NT Ab- 1/4
+1+1/4 TR 0 CH 16 Tempo 45.27
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 0 CH 16 Tempo 50.5
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Db 1/4
+1+7/8 TR 0 CH 16 Tempo 45
+2 TR 0 CH 16 Tempo 48
+2 TR 1 CH 1 NT Fb' 1/2 von=52
+2 TR 2 CH 1 NT Ab- 1/4
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+13/24 TR 0 CH 16 Tempo 46.5
+2+13/24 TR 0 CH 16 Tempo 47.5
+2+5/8 TR 0 CH 16 Tempo 47
+2+17/24 TR 0 CH 16 Tempo 47.5
+2+3/4 TR 0 CH 16 Tempo 45.5
+2+3/4 TR 1 CH 1 NT Ab 1/8 von=45
+2+3/4 TR 2 CH 1 NT Db 1/4
+2+5/6 TR 0 CH 16 Tempo 47.5
+2+11/12 TR 0 CH 16 Tempo 47
+2+23/24 TR 0 CH 16 Tempo 45.5
+
+0 TR 0 CH 16 Tempo 46.5
+0 TR 1 CH 1 NT Bb' 2+1/4 von=55
+0 TR 2 CH 1 NT Ab-- 1/4 von=32
+7/480 TR 2 CH 1 ST &B0 &40 &00
+23/120 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT F 1/4 von=22
+1/2 TR 0 CH 16 Tempo 28.95
+1/2 TR 2 CH 1 NT Db 1/4 von=26
+3/4 TR 0 CH 16 Tempo 48.29
+1 TR 0 CH 16 Tempo 51.32
+1 TR 1 CH 1 NT Ab' 1/3 von=57
+1 TR 1 CH 1 NT Fb' 1/3 von=50
+1 TR 2 CH 1 NT Ab- 1/4
+1+1/4 TR 1 CH 1 NT Db' 1/12
+1+1/4 TR 2 CH 1 NT Fb 1/4 von=24
+1+1/2 TR 0 CH 16 Tempo 50
+1+1/2 TR 1 CH 1 NT Ab' 1/2 von=57
+1+1/2 TR 2 CH 1 NT Ab-- 1/4
+1+1/2 TR 2 CH 1 NT Ab- 1/4 von=35
+1+1/2 TR 2 CH 1 NT Ab- 1/4 von=28
+1+2/3 TR 0 CH 16 Tempo 46.52
+1+2/3 TR 1 CH 1 NT Ab' 1/12 von=50
+1+3/4 TR 2 CH 1 NT Fb 1/4
+1+7/8 TR 1 CH 1 NT D'' 1/8 von=51
+2 TR 0 CH 16 Tempo 50
+2 TR 1 CH 1 NT Eb' 1/12 von=49
+2 TR 1 CH 1 NT Eb'' 1/8
+2 TR 2 CH 1 NT Ab 1/4
+2+1/30 TR 2 CH 1 ST &B0 &40 &00
+2+1/6 TR 1 CH 1 NT Eb' 1/6 von=50
+2+1/4 TR 0 CH 16 Tempo 47.47
+2+1/4 TR 1 CH 1 NT Bb' 1/4 von=55
+2+1/3 TR 0 CH 16 Tempo 49.68
+2+1/2 TR 1 CH 1 NT Gb' 1/12 von=53
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+3/4 TR 2 CH 1 NT C 1/4
+3 TR 2 CH 1 NT Db 1/4
+3+1/12 TR 0 CH 16 Tempo 46.5
+3+1/8 TR 0 CH 16 Tempo 45
+3+1/6 TR 0 CH 16 Tempo 45
+3+1/4 TR 0 CH 16 Tempo 47
+3+1/4 TR 2 CH 1 NT F 1/4
+3+1/3 TR 0 CH 16 Tempo 49.5
+3+5/12 TR 0 CH 16 Tempo 48
+3+1/2 TR 0 CH 16 Tempo 45
+3+1/2 TR 1 CH 1 NT Ab' 1/8 von=50
+3+1/2 TR 2 CH 1 NT Gb 1/4
+3+3/5 TR 2 CH 1 NT Db 1/4
+3+17/24 TR 0 CH 16 Tempo 49.5
+3+3/4 TR 0 CH 16 Tempo 45
+3+3/4 TR 2 CH 1 NT Ab- 1/4
+3+11/12 TR 0 CH 16 Tempo 47.5
+
+0 TR 0 CH 16 Tempo 44.5
+0 TR 1 CH 1 NT Db' 1/3 von=57
+0 TR 2 CH 1 NT Db- 1/3 von=31
+11/480 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 1 CH 1 NT Db' 1/3 von=54
+1/3 TR 1 CH 1 NT Eb' 1/3 von=50
+1/3 TR 2 CH 1 NT Ab- 1/4 von=25
+7/12 TR 0 CH 16 Tempo 50.5
+2/3 TR 1 CH 1 NT Db' 1/3 von=44
+2/3 TR 1 CH 1 NT Eb' 1/3 von=48
+2/3 TR 2 CH 1 NT Cb 1/3
+1 TR 0 CH 16 Tempo 49
+1 TR 1 CH 1 NT Db' 1 von=51
+
+0 TR 1 CH 1 NT Eb' 1+1/2 von=56
+0 TR 2 CH 1 NT Ab-- 1/4 von=28
+3/160 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Fb 1/4 von=24
+1/2 TR 0 CH 16 Tempo 55.5
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Gb 1/4
+1 TR 2 CH 1 NT Eb- 1/4
+1+1/4 TR 2 CH 1 NT F- 1/4
+1+1/2 TR 0 CH 16 Tempo 49.5
+1+1/2 TR 1 CH 1 NT F' 2/3 von=59
+1+1/2 TR 1 CH 1 NT Gb'' 3/4 von=60
+1+1/2 TR 2 CH 1 NT Fb 1/4
+1+3/4 TR 2 CH 1 NT Ab 1/4
+2 TR 0 CH 16 Tempo 49
+2 TR 1 CH 1 NT Db'' 1+1/2 von=66
+2 TR 2 CH 1 NT Ab-- 1/4 von=28
+2+1/4 TR 1 CH 1 NT Eb' 1/4 von=50
+2+1/4 TR 1 CH 1 NT Gb' 1/4 von=57
+2+1/4 TR 2 CH 1 NT Eb 1/4
+2+7/24 TR 0 CH 16 Tempo 47.5
+2+1/2 TR 1 CH 1 NT Ab' 1/4 von=55
+2+1/2 TR 2 CH 1 NT Eb 1/4
+2+5/8 TR 0 CH 16 Tempo 50
+2+3/4 TR 0 CH 16 Tempo 42.5
+2+3/4 TR 1 CH 1 NT Ab'' 1/4 von=65
+2+3/4 TR 1 CH 1 NT Bb' 1/4 von=68
+2+3/4 TR 2 CH 1 NT Eb 1/4
+
+0 TR 1 CH 1 NT C'' 1/4 von=58
+0 TR 2 CH 1 NT Db 1+1/2 von=32
+1/48 TR 2 CH 1 ST &B0 &40 &00
+17/96 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab 1/4 von=28
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 1 CH 1 NT Ab'' 1/4 von=52
+1/2 TR 2 CH 1 NT F 1/4 von=25
+3/4 TR 1 CH 1 NT Ab' 1/4 von=48
+3/4 TR 1 CH 1 NT F'' 1/4 von=50
+3/4 TR 2 CH 1 NT Bb 1/4 von=25
+1 TR 1 CH 1 NT Db'' 1/4 von=58
+1 TR 1 CH 1 NT C'' 1/4 von=56
+1 TR 2 CH 1 NT Db 1/4 von=27
+1+1/4 TR 1 CH 1 NT Gb' 1/4
+1+1/4 TR 1 CH 1 NT G' 1/4
+1+1/4 TR 1 CH 1 NT Gb'' 1/4 von=54
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 0 CH 16 Tempo 49.5
+1+1/2 TR 1 CH 1 NT C' 1/4 von=49
+1+1/2 TR 1 CH 1 NT Db'' 1/4
+1+1/2 TR 1 CH 1 NT Db' 1+1/2 von=50
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Ab 1/4
+2 TR 0 CH 16 Tempo 46.5
+2 TR 2 CH 1 NT Ab- 1/4
+2+1/4 TR 1 CH 1 NT Fb' 1/4 von=52
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+1/2 TR 0 CH 16 Tempo 47.79
+2+1/2 TR 1 CH 1 NT Eb' 1/4 von=48
+2+1/2 TR 1 CH 1 NT Eb'' 1/4 von=62
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+7/12 TR 0 CH 16 Tempo 49.5
+2+17/24 TR 0 CH 16 Tempo 46.36
+2+3/4 TR 1 CH 1 NT C' 1/4 von=50
+2+3/4 TR 2 CH 1 NT Db 1/4
+
+0 TR 0 CH 16 Tempo 47.55
+0 TR 1 CH 1 NT A' 1/4 von=52
+0 TR 2 CH 1 NT Gb- 1/4 von=24
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT F 1/4 von=21
+1/2 TR 0 CH 16 Tempo 55.98
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Ab 1/4
+1 TR 2 CH 1 NT Db 1/4
+1+1/4 TR 2 CH 1 NT F- 1/4
+1+1/2 TR 1 CH 1 NT Db' 1/3 von=46
+1+1/2 TR 2 CH 1 NT Eb- 1/4 von=24
+1+2/3 TR 0 CH 16 Tempo 47.82
+1+3/4 TR 1 CH 1 NT Bb 1/4 von=40
+1+3/4 TR 1 CH 1 NT F' 1/4
+1+3/4 TR 2 CH 1 NT Ab 1/4
+1+19/24 TR 0 CH 16 Tempo 48.7
+1+7/8 TR 0 CH 16 Tempo 47
+1+11/12 TR 0 CH 16 Tempo 46.43
+2 TR 1 CH 1 NT Gb' 1/12 von=49
+2 TR 2 CH 1 NT Bb- 1/4
+2+1/6 TR 1 CH 1 NT Db'' 1/12 von=57
+2+1/4 TR 0 CH 16 Tempo 42.5
+2+1/4 TR 1 CH 1 NT Gb' 1/4 von=47
+2+1/4 TR 2 CH 1 NT Ab 1/4
+2+7/24 TR 0 CH 16 Tempo 42.82
+2+3/8 TR 0 CH 16 Tempo 43.86
+2+11/24 TR 0 CH 16 Tempo 46.11
+2+1/2 TR 1 CH 1 NT Db'' 3/16 von=48
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+7/12 TR 0 CH 16 Tempo 46.74
+2+2/3 TR 0 CH 16 Tempo 41.66
+2+3/4 TR 0 CH 16 Tempo 44.2
+2+3/4 TR 1 CH 1 NT Ab' 3/16 von=49
+2+3/4 TR 2 CH 1 NT Gb 1/4 von=27
+2+7/8 TR 1 CH 1 NT Ab' 1/8 von=42
+2+11/12 TR 1 CH 1 NT Db'' 1/12 von=57
+
+0 TR 1 CH 1 NT Cb'' 1/12 von=52
+0 TR 2 CH 1 NT A- 1/4
+3/160 TR 2 CH 1 ST &B0 &40 &00
+1/8 TR 2 CH 1 ST &B0 &40 &7F
+1/8 TR 1 CH 1 NT Db'' 1/8 von=47
+1/4 TR 0 CH 16 Tempo 50.5
+1/4 TR 2 CH 1 NT Gb 1/4 von=24
+1/3 TR 0 CH 16 Tempo 46.02
+1/3 TR 1 CH 1 NT C'' 1/12 von=52
+1/3 TR 2 CH 1 NT F 1/3
+1/2 TR 2 CH 1 NT Db 1/4 von=28
+3/4 TR 2 CH 1 NT Gb 1/4
+3/4 TR 2 CH 1 NT Gb 1/4 von=24
+1 TR 2 CH 1 NT Ab- 1/4
+1+1/4 TR 1 CH 1 NT Eb 1/6 von=46
+1+1/4 TR 2 CH 1 NT Gb 1/4
+1+1/2 TR 0 CH 16 Tempo 48.5
+1+1/2 TR 1 CH 1 NT Gb' 1/12 von=59
+1+1/2 TR 2 CH 1 NT Gb- 1/4
+1+3/4 TR 2 CH 1 NT Gb 1/4
+2 TR 0 CH 16 Tempo 50.5
+2 TR 1 CH 1 NT Bb' 1/2 von=55
+2 TR 2 CH 1 NT Ab- 1/4
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+1/2 TR 2 CH 1 NT Ab- 1/4
+2+2/3 TR 0 CH 16 Tempo 47
+2+17/24 TR 0 CH 16 Tempo 48
+2+3/4 TR 0 CH 16 Tempo 47
+2+3/4 TR 2 CH 1 NT Eb-- 1/4 von=30
+
+0 TR 0 CH 16 Tempo 47.5
+0 TR 1 CH 1 NT Cb' 2 von=57
+0 TR 1 CH 1 ST &B0 &5B &7F
+0 TR 2 CH 1 NT Db-- 1/4 von=26
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 0 CH 16 Tempo 49.5
+1/4 TR 2 CH 1 NT Fb 1/4 von=27
+1/2 TR 0 CH 16 Tempo 50
+1/2 TR 1 CH 1 NT Db'' 1/4 von=57
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Gb 1/4
+1 TR 0 CH 16 Tempo 50.5
+1 TR 1 CH 1 NT Eb'' 23/48 von=66
+1 TR 2 CH 1 NT Db 1/4
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 0 CH 16 Tempo 46.73
+1+1/2 TR 1 CH 1 NT Gb' 1/2 von=51
+1+1/2 TR 2 CH 1 NT Gb- 1/4
+1+3/4 TR 0 CH 16 Tempo 49.65
+1+3/4 TR 2 CH 1 NT F- 1/4 von=31
+2 TR 0 CH 16 Tempo 47
+2 TR 1 CH 1 NT Gb' 1/4 von=59
+2 TR 1 CH 1 NT Ab' 1/4 von=71
+2 TR 2 CH 1 NT Db 1/4
+2+1/4 TR 0 CH 16 Tempo 48
+2+1/4 TR 2 CH 1 NT Eb 1/4
+2+1/2 TR 0 CH 16 Tempo 50.5
+2+1/2 TR 1 CH 1 NT F'' 1/2 von=68
+2+1/2 TR 2 CH 1 NT G 1/4
+2+3/4 TR 2 CH 1 NT Ab 1/4
+
+0 TR 0 CH 16 Tempo 48.5
+0 TR 1 CH 1 NT Gb' 2 von=50
+0 TR 1 CH 1 NT Bb' 2+1/4 von=83
+0 TR 2 CH 1 NT Gb- 1/4 von=43
+1/40 TR 2 CH 1 ST &B0 &40 &00
+1/24 TR 0 CH 16 Tempo 46.5
+1/12 TR 1 CH 1 NT Ab' 1/8 von=68
+1/6 TR 0 CH 16 Tempo 48.5
+5/24 TR 0 CH 16 Tempo 40
+1/6 TR 1 CH 1 NT Gb' 1/6
+1/4 TR 0 CH 16 Tempo 48
+1/4 TR 2 CH 1 NT Ab 1/4 von=25
+1/3 TR 0 CH 16 Tempo 47.5
+5/12 TR 0 CH 16 Tempo 47
+5/12 TR 0 CH 16 Tempo 48.5
+11/24 TR 0 CH 16 Tempo 46.5
+1/2 TR 0 CH 16 Tempo 50
+1/2 TR 1 CH 1 NT Ab' 3/16 von=54
+1/2 TR 2 CH 1 NT Ab- 1/4 von=27
+3/4 TR 0 CH 16 Tempo 49.5
+3/4 TR 2 CH 1 NT Db 1/4
+1 TR 0 CH 16 Tempo 48
+1 TR 1 CH 1 NT F' 2/3 von=70
+1 TR 2 CH 1 NT F 1/3 von=31
+1+1/2 TR 0 CH 16 Tempo 49.5
+1+1/2 TR 1 CH 1 NT Bb' 1/12 von=47
+1+1/2 TR 1 CH 1 NT Db' 1/8 von=57
+1+1/2 TR 1 CH 1 NT Ab' 1/8 von=62
+1+1/2 TR 2 CH 1 NT Db 1/4
+1+2/3 TR 1 CH 1 NT Ab' 1/6 von=59
+1+3/4 TR 0 CH 16 Tempo 42.5
+1+3/4 TR 2 CH 1 NT Db 1/4 von=25
+1+5/6 TR 1 CH 1 NT Db'' 1/6 von=55
+
+0 TR 0 CH 16 Tempo 45.5
+0 TR 1 CH 1 NT Eb'' 1/6 von=58
+0 TR 2 CH 1 NT Eb- 1/4 von=28
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 47.5
+53/480 TR 2 CH 1 ST &B0 &40 &7F
+1/6 TR 1 CH 1 NT C'' 1/6 von=51
+1/6 TR 1 CH 1 NT F'' 1/6
+1/4 TR 2 CH 1 NT C 1/4 von=24
+7/24 TR 0 CH 16 Tempo 45.17
+1/3 TR 1 CH 1 NT Db'' 1/6 von=50
+1/3 TR 2 CH 1 NT G 1/6 von=30
+1/2 TR 1 CH 1 NT G' 1/12 von=54
+1/2 TR 2 CH 1 NT Db 1/4 von=40
+3/4 TR 1 CH 1 NT Eb' 1/4 von=48
+3/4 TR 1 CH 1 NT C'' 1/4 von=55
+3/4 TR 2 CH 1 NT Ab 1/4
+1 TR 1 CH 1 NT Eb' 3/4 von=55
+1 TR 2 CH 1 NT C 1/4
+1+1/4 TR 0 CH 16 Tempo 49
+1+1/4 TR 1 CH 1 NT Bb' 1/4 von=49
+1+1/4 TR 1 CH 1 NT F' 1/4 von=46
+1+1/4 TR 2 CH 1 NT Db 1/4 von=21
+1+1/2 TR 0 CH 16 Tempo 50.5
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Ab 1/4
+2 TR 2 CH 1 NT Gb 1/4
+2+1/4 TR 0 CH 16 Tempo 49
+2+1/4 TR 1 CH 1 NT Ab' 1/4 von=54
+2+1/4 TR 2 CH 1 NT Ab- 1/4
+2+1/2 TR 0 CH 16 Tempo 49
+2+1/2 TR 1 CH 1 NT Gb'' 1/4 von=55
+2+1/2 TR 2 CH 1 NT Eb 1/4 von=29
+2+13/24 TR 0 CH 16 Tempo 48.5
+2+5/8 TR 0 CH 16 Tempo 47.5
+2+17/24 TR 0 CH 16 Tempo 45.5
+2+3/4 TR 0 CH 16 Tempo 49.5
+2+3/4 TR 1 CH 1 NT Db' 1/4 von=57
+2+3/4 TR 2 CH 1 NT Gb- 1/4
+
+0 TR 0 CH 16 Tempo 48.5
+0 TR 1 CH 1 NT Eb'' 1/4 von=68
+0 TR 2 CH 1 NT Ab-- 1/4 von=28
+3/160 TR 2 CH 1 ST &B0 &40 &00
+5/24 TR 0 CH 16 Tempo 48
+109/480 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Db 1/4 von=30
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Ab 1/4
+1 TR 2 CH 1 NT Db 1/4
+1+1/4 TR 0 CH 16 Tempo 48
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 2 CH 1 NT Db 1/4
+1+2/3 TR 0 CH 16 Tempo 46.5
+1+3/4 TR 0 CH 16 Tempo 49.5
+1+3/4 TR 2 CH 1 NT Ab-- 1/4 von=30
+1+5/6 TR 1 CH 1 NT Gb' 1/12 von=53
+1+431/480 TR 2 CH 1 ST &B0 &40 &00
+1+107/120 TR 2 CH 1 ST &B0 &40 &7F
+1+23/24 TR 0 CH 16 Tempo 47
+
+0 TR 0 CH 16 Tempo 46.5
+0 TR 1 CH 1 NT F' 1/2 von=49
+0 TR 1 CH 1 NT Db'' 1/2 von=51
+0 TR 2 CH 1 NT Ab-- 1/4 von=32
+1/40 TR 2 CH 1 ST &B0 &40 &00
+17/96 TR 2 CH 1 ST &B0 &40 &7F
+1/6 TR 0 CH 16 Tempo 45.5
+1/4 TR 0 CH 16 Tempo 56.5
+1/4 TR 2 CH 1 NT F- 1/4 von=30
+1/2 TR 1 CH 1 NT Ab' 1/2 von=57
+1/2 TR 2 CH 1 NT Db- 1/4
+3/4 TR 2 CH 1 NT Ab 1/4 von=23
+1 TR 0 CH 16 Tempo 52
+1 TR 1 CH 1 NT Eb'' 1/6 von=58
+1 TR 2 CH 1 NT Db 1/4
+1+1/6 TR 1 CH 1 NT Db'' 1/6 von=51
+1+1/4 TR 0 CH 16 Tempo 51.5
+1+1/4 TR 2 CH 1 NT Db 1/4 von=26
+1+1/3 TR 1 CH 1 NT Bb' 1/6 von=53
+1+1/3 TR 1 CH 1 NT Cb'' 1/6 von=61
+1+1/3 TR 2 CH 1 NT Db 1/6 von=29
+1+1/3 TR 2 CH 1 NT Ab 1/6 von=35
+1+2/3 TR 0 CH 16 Tempo 87.28
+1+2/3 TR 1 CH 1 NT F' 1/6 von=44
+1+2/3 TR 1 CH 1 NT Db'' 1/6 von=63
+1+3/4 TR 2 CH 1 NT Ab 1/4 von=24
+1+5/6 TR 1 CH 1 NT Db'' 1/6 von=55
+1+23/24 TR 0 CH 16 Tempo 45.27
+2 TR 0 CH 16 Tempo 50.5
+2 TR 1 CH 1 NT Gb'' 1/12 von=56
+2 TR 2 CH 1 NT Gb 1/4 von=32
+2+1/8 TR 1 CH 1 NT Fb'' 1/12 von=43
+2+1/8 TR 1 CH 1 NT Bb' 1/8 von=49
+2+1/8 TR 1 CH 1 NT Ab' 1/8 von=51
+2+1/4 TR 0 CH 16 Tempo 48.5
+2+1/4 TR 1 CH 1 NT C'' 1/8 von=49
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+1/3 TR 0 CH 16 Tempo 47.89
+2+5/12 TR 1 CH 1 NT Db'' 1/12
+2+1/2 TR 0 CH 16 Tempo 43.67
+2+1/2 TR 1 CH 1 NT Cb''' 1/12 von=61
+2+1/2 TR 2 CH 1 NT C 1/4 von=25
+2+7/12 TR 0 CH 16 Tempo 45.11
+2+2/3 TR 1 CH 1 NT Bb' 1/6 von=52
+2+2/3 TR 1 CH 1 NT Ab' 1/12 von=55
+2+2/3 TR 1 CH 1 NT Ab' 1/6
+2+3/4 TR 2 CH 1 NT Eb 1/4
+2+19/24 TR 0 CH 16 Tempo 44.66
+2+5/6 TR 1 CH 1 NT Eb' 1/12 von=55
+2+11/12 TR 1 CH 1 NT Cb'' 1/12 von=55
+2+23/24 TR 0 CH 16 Tempo 42.5
+
+0 TR 0 CH 16 Tempo 50.5
+0 TR 1 CH 1 NT Ab' 1/4 von=60
+0 TR 2 CH 1 NT Db 1/4 von=29
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 0 CH 16 Tempo 109
+1/4 TR 0 CH 16 Tempo 106.5
+7/24 TR 0 CH 16 Tempo 101.5
+1/4 TR 0 CH 16 Tempo 108
+1/4 TR 2 CH 1 NT Fb- 1/4
+1/2 TR 0 CH 16 Tempo 102.5
+1/2 TR 1 CH 1 NT Gb' 1/4 von=59
+1/2 TR 2 CH 1 NT Bb- 1/4 von=35
+3/4 TR 2 CH 1 NT Db 1/4 von=34
+1 TR 1 CH 1 NT Ab' 1/4 von=53
+1 TR 2 CH 1 NT Db 1/4 von=35
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=34
+
+0 TR 1 CH 1 NT C'' 2+1/4 von=80
+0 TR 2 CH 1 NT Eb-- 1/4 von=41
+1/30 TR 2 CH 1 ST &B0 &40 &00
+13/80 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Gb- 1/4 von=36
+1/2 TR 2 CH 1 NT Ab- 1/4 von=41
+3/4 TR 2 CH 1 NT Db 1/4 von=47
+1 TR 2 CH 1 NT Ab- 1/4 von=45
+1+1/4 TR 2 CH 1 NT Db- 1/4 von=36
+
+0 TR 0 CH 16 Tempo 103
+0 TR 1 CH 1 NT Bb' 1 von=73
+0 TR 1 CH 1 NT Ab' 1+1/2 von=78
+0 TR 2 CH 1 NT Db- 1/4 von=47
+1/4 TR 2 CH 1 NT Ab- 1/4 von=44
+1/2 TR 2 CH 1 NT Eb 1/4 von=45
+3/4 TR 2 CH 1 NT Ab 1/4 von=52
+1 TR 0 CH 16 Tempo 113
+1 TR 1 CH 1 NT Cb' 1/2 von=61
+1 TR 1 CH 1 NT Ab' 1/2
+1 TR 2 CH 1 NT F- 1/4 von=44
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=49
+
+0 TR 0 CH 16 Tempo 142.5
+0 TR 1 CH 1 NT Ab' 3+1/2 von=79
+0 TR 2 CH 1 NT Ab-- 1/4
+3/80 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 NT Db 1/4 von=53
+1/2 TR 2 CH 1 NT Db 1/4 von=51
+1 TR 2 CH 1 NT Ab- 1/4 von=45
+1+1/4 TR 2 CH 1 NT Gb- 1/4 von=46
+
+0 TR 0 CH 16 Tempo 124.5
+0 TR 1 CH 1 NT Ab' 2+3/4 von=69
+0 TR 2 CH 1 NT Ab- 1/4
+1/4 TR 2 CH 1 NT Ab- 1/4 von=42
+1/2 TR 2 CH 1 NT Db 1/4 von=46
+3/4 TR 2 CH 1 NT Gb 1/4 von=50
+1 TR 0 CH 16 Tempo 119
+1 TR 1 CH 1 NT C'' 23/48 von=76
+1 TR 2 CH 1 NT Db 1/4 von=51
+1+1/4 TR 2 CH 1 NT Db 1/4 von=40
+
+0 TR 0 CH 16 Tempo 116
+0 TR 1 CH 1 NT Ab'' 1/8 von=83
+0 TR 2 CH 1 NT Bb--- 1/4 von=56
+0 TR 2 CH 1 NT Bb-- 1/4
+1/12 TR 0 CH 16 Tempo 136
+1/8 TR 0 CH 16 Tempo 134
+1/4 TR 0 CH 16 Tempo 115
+1/4 TR 2 CH 1 NT Ab- 1/4 von=61
+3/8 TR 1 CH 1 NT C'' 1/8
+1/2 TR 0 CH 16 Tempo 115.5
+1/2 TR 1 CH 1 NT G' 1/4 von=68
+1/2 TR 2 CH 1 NT G 3/8
+1/2 TR 2 CH 1 NT Eb 3/8
+1/2 TR 2 CH 1 NT Eb 3/8
+1/2 TR 2 CH 1 NT Gb 3/8
+1/2 TR 2 CH 1 NT Eb 3/8
+1/2 TR 2 CH 1 NT Cb' 3/8
+1/2 TR 2 CH 1 NT Bb- 3/8
+1/2 TR 2 CH 1 NT Ab- 3/8
+1/2 TR 2 CH 1 NT Db 3/8
+1/2 TR 2 CH 1 NT Bb- 3/8
+1/2 TR 2 CH 1 NT Db 3/8
+3/4 TR 1 CH 1 NT Db' 1/4 von=70
+1 TR 1 CH 1 NT Ab' 1/4 von=89
+1 TR 2 CH 1 NT Eb 3/4 von=56
+1 TR 2 CH 1 NT F 3/4
+1 TR 2 CH 1 NT Eb 3/4
+1+1/2 TR 1 CH 1 NT Eb' 13/48 von=61
+2 TR 1 CH 1 NT Gb 13/24 von=53
+2 TR 2 CH 1 NT F 3/4 von=55
+2 TR 2 CH 1 NT Db 3/4
+2 TR 2 CH 1 NT Bb- 3/4
+2+1/48 TR 2 CH 1 ST &B0 &40 &00
+
+0 TR 0 CH 16 Tempo 156.74
+0 TR 1 CH 1 NT F' 1/4 von=62
+0 TR 2 CH 1 NT Bb-- 1/2 von=45
+27/160 TR 2 CH 1 ST &B0 &40 &7F
+1/2 TR 1 CH 1 NT F' 1/4 von=63
+1/2 TR 2 CH 1 NT D 3/8 von=32
+1/2 TR 2 CH 1 NT Ab- 3/8
+1/2 TR 2 CH 1 NT Eb- 3/8
+1/2 TR 2 CH 1 NT Eb 3/8 von=51
+1 TR 0 CH 16 Tempo 131.5
+1 TR 1 CH 1 NT F 1/4 von=52
+1 TR 2 CH 1 NT F- 3/8 von=38
+1 TR 2 CH 1 NT Eb- 3/8
+1 TR 2 CH 1 NT Db 3/8
+1+1/4 TR 1 CH 1 NT Eb' 1/4 von=51
+
+0 TR 1 CH 1 NT Db' 1/4 von=57
+0 TR 2 CH 1 NT F- 1/2 von=41
+0 TR 2 CH 1 NT Ab- 1/2
+0 TR 2 CH 1 NT Ab- 1/2
+1/2 TR 0 CH 16 Tempo 132
+1/2 TR 2 CH 1 NT Bb--- 1/4 von=39
+3/4 TR 1 CH 1 NT Ab 1/4 von=49
+3/4 TR 2 CH 1 NT Ab- 1/4 von=44
+1 TR 0 CH 16 Tempo 130
+1 TR 1 CH 1 NT Ab 3/4 von=58
+1 TR 2 CH 1 NT A- 3/4 von=39
+1+1/4 TR 1 CH 1 NT Db' 13/48 von=57
+1+1/2 TR 0 CH 16 Tempo 121.5
+1+1/2 TR 1 CH 1 NT Bb 3/16 von=49
+1+1/2 TR 2 CH 1 NT Eb- 3/8 von=39
+1+1/2 TR 2 CH 1 NT Ab- 3/8
+1+1/2 TR 2 CH 1 NT Ab- 3/8 von=40
+2 TR 0 CH 16 Tempo 115.63
+2 TR 2 CH 1 NT Ab- 1/2 von=39
+2 TR 2 CH 1 NT Db 1/2 von=45
+2+1/80 TR 2 CH 1 ST &B0 &40 &00
+2+17/96 TR 2 CH 1 ST &B0 &40 &7F
+2+1/2 TR 2 CH 1 NT Ab- 1/2 von=34
+
+0 TR 0 CH 16 Tempo 114.5
+0 TR 1 CH 1 NT Db' 1+1/2 von=41
+0 TR 1 CH 1 NT Bb' 2+1/24
+0 TR 2 CH 1 NT Db-- 1/2 von=47
+1/80 TR 2 CH 1 ST &B0 &40 &00
+103/480 TR 2 CH 1 ST &B0 &40 &7F
+1/2 TR 0 CH 16 Tempo 125.8
+1/2 TR 2 CH 1 NT G- 1/2 von=36
+1 TR 0 CH 16 Tempo 127.95
+1 TR 2 CH 1 NT Ab- 1/2 von=41
+1+1/2 TR 2 CH 1 NT G- 1/2 von=35
+2 TR 2 CH 1 NT Ab-- 1/2 von=43
+2+1/2 TR 2 CH 1 NT G- 1/2 von=37
+3 TR 0 CH 16 Tempo 125.5
+3 TR 1 CH 1 NT Eb' 3/4 von=55
+3 TR 2 CH 1 NT Ab-- 1/2 von=43
+3+1/48 TR 2 CH 1 ST &B0 &40 &00
+3+1/4 TR 0 CH 16 Tempo 131.73
+3+1/3 TR 0 CH 16 Tempo 137.35
+3+5/12 TR 0 CH 16 Tempo 134
+4+1/2 TR 2 CH 1 NT Bb- 1/2 von=37
+
+0 TR 0 CH 16 Tempo 140
+0 TR 1 CH 1 NT A 1+5/8 von=47
+0 TR 2 CH 1 NT Eb-- 1/2 von=45
+1/40 TR 2 CH 1 ST &B0 &40 &00
+1/12 TR 0 CH 16 Tempo 128.5
+37/240 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 0 CH 16 Tempo 125.5
+1/3 TR 0 CH 16 Tempo 136.5
+1/2 TR 2 CH 1 NT Ab-- 1/2 von=37
+1/2 TR 2 CH 1 NT F- 1/2 von=35
+5/6 TR 0 CH 16 Tempo 131
+1 TR 0 CH 16 Tempo 131.5
+1 TR 2 CH 1 NT Bb- 1/2 von=39
+1 TR 2 CH 1 NT Db 1/2 von=42
+1+1/2 TR 2 CH 1 NT C- 1/2 von=34
+1+1/2 TR 2 CH 1 NT Ab- 1/2 von=38
+1+11/12 TR 0 CH 16 Tempo 121.95
+2 TR 0 CH 16 Tempo 129.03
+2 TR 1 CH 1 NT G 1/2 von=58
+2 TR 2 CH 1 NT Db- 1/2 von=35
+2 TR 2 CH 1 NT Eb- 1/2 von=41
+2+1/80 TR 2 CH 1 ST &B0 &40 &00
+2+1/12 TR 0 CH 16 Tempo 129.5
+2+1/8 TR 0 CH 16 Tempo 125.5
+2+1/8 TR 2 CH 1 ST &B0 &40 &7F
+2+1/6 TR 0 CH 16 Tempo 129.5
+2+1/4 TR 0 CH 16 Tempo 127.5
+2+1/3 TR 0 CH 16 Tempo 127
+2+5/12 TR 0 CH 16 Tempo 133.5
+2+1/2 TR 0 CH 16 Tempo 139.5
+2+1/2 TR 2 CH 1 NT D 1/2
+2+5/8 TR 0 CH 16 Tempo 133.5
+2+3/4 TR 0 CH 16 Tempo 136
+2+5/6 TR 0 CH 16 Tempo 136.5
+2+11/12 TR 0 CH 16 Tempo 141.5
+
+0 TR 0 CH 16 Tempo 130.5
+0 TR 1 CH 1 NT G' 1/4 von=57
+0 TR 2 CH 1 NT Eb 1/2 von=43
+1/4 TR 1 CH 1 NT Ab' 1/4 von=41
+1/3 TR 0 CH 16 Tempo 136
+13/48 TR 1 CH 1 NT Ab' 1/4 von=50
+1/2 TR 1 CH 1 NT Ab' 1/4 von=44
+3/4 TR 1 CH 1 NT Eb' 1/4 von=40
+1 TR 1 CH 1 NT F' 1/4 von=48
+1 TR 2 CH 1 NT Gb 1/2 von=46
+1 TR 2 CH 1 NT Eb 1/2
+1 TR 2 CH 1 NT Bb- 1/2
+1+1/2 TR 1 CH 1 NT Db' 1/4 von=45
+2 TR 1 CH 1 NT Bb 1/4 von=47
+2 TR 2 CH 1 NT F 3/4 von=28
+2 TR 2 CH 1 NT C 3/4
+2 TR 2 CH 1 NT Ab- 3/4
+2+1/40 TR 2 CH 1 ST &B0 &40 &00
+
+0 TR 0 CH 16 Tempo 211.5
+0 TR 1 CH 1 NT Ab 1/4 von=56
+0 TR 2 CH 1 NT Ab-- 1/2 von=39
+11/480 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 1 CH 1 NT A 1/4 von=37
+1/2 TR 1 CH 1 NT Db' 1/4 von=42
+3/4 TR 1 CH 1 NT Bb 1/4 von=33
+1 TR 0 CH 16 Tempo 140.5
+1 TR 1 CH 1 NT Ab 1/4 von=42
+1 TR 2 CH 1 NT A- 1/2 von=32
+1 TR 2 CH 1 NT F- 1/2 von=33
+1+1/24 TR 0 CH 16 Tempo 158
+1+1/4 TR 0 CH 16 Tempo 139.5
+1+1/4 TR 1 CH 1 NT Eb' 1/4 von=39
+1+1/3 TR 0 CH 16 Tempo 141
+1+37/80 TR 1 CH 1 NT F' 1/8 von=44
+1+7/20 TR 0 CH 16 Tempo 137.5
+1+5/12 TR 0 CH 16 Tempo 133
+1+5/12 TR 0 CH 16 Tempo 139.5
+1+5/12 TR 1 CH 1 NT F 1/8 von=42
+1+7/10 TR 0 CH 16 Tempo 105
+1+3/8 TR 1 CH 1 NT F' 1/8 von=45
+1+5/12 TR 0 CH 16 Tempo 119
+1+5/12 TR 0 CH 16 Tempo 108.5
+1+5/12 TR 0 CH 16 Tempo 107
+1+5/12 TR 0 CH 16 Tempo 117
+1+11/24 TR 0 CH 16 Tempo 118
+1+1/2 TR 0 CH 16 Tempo 116.5
+1+1/2 TR 1 CH 1 NT F' 1/4 von=42
+1+1/2 TR 2 CH 1 NT F- 1/2 von=30
+1+1/2 TR 2 CH 1 NT Eb 1/2 von=35
+1+5/8 TR 0 CH 16 Tempo 130.02
+1+2/3 TR 0 CH 16 Tempo 130.5
+1+3/4 TR 0 CH 16 Tempo 138
+1+5/6 TR 0 CH 16 Tempo 130.5
+1+11/12 TR 0 CH 16 Tempo 134
+2 TR 1 CH 1 NT F' 1/8 von=52
+2 TR 2 CH 1 NT F- 1/2 von=31
+2 TR 2 CH 1 NT Ab- 1/2 von=36
+2+1/4 TR 0 CH 16 Tempo 131.5
+2+1/4 TR 1 CH 1 NT G' 1/8 von=54
+2+3/8 TR 1 CH 1 NT A' 1/8
+2+3/8 TR 1 CH 1 NT D'' 1/8
+2+3/8 TR 2 CH 1 NT Eb 1/2 von=36
+2+5/12 TR 0 CH 16 Tempo 124.5
+2+1/2 TR 0 CH 16 Tempo 128.5
+2+1/2 TR 1 CH 1 NT Gb' 3/16
+2+1/2 TR 2 CH 1 NT F 1/2 von=35
+2+1/2 TR 2 CH 1 NT G 1/2 von=39
+2+1/2 TR 2 CH 1 NT G 1/2 von=37
+2+1/2 TR 2 CH 1 NT Bb- 1/2
+2+2/3 TR 0 CH 16 Tempo 123.5
+2+3/4 TR 1 CH 1 NT D'' 1/4 von=46
+
+0 TR 0 CH 16 Tempo 125.5
+0 TR 1 CH 1 NT G'' 1/4 von=52
+0 TR 2 CH 1 NT F-- 1/4 von=37
+1/4 TR 1 CH 1 NT Ab' 1/4 von=52
+1/4 TR 2 CH 1 NT Db 1/4 von=30
+1/2 TR 0 CH 16 Tempo 128.5
+1/2 TR 2 CH 1 NT Ab- 1/4 von=31
+3/4 TR 2 CH 1 NT Cb' 1/4 von=37
+1 TR 2 CH 1 NT Cb 1/4 von=37
+1+1/4 TR 2 CH 1 NT Bb- 1/4 von=37
+
+0 TR 1 CH 1 NT Gb 1/4 von=56
+0 TR 2 CH 1 NT Eb- 1/4 von=37
+11/480 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 NT Ab- 1/4 von=36
+1/2 TR 0 CH 16 Tempo 117
+1/2 TR 2 CH 1 NT Ab- 1/4 von=39
+3/4 TR 2 CH 1 NT Gb 1/4
+1 TR 1 CH 1 NT Cb' 1 von=59
+1 TR 2 CH 1 NT Ab- 1/4 von=37
+1+1/4 TR 2 CH 1 NT F- 1/4 von=34
+
+0 TR 1 CH 1 NT Gb' 1/4 von=68
+0 TR 2 CH 1 NT Bb- 1/4 von=37
+1/4 TR 2 CH 1 NT Ab- 1/4 von=30
+1/2 TR 0 CH 16 Tempo 115
+1/2 TR 1 CH 1 NT Ab' 1/2 von=70
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 2 CH 1 NT Ab 1/4
+1 TR 0 CH 16 Tempo 155.5
+1 TR 1 CH 1 NT Eb' 1/2 von=45
+1 TR 1 CH 1 NT C'' 1/2 von=71
+1 TR 2 CH 1 NT Gb- 1/4 von=35
+1+1/4 TR 2 CH 1 NT Gb- 1/4 von=37
+
+0 TR 1 CH 1 NT Cb' 1 von=68
+0 TR 1 CH 1 NT Eb' 3/4 von=62
+0 TR 1 CH 1 NT F'' 1+1/2 von=74
+0 TR 2 CH 1 NT Db-- 1/4 von=37
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 NT Gb-- 1/4 von=39
+1/4 TR 2 CH 1 NT Db- 1/4 von=51
+1/2 TR 2 CH 1 NT F- 1/4 von=41
+3/4 TR 2 CH 1 NT C 1/4 von=45
+1 TR 0 CH 16 Tempo 117
+1 TR 1 CH 1 NT Eb' 1/2
+1 TR 1 CH 1 NT Ab' 1/2 von=77
+1 TR 2 CH 1 NT Gb- 1/4 von=35
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=35
+
+0 TR 1 CH 1 NT Eb' 1 von=67
+0 TR 2 CH 1 NT Ab-- 1/4
+7/480 TR 2 CH 1 ST &B0 &40 &00
+31/96 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Fb- 1/4 von=39
+1/2 TR 2 CH 1 NT Eb- 1/4 von=40
+3/4 TR 2 CH 1 NT Gb 1/4 von=43
+1 TR 2 CH 1 NT Ab- 1/4 von=38
+1+1/4 TR 2 CH 1 NT Cb 1/4 von=33
+
+0 TR 0 CH 16 Tempo 113
+0 TR 1 CH 1 NT F'' 1+1/2 von=71
+0 TR 2 CH 1 NT D- 1/4 von=26
+1/40 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Db 1/4 von=33
+1/2 TR 2 CH 1 NT Db 1/4 von=36
+3/4 TR 2 CH 1 NT Ab 1/4 von=42
+1 TR 2 CH 1 NT Eb 1/4 von=39
+1+1/4 TR 2 CH 1 NT F- 1/4 von=34
+
+0 TR 1 CH 1 NT A 1/4 von=59
+0 TR 2 CH 1 NT Ab-- 1/4 von=35
+13/480 TR 3 CH 1 ST &B0 &40 &00
+13/120 TR 3 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT D- 1/4 von=35
+1/2 TR 2 CH 1 NT Db 1/4 von=37
+3/4 TR 2 CH 1 NT Bb 1/4 von=40
+1 TR 2 CH 1 NT Ab- 1/4 von=39
+1+1/4 TR 2 CH 1 NT Gb- 1/4 von=34
+
+0 TR 0 CH 16 Tempo 104
+0 TR 1 CH 1 NT F'' 1+1/2 von=74
+0 TR 2 CH 1 NT Fb- 1/4 von=39
+1/4 TR 2 CH 1 NT Db 1/4 von=35
+1/2 TR 0 CH 16 Tempo 112
+1/2 TR 1 CH 1 NT Bb' 1/2 von=65
+1/2 TR 2 CH 1 NT F 1/4
+3/4 TR 2 CH 1 NT Ab 1/4
+1 TR 2 CH 1 NT F 1/4 von=42
+1+1/4 TR 0 CH 16 Tempo 190.5
+1+1/4 TR 1 CH 1 NT Db' 1/4 von=54
+1+1/4 TR 1 CH 1 NT C'' 1/4
+1+1/4 TR 1 CH 1 NT Bb' 1/4 von=58
+1+1/2 TR 0 CH 16 Tempo 117.5
+1+1/2 TR 1 CH 1 NT Ab' 1/4 von=66
+1+1/2 TR 2 CH 1 NT Db- 1/4 von=30
+1+1/2 TR 2 CH 1 NT Db 1/4
+1+1/2 TR 2 CH 1 NT Ab 1/4 von=46
+1+1/2 TR 2 CH 1 NT Gb- 1/4 von=42
+1+257/480 TR 2 CH 1 ST &B0 &40 &00
+1+3/4 TR 1 CH 1 NT Db' 1/4 von=61
+1+3/4 TR 1 CH 1 NT Eb'' 1/4 von=74
+
+0 TR 0 CH 16 Tempo 111.5
+0 TR 1 CH 1 NT Ab' 1/4 von=68
+0 TR 2 CH 1 NT Eb- 1/4 von=42
+3/160 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 NT Bb- 1/4 von=35
+1/2 TR 0 CH 16 Tempo 116
+1/2 TR 1 CH 1 NT Db' 1/4 von=62
+1/2 TR 1 CH 1 NT Gb' 1/4 von=59
+1/2 TR 2 CH 1 NT Gb- 1/4 von=41
+3/4 TR 1 CH 1 NT C' 1/4 von=61
+3/4 TR 2 CH 1 NT Db 1/4 von=47
+1 TR 0 CH 16 Tempo 128.5
+1 TR 1 CH 1 NT Ab' 1/4 von=74
+1 TR 2 CH 1 NT Ab- 1/4 von=41
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+
+0 TR 1 CH 1 NT Db'' 1+1/2 von=85
+0 TR 2 CH 1 ST &B0 &40 &00
+0 TR 2 CH 1 NT Ab-- 1/4 von=31
+1/48 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Cb 1/4 von=36
+1/2 TR 0 CH 16 Tempo 106
+1/2 TR 2 CH 1 NT Ab- 1/4
+3/4 TR 1 CH 1 NT Ab' 1/4
+3/4 TR 2 CH 1 NT Db 1/4 von=39
+1 TR 0 CH 16 Tempo 106.1
+1 TR 1 CH 1 NT Ab' 1/4 von=55
+1 TR 2 CH 1 NT Db 1/4 von=28
+1+1/4 TR 1 CH 1 NT Ab' 11/48
+1+1/4 TR 1 CH 1 NT Cb'' 1/4 von=55
+1+1/4 TR 2 CH 1 NT Db 1/4 von=34
+1+1/2 TR 1 CH 1 NT C'' 1/4 von=62
+1+1/2 TR 2 CH 1 NT Db 1/4 von=35
+1+251/480 TR 2 CH 1 ST &B0 &40 &00
+1+3/4 TR 0 CH 16 Tempo 124.33
+1+3/4 TR 1 CH 1 NT Bb' 1/4 von=51
+1+3/4 TR 2 CH 1 NT C 1/4 von=30
+
+0 TR 0 CH 16 Tempo 113.5
+0 TR 1 CH 1 NT Db'' 1/4 von=57
+0 TR 2 CH 1 NT Db 1/4 von=36
+1/48 TR 2 CH 1 ST &B0 &40 &00
+3/32 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Bb- 1/4 von=30
+1/2 TR 0 CH 16 Tempo 103.5
+1/2 TR 1 CH 1 NT F'' 1/4 von=61
+1/2 TR 2 CH 1 NT Db 1/4 von=35
+3/4 TR 2 CH 1 NT Ab 1/4 von=39
+1 TR 0 CH 16 Tempo 113
+1 TR 1 CH 1 NT Ab' 1/2 von=62
+1 TR 2 CH 1 NT Ab 1/4 von=37
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=32
+
+0 TR 0 CH 16 Tempo 106
+0 TR 1 CH 1 NT Fb' 1+1/2 von=53
+0 TR 1 CH 1 NT Ab' 3+1/2 von=60
+0 TR 2 CH 1 NT Ab--- 1/4 von=31
+1/32 TR 3 CH 1 ST &B0 &40 &00
+13/80 TR 3 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Ab-- 1/4 von=41
+1/4 TR 2 CH 1 NT Gb- 1/4 von=34
+1/2 TR 2 CH 1 NT Eb- 1/4
+3/4 TR 2 CH 1 NT Eb 1/4 von=41
+1 TR 2 CH 1 NT Bb- 1/4 von=39
+1+1/4 TR 2 CH 1 NT Ab- 1/4 von=33
+
+0 TR 1 CH 1 NT Eb' 1/2 von=56
+0 TR 2 CH 1 NT Fb- 1/4 von=35
+1/48 TR 2 CH 1 ST &B0 &40 &00
+23/120 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT Eb- 1/4 von=39
+1/2 TR 2 CH 1 NT Eb- 1/4
+3/4 TR 2 CH 1 NT Ab- 1/4
+1 TR 0 CH 16 Tempo 88.5
+1 TR 2 CH 1 NT Bb-- 1/4 von=37
+1+1/4 TR 1 CH 1 NT Ab 1/4 von=53
+1+1/4 TR 1 CH 1 NT Bb 1/4 von=56
+1+1/4 TR 2 CH 1 NT F- 1/4
+1+1/2 TR 0 CH 16 Tempo 84
+1+1/2 TR 1 CH 1 NT Db' 1/2 von=61
+1+1/2 TR 1 CH 1 NT Ab' 1/2 von=71
+1+1/2 TR 2 CH 1 NT Db- 1/4 von=38
+1+3/4 TR 2 CH 1 NT Db 1/4
+2 TR 1 CH 1 NT Db' 1 von=51
+2 TR 2 CH 1 NT F- 1/4
+2+1/4 TR 2 CH 1 NT Eb 1/4
+2+1/2 TR 0 CH 16 Tempo 93.88
+2+1/2 TR 1 CH 1 NT C'' 1/4 von=73
+2+1/2 TR 2 CH 1 NT C 1/4
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+7/12 TR 0 CH 16 Tempo 48.5
+2+3/4 TR 0 CH 16 Tempo 48.5
+2+3/4 TR 2 CH 1 NT Fb 1/4
+2+7/8 TR 0 CH 16 Tempo 49
+3 TR 1 CH 1 NT Ab' 1/4 von=53
+3 TR 2 CH 1 NT Eb 1/4
+3+1/24 TR 0 CH 16 Tempo 47.5
+3+1/12 TR 0 CH 16 Tempo 48
+3+1/8 TR 0 CH 16 Tempo 40.5
+3+1/6 TR 1 CH 1 NT Db'' 1/12
+3+5/24 TR 0 CH 16 Tempo 44.5
+3+1/4 TR 0 CH 16 Tempo 47
+3+1/4 TR 2 CH 1 NT F- 1/4
+3+1/3 TR 0 CH 16 Tempo 47.5
+3+5/12 TR 0 CH 16 Tempo 47.5
+3+1/2 TR 0 CH 16 Tempo 49
+3+1/2 TR 2 CH 1 NT Db- 1/4
+3+3/4 TR 0 CH 16 Tempo 43.5
+3+3/4 TR 2 CH 1 NT Db- 1/4 von=36
+
+0 TR 0 CH 16 Tempo 45.5
+0 TR 1 CH 1 NT Eb' 1/2 von=59
+0 TR 2 CH 1 NT Eb-- 1/4 von=52
+11/480 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT F-- 1/4 von=31
+1/2 TR 0 CH 16 Tempo 50.5
+1/2 TR 2 CH 1 NT Db- 1/4 von=34
+3/4 TR 2 CH 1 NT Ab- 1/4 von=32
+1 TR 0 CH 16 Tempo 50.5
+1 TR 2 CH 1 NT Ab- 1/4
+1+1/4 TR 1 CH 1 NT Eb' 1/4 von=56
+1+1/4 TR 2 CH 1 NT Ab- 1/4
+1+1/2 TR 2 CH 1 NT Ab- 1/4
+1+3/4 TR 2 CH 1 NT Eb 1/4
+2 TR 0 CH 16 Tempo 49.5
+2 TR 1 CH 1 NT Bb' 3/8 von=57
+2 TR 2 CH 1 NT F- 1/4
+2+1/4 TR 2 CH 1 NT Ab- 1/4
+2+1/2 TR 2 CH 1 NT Cb 1/4
+2+1/2 TR 2 CH 1 NT Db 1/4 von=30
+2+3/4 TR 0 CH 16 Tempo 47
+2+3/4 TR 2 CH 1 NT Bb-- 1/4
+
+0 TR 1 CH 1 NT Eb' 1/4 von=67
+0 TR 2 CH 1 NT Db- 1/4
+3/48 TR 2 CH 1 ST &B0 &40 &00
+3/8 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT F- 1/4
+1/2 TR 2 CH 1 NT Bb- 1/4
+3/4 TR 2 CH 1 NT Bb 1/4
+1 TR 2 CH 1 NT F 1/4 von=52
+1+1/4 TR 0 CH 16 Tempo 48.5
+1+1/4 TR 2 CH 1 NT Eb 1/4 von=42
+1+1/2 TR 0 CH 16 Tempo 47
+1+1/2 TR 2 CH 1 NT Db- 1/4 von=44
+1+3/4 TR 2 CH 1 NT Ab 1/4 von=37
+2 TR 0 CH 16 Tempo 49
+2 TR 2 CH 1 NT Eb 1/4
+2+1/4 TR 2 CH 1 NT Db 1/4
+2+1/2 TR 2 CH 1 NT Db 1/4
+2+13/24 TR 0 CH 16 Tempo 46.5
+2+5/8 TR 0 CH 16 Tempo 45
+2+5/8 TR 1 CH 1 NT C''' 1/4 von=66
+2+3/4 TR 2 CH 1 NT D-- 1/4 von=42
+2+11/12 TR 0 CH 16 Tempo 48.5
+2+11/12 TR 0 CH 16 Tempo 45.5
+2+23/24 TR 0 CH 16 Tempo 47.5
+
+0 TR 0 CH 16 Tempo 46.5
+0 TR 1 CH 1 NT G'' 1/4 von=70
+0 TR 1 CH 1 NT C'' 1/4 von=86
+0 TR 2 CH 1 NT F# 1/2 von=67
+0 TR 2 CH 1 NT D' 1/2 von=49
+1/24 TR 0 CH 16 Tempo 86.5
+1/8 TR 1 CH 1 NT F'' 1/8 von=53
+1/6 TR 0 CH 16 Tempo 87.5
+1/4 TR 1 CH 1 NT C''' 1/8
+3/8 TR 1 CH 1 NT Eb'' 1/8 von=72
+1/2 TR 0 CH 16 Tempo 87
+1/2 TR 1 CH 1 NT Eb'' 1/8 von=68
+1/2 TR 2 CH 1 NT Bb 1/8 von=41
+1/2 TR 2 CH 1 NT Db' 1/8 von=59
+251/480 TR 2 CH 1 ST &B0 &40 &7F
+3/8 TR 1 CH 1 NT Eb'' 1/8 von=55
+5/8 TR 1 CH 1 NT D'' 1/8 von=63
+3/4 TR 1 CH 1 NT F'' 1/8 von=73
+3/4 TR 1 CH 1 NT C'' 1/8 von=63
+3/4 TR 2 CH 1 NT F 1/8 von=43
+53/80 TR 2 CH 1 ST &B0 &40 &00
+1 TR 0 CH 16 Tempo 100
+1 TR 1 CH 1 NT E' 1/6 von=53
+1 TR 2 CH 1 NT A- 1/4 von=43
+1+7/480 TR 2 CH 1 ST &B0 &40 &00
+1+49/480 TR 2 CH 1 ST &B0 &40 &7F
+1+1/8 TR 1 CH 1 NT C'' 1/8 von=62
+1+1/4 TR 0 CH 16 Tempo 108.5
+1+1/4 TR 1 CH 1 NT F'' 1/8 von=69
+1+1/4 TR 2 CH 1 NT A 1/8 von=49
+1+1/3 TR 0 CH 16 Tempo 103.76
+1+3/8 TR 1 CH 1 NT D'' 1/8 von=54
+1+13/30 TR 0 CH 16 Tempo 110.18
+1+11/24 TR 0 CH 16 Tempo 117.61
+1+1/2 TR 0 CH 16 Tempo 114.14
+1+1/2 TR 1 CH 1 NT F'' 1/4 von=76
+1+1/2 TR 2 CH 1 NT F- 1/4 von=40
+1+2/3 TR 1 CH 1 NT D'' 1/8
+1+3/4 TR 1 CH 1 NT C''' 1/8
+1+3/4 TR 2 CH 1 NT Ab 1/4 von=55
+1+7/8 TR 1 CH 1 NT D'' 1/8 von=66
+1+7/8 TR 2 CH 1 NT E' 1/8 von=48
+1+23/24 TR 0 CH 16 Tempo 116.5
+2 TR 2 CH 1 NT F' 3/8 von=61
+2 TR 2 CH 1 NT Gb 3/8
+2 TR 2 CH 1 NT Bb 3/8
+2 TR 2 CH 1 NT Ab' 3/8
+2 TR 2 CH 1 NT Bb 3/8
+2+1/80 TR 2 CH 1 ST &B0 &40 &00
+
+0 TR 0 CH 16 Tempo 130.5
+0 TR 1 CH 1 NT D'' 1/4 von=53
+0 TR 2 CH 1 NT C 1/2 von=38
+0 TR 2 CH 1 NT C 1/2 von=36
+0 TR 2 CH 1 NT F 1/2
+1/4 TR 1 CH 1 NT Ab' 1/4 von=52
+1/2 TR 1 CH 1 NT F' 1/4 von=52
+3/4 TR 1 CH 1 NT Db'' 1/4 von=46
+1 TR 1 CH 1 NT Bb' 1/4 von=50
+1 TR 2 CH 1 NT D 1/2 von=39
+1 TR 2 CH 1 NT Eb 1/2
+1 TR 2 CH 1 NT Ab- 1/2 von=38
+1+13/480 TR 2 CH 1 ST &B0 &40 &00
+1+1/8 TR 0 CH 16 Tempo 138.5
+1+31/120 TR 2 CH 1 ST &B0 &40 &7F
+1+3/8 TR 1 CH 1 NT Ab' 1/8 von=46
+1+11/24 TR 0 CH 16 Tempo 142
+1+1/2 TR 1 CH 1 NT Ab' 1/4 von=48
+1+1/2 TR 2 CH 1 NT Eb 1/2 von=41
+1+1/2 TR 2 CH 1 NT Eb 1/2
+1+1/2 TR 2 CH 1 NT Bb- 1/2
+1+1/2 TR 2 CH 1 NT Db 1/2 von=41
+1+23/24 TR 0 CH 16 Tempo 132.5
+2 TR 0 CH 16 Tempo 132
+2 TR 1 CH 1 NT F' 1/2 von=54
+2 TR 2 CH 1 NT Ab- 1/2 von=45
+2 TR 2 CH 1 NT Ab- 1/2
+2 TR 2 CH 1 NT Ab- 1/2
+2+1/80 TR 2 CH 1 ST &B0 &40 &00
+2+1/12 TR 0 CH 16 Tempo 145
+2+3/8 TR 1 CH 1 NT Gb' 1/8 von=52
+2+1/2 TR 1 CH 1 NT C'' 1/4 von=66
+
+0 TR 1 CH 1 NT Db'' 1/4 von=57
+0 TR 2 CH 1 NT Ab-- 1/2 von=47
+1/24 TR 0 CH 16 Tempo 135
+1/24 TR 0 CH 16 Tempo 135.5
+1/8 TR 0 CH 16 Tempo 137.5
+1/8 TR 1 CH 1 NT Cb''' 1/8 von=56
+5/24 TR 0 CH 16 Tempo 146.5
+1/4 TR 1 CH 1 NT C''' 1/4 von=45
+1/3 TR 0 CH 16 Tempo 138
+3/8 TR 1 CH 1 NT F'' 1/8 von=55
+1/2 TR 0 CH 16 Tempo 140
+1/2 TR 1 CH 1 NT D'' 1/4 von=57
+1/2 TR 2 CH 1 NT C' 1/4 von=35
+7/12 TR 0 CH 16 Tempo 136.5
+3/4 TR 1 CH 1 NT D'' 1/8 von=56
+3/4 TR 2 CH 1 NT C' 1/4 von=47
+23/24 TR 0 CH 16 Tempo 127.5
+1 TR 0 CH 16 Tempo 118.5
+1 TR 1 CH 1 NT A'' 1/4 von=55
+1 TR 2 CH 1 NT C 1/2 von=34
+1+7/240 TR 2 CH 1 ST &B0 &40 &7F
+1+1/4 TR 1 CH 1 NT Ab'' 1/4 von=55
+1+1/2 TR 1 CH 1 NT A'' 1/4 von=66
+1+3/4 TR 1 CH 1 NT C''' 1/4 von=51
+2 TR 1 CH 1 NT F#'' 1/4 von=57
+2+1/4 TR 1 CH 1 NT Bb' 1/4 von=57
+2+1/2 TR 1 CH 1 NT B' 1/4 von=56
+2+3/4 TR 1 CH 1 NT G#' 1/4 von=51
+3 TR 1 CH 1 NT D'' 1/4 von=68
+3+1/4 TR 1 CH 1 NT C'' 1/4 von=62
+3+1/2 TR 1 CH 1 NT F'' 1/4 von=64
+3+3/4 TR 1 CH 1 NT C'' 1/4 von=58
+3+3/4 TR 1 CH 1 NT F#' 1/4 von=66
+3+23/24 TR 0 CH 16 Tempo 138.59
+
+0 TR 0 CH 16 Tempo 177
+0 TR 1 CH 1 NT G'' 1/4 von=83
+1/80 TR 2 CH 1 ST &B0 &40 &00
+31/96 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 1 CH 1 NT A'' 1/4 von=71
+1/2 TR 1 CH 1 NT A'' 1/4 von=72
+3/4 TR 1 CH 1 NT C''' 1/4 von=79
+1 TR 1 CH 1 NT G'' 1/4 von=82
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=78
+1+1/2 TR 1 CH 1 NT G' 1/4 von=73
+1+3/4 TR 1 CH 1 NT C'' 1/4 von=71
+2 TR 1 CH 1 NT E'' 1/4 von=79
+2+1/4 TR 1 CH 1 NT C'' 1/4 von=73
+2+1/2 TR 1 CH 1 NT Ab' 1/4 von=65
+2+3/4 TR 1 CH 1 NT F'' 1/4 von=69
+3 TR 1 CH 1 NT G#'' 1/4
+3+1/4 TR 1 CH 1 NT B' 1/4 von=68
+3+1/2 TR 1 CH 1 NT E'' 1/4 von=71
+3+3/4 TR 1 CH 1 NT E'' 1/4 von=71
+
+0 TR 0 CH 16 Tempo 167.15
+0 TR 1 CH 1 NT Eb'' 1/4 von=79
+0 TR 2 CH 1 NT F-- 2 von=80
+0 TR 2 CH 1 NT Eb- 1 von=86
+1/48 TR 2 CH 1 ST &B0 &40 &00
+21/160 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 1 CH 1 NT F'' 1/4 von=75
+1/2 TR 1 CH 1 NT F'' 1/4 von=79
+3/4 TR 1 CH 1 NT A'' 1/4 von=74
+1 TR 1 CH 1 NT G'' 1/4 von=80
+1+1/4 TR 1 CH 1 NT A' 1/4 von=77
+1+1/2 TR 1 CH 1 NT G' 1/4 von=78
+1+3/4 TR 1 CH 1 NT C'' 1/4 von=73
+2 TR 1 CH 1 NT Ab' 1/4 von=80
+2+1/4 TR 1 CH 1 NT C'' 1/4 von=75
+2+1/2 TR 1 CH 1 NT F'' 1/4 von=81
+2+3/4 TR 1 CH 1 NT C''' 1/4 von=84
+3 TR 1 CH 1 NT Eb'' 1/4 von=88
+3+1/4 TR 1 CH 1 NT C'' 1/4 von=76
+3+1/2 TR 1 CH 1 NT F'' 1/4 von=78
+3+3/4 TR 1 CH 1 NT C'' 1/4 von=77
+
+0 TR 0 CH 16 Tempo 174.5
+0 TR 1 CH 1 NT F'' 1/4 von=83
+0 TR 2 CH 1 ST &B0 &40 &00
+0 TR 2 CH 1 NT A-- 1 von=88
+0 TR 2 CH 1 NT D--- 1 von=88
+1/24 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 2 CH 1 NT A- 1/4 von=86
+1/2 TR 2 CH 1 NT E 1/4 von=78
+3/4 TR 2 CH 1 NT A- 1/4 von=73
+1 TR 0 CH 16 Tempo 162.5
+1 TR 2 CH 1 NT D 1/2 von=71
+1 TR 2 CH 1 NT E 1/2 von=77
+1+1/4 TR 0 CH 16 Tempo 168.5
+1+1/4 TR 1 CH 1 NT F#' 1/4 von=80
+1+5/12 TR 0 CH 16 Tempo 168.5
+1+1/2 TR 1 CH 1 NT E' 1/4 von=88
+1+1/2 TR 2 CH 1 NT E 1/2 von=80
+1+1/2 TR 2 CH 1 NT B#- 1/2
+1+1/2 TR 2 CH 1 NT E 1/2
+1+1/2 TR 2 CH 1 NT A#- 1/2
+1+11/12 TR 0 CH 16 Tempo 171.5
+2 TR 1 CH 1 NT D'' 1/4
+2+1/4 TR 0 CH 16 Tempo 188
+2+1/4 TR 1 CH 1 NT A'' 1/4 von=95
+2+3/8 TR 0 CH 16 Tempo 167.5
+2+1/2 TR 1 CH 1 NT D''' 1/4 von=85
+2+2/3 TR 0 CH 16 Tempo 165.5
+2+3/4 TR 1 CH 1 NT E''' 1/4 von=84
+3 TR 1 CH 1 NT C''' 1/4 von=91
+3+1/4 TR 1 CH 1 NT D'' 1/4 von=77
+3+1/2 TR 1 CH 1 NT B'' 1/4 von=93
+3+3/4 TR 1 CH 1 NT A'' 1/4 von=71
+
+0 TR 0 CH 16 Tempo 173.5
+0 TR 1 CH 1 NT E''' 1/4 von=95
+1/4 TR 1 CH 1 NT Bb'' 1/4 von=84
+1/2 TR 1 CH 1 NT G'' 1/4 von=82
+3/4 TR 1 CH 1 NT C'' 1/4 von=78
+1 TR 1 CH 1 NT Db'' 1/4 von=87
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=82
+1+1/2 TR 1 CH 1 NT G'' 1/4 von=76
+1+3/4 TR 1 CH 1 NT C'' 1/4 von=79
+2 TR 1 CH 1 NT E'' 1/4 von=88
+2+1/4 TR 1 CH 1 NT A'' 1/4 von=82
+2+1/2 TR 1 CH 1 NT G'' 1/4 von=84
+2+3/4 TR 1 CH 1 NT F'' 1/4 von=76
+3 TR 1 CH 1 NT C'' 1/4 von=79
+3+1/4 TR 1 CH 1 NT C'' 1/4 von=77
+3+1/2 TR 1 CH 1 NT D'' 1/4 von=79
+3+3/4 TR 1 CH 1 NT C''' 1/4 von=78
+
+0 TR 0 CH 16 Tempo 172
+0 TR 1 CH 1 NT G'' 1/4 von=86
+1/60 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 1 CH 1 NT G' 1/4 von=97
+1/2 TR 1 CH 1 NT D'' 1/4 von=83
+3/4 TR 1 CH 1 NT C'' 1/4 von=80
+1 TR 1 CH 1 NT F#'' 1/4 von=94
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=84
+1+1/2 TR 1 CH 1 NT G'' 1/4 von=77
+1+3/4 TR 1 CH 1 NT C''' 1/4 von=79
+2 TR 0 CH 16 Tempo 175
+2 TR 1 CH 1 NT Eb'' 1/4 von=92
+2+1/4 TR 1 CH 1 NT C'' 1/4 von=77
+2+1/2 TR 1 CH 1 NT Bb' 1/4
+2+1/2 TR 2 CH 1 NT D 1/2 von=77
+2+1/2 TR 2 CH 1 NT E 1/2
+2+3/4 TR 1 CH 1 NT A' 1/4
+2+3/4 TR 2 CH 1 NT F# 1/4 von=73
+3 TR 0 CH 16 Tempo 172.5
+3 TR 1 CH 1 NT C#'' 1/4 von=86
+3 TR 1 CH 1 NT C#'' 1/4 von=92
+3 TR 2 CH 1 NT C# 1/2 von=83
+3+1/8 TR 0 CH 16 Tempo 168.5
+3+1/4 TR 1 CH 1 NT C#'' 1/4 von=85
+3+1/2 TR 1 CH 1 NT E'' 1/4 von=86
+3+3/4 TR 1 CH 1 NT C#'' 1/4 von=78
+
+0 TR 0 CH 16 Tempo 167.04
+0 TR 1 CH 1 NT F#'' 1/4 von=81
+1/40 TR 2 CH 1 ST &B0 &40 &00
+11/120 TR 0 CH 16 Tempo 167
+1/12 TR 0 CH 16 Tempo 178.5
+1/4 TR 1 CH 1 NT G#' 1/4 von=80
+1/2 TR 1 CH 1 NT G' 1/4 von=83
+1/2 TR 2 CH 1 NT E--- 1/4 von=77
+1/2 TR 2 CH 1 NT B-- 1/4
+3/4 TR 1 CH 1 NT F' 1/4 von=79
+3/4 TR 2 CH 1 NT F 1/4 von=75
+1 TR 0 CH 16 Tempo 177
+1 TR 1 CH 1 NT D'' 1/4 von=83
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=85
+1+1/2 TR 1 CH 1 NT Bb' 1/4 von=82
+1+3/4 TR 1 CH 1 NT B' 1/4 von=75
+2 TR 1 CH 1 NT Eb'' 1/4 von=90
+2+1/4 TR 1 CH 1 NT F'' 1/4 von=88
+2+1/2 TR 1 CH 1 NT F'' 1/4 von=80
+2+3/4 TR 1 CH 1 NT D''' 1/4 von=74
+3 TR 1 CH 1 NT A'' 1/4 von=82
+3+1/4 TR 1 CH 1 NT G'' 1/4 von=77
+3+1/2 TR 1 CH 1 NT F'' 1/4 von=82
+3+3/4 TR 1 CH 1 NT C''' 1/4 von=79
+3+5/6 TR 0 CH 16 Tempo 170.5
+
+0 TR 0 CH 16 Tempo 173
+0 TR 1 CH 1 NT F#'' 1/4 von=86
+0 TR 2 CH 1 NT D--- 2 von=97
+0 TR 2 CH 1 NT D-- 1 von=91
+23/120 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 1 CH 1 NT G' 1/4 von=72
+1/2 TR 1 CH 1 NT C'' 1/4 von=85
+3/4 TR 1 CH 1 NT Ab'' 1/4 von=79
+1 TR 1 CH 1 NT F#'' 1/4 von=80
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=77
+1+1/2 TR 1 CH 1 NT G#'' 1/4 von=77
+1+3/4 TR 1 CH 1 NT F#'' 1/4 von=71
+2 TR 1 CH 1 NT D'' 1/4 von=71
+2+1/4 TR 1 CH 1 NT D'' 1/4 von=77
+2+1/2 TR 1 CH 1 NT G'' 1/4 von=87
+2+3/4 TR 1 CH 1 NT A'' 1/4 von=79
+3 TR 1 CH 1 NT G'' 1/4 von=88
+3+1/4 TR 1 CH 1 NT G'' 1/4 von=89
+3+1/2 TR 1 CH 1 NT E''' 1/4 von=77
+3+3/4 TR 1 CH 1 NT D''' 1/4 von=77
+
+0 TR 1 CH 1 NT Ab'' 1/4 von=87
+0 TR 2 CH 1 ST &B0 &40 &00
+0 TR 2 CH 1 NT Eb'-- 1/4 von=86
+0 TR 2 CH 1 NT Db 1/4 von=77
+1/4 TR 1 CH 1 NT Eb'' 1/4 von=84
+1/2 TR 1 CH 1 NT F'' 1/4 von=85
+3/4 TR 1 CH 1 NT C'' 1/4 von=81
+1 TR 1 CH 1 NT D'' 1/4 von=93
+1+1/4 TR 1 CH 1 NT G' 1/4 von=81
+
+0 TR 0 CH 16 Tempo 177.5
+0 TR 1 CH 1 NT G' 1/4
+0 TR 2 CH 1 NT D 1/2
+0 TR 2 CH 1 NT D 1
+1/4 TR 1 CH 1 NT G'' 1/4 von=72
+1/2 TR 1 CH 1 NT A'' 1/4 von=78
+3/4 TR 1 CH 1 NT C'' 1/4 von=76
+1 TR 1 CH 1 NT E'' 1/4 von=95
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=78
+1+1/2 TR 1 CH 1 NT F' 1/4
+1+3/4 TR 1 CH 1 NT Bb' 1/4 von=76
+2 TR 1 CH 1 NT D'' 1/4 von=77
+2+1/4 TR 1 CH 1 NT G' 1/4 von=77
+2+1/2 TR 1 CH 1 NT F' 1/4 von=75
+2+3/4 TR 1 CH 1 NT Bb' 1/4 von=79
+3 TR 1 CH 1 NT Ab' 1/4 von=77
+3+1/4 TR 1 CH 1 NT D'' 1/4 von=79
+3+1/2 TR 1 CH 1 NT G'' 1/4 von=78
+3+3/4 TR 1 CH 1 NT A'' 1/4 von=77
+
+0 TR 0 CH 16 Tempo 171
+0 TR 1 CH 1 NT G'' 1/4 von=80
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 1 CH 1 NT E'' 1/4 von=79
+1/2 TR 1 CH 1 NT C''' 1/4 von=73
+1/2 TR 2 CH 1 NT C' 1/2 von=76
+1/2 TR 1 CH 1 NT A'' 1/4 von=91
+1/2 TR 2 CH 1 NT Eb 1/2 von=76
+1/2 TR 2 CH 1 NT Eb 1/2
+1/2 TR 2 CH 1 NT Bb 1/2
+3/4 TR 1 CH 1 NT Bb'' 1/4 von=75
+1 TR 1 CH 1 NT E'' 1/4 von=77
+1+1/4 TR 1 CH 1 NT G'' 1/4 von=79
+1+1/2 TR 1 CH 1 NT C#'' 1/4
+1+3/4 TR 1 CH 1 NT E' 1/4
+2 TR 1 CH 1 NT F#' 1/4 von=85
+2+1/4 TR 1 CH 1 NT A' 1/4 von=77
+2+1/2 TR 1 CH 1 NT A'' 1/4 von=72
+2+3/4 TR 1 CH 1 NT C#'' 1/4 von=72
+3 TR 1 CH 1 NT E'' 1/4 von=76
+3+1/4 TR 1 CH 1 NT F'' 1/4 von=70
+3+1/2 TR 1 CH 1 NT C'' 1/4 von=67
+3+3/4 TR 1 CH 1 NT C'' 1/4
+
+0 TR 0 CH 16 Tempo 162
+0 TR 1 CH 1 NT E'' 1/4 von=78
+0 TR 2 CH 1 NT F#- 1/2 von=71
+7/480 TR 2 CH 1 ST &B0 &40 &00
+1/6 TR 2 CH 1 ST &B0 &40 &7F
+1/3 TR 0 CH 16 Tempo 168.5
+1/4 TR 1 CH 1 NT D''' 1/4 von=75
+1/2 TR 1 CH 1 NT G'' 1/4 von=70
+3/4 TR 1 CH 1 NT B' 1/4 von=77
+1 TR 1 CH 1 NT G' 1/4 von=81
+1+1/4 TR 1 CH 1 NT G' 1/4 von=73
+1+1/2 TR 1 CH 1 NT F' 1/4 von=75
+1+3/4 TR 1 CH 1 NT D' 1/4 von=70
+2 TR 0 CH 16 Tempo 161.5
+2 TR 1 CH 1 NT D' 1/4 von=77
+2+1/4 TR 1 CH 1 NT G#' 1/4 von=73
+2+1/2 TR 1 CH 1 NT A' 1/4 von=70
+2+3/4 TR 1 CH 1 NT D'' 1/4 von=71
+3 TR 1 CH 1 NT E'' 1/4 von=75
+3+1/4 TR 1 CH 1 NT G'' 1/4 von=71
+3+1/2 TR 1 CH 1 NT Eb'' 1/4 von=73
+3+3/4 TR 1 CH 1 NT F#'' 1/4 von=75
+
+0 TR 0 CH 16 Tempo 175
+0 TR 1 CH 1 NT Eb'' 1/4 von=77
+1/40 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 1 CH 1 NT Bb' 1/4 von=71
+1/2 TR 1 CH 1 NT G' 1/4 von=76
+3/4 TR 1 CH 1 NT G' 1/4 von=73
+1 TR 1 CH 1 NT E' 1/4 von=76
+1+1/4 TR 1 CH 1 NT G' 1/4 von=73
+1+1/2 TR 1 CH 1 NT G' 1/4 von=72
+1+3/4 TR 1 CH 1 NT G' 1/4 von=77
+2 TR 0 CH 16 Tempo 168.5
+2 TR 1 CH 1 NT D#'' 1/4 von=77
+2 TR 2 CH 1 NT G-- 1
+2 TR 2 CH 1 NT A- 1
+2 TR 2 CH 1 NT D 1
+2+1/60 TR 2 CH 1 ST &B0 &40 &00
+2+1/2 TR 1 CH 1 NT E' 1/4 von=76
+
+0 TR 0 CH 16 Tempo 161
+0 TR 1 CH 1 NT A 1/4 von=82
+0 TR 2 CH 1 ST &B0 &40 &00
+0 TR 2 CH 1 NT D--- 4 von=78
+0 TR 2 CH 1 NT B--- 8 von=102
+41/480 TR 2 CH 1 ST &B0 &40 &7F
+21/160 TR 0 CH 16 Tempo 171.5
+11/60 TR 0 CH 16 Tempo 182.4
+11/24 TR 0 CH 16 Tempo 183
+1/2 TR 1 CH 1 NT A 1/2 von=78
+1/2 TR 2 CH 1 NT G- 1/2
+5/6 TR 0 CH 16 Tempo 198
+1 TR 1 CH 1 NT B 1/8 von=74
+1 TR 2 CH 1 NT A- 1/2
+1+1/12 TR 0 CH 16 Tempo 174
+1+1/8 TR 0 CH 16 Tempo 198
+1+1/6 TR 0 CH 16 Tempo 188.5
+1+1/4 TR 0 CH 16 Tempo 194.5
+1+1/4 TR 1 CH 1 NT E' 1/4 von=76
+1+1/3 TR 0 CH 16 Tempo 178
+1+3/8 TR 0 CH 16 Tempo 176.5
+1+3/8 TR 1 CH 1 NT F' 1/8
+1+11/24 TR 0 CH 16 Tempo 174.5
+1+1/2 TR 1 CH 1 NT A' 1/4
+1+3/4 TR 0 CH 16 Tempo 177.5
+1+3/4 TR 1 CH 1 NT D' 1/4
+1+11/12 TR 0 CH 16 Tempo 163.5
+2 TR 1 CH 1 NT E' 1/4 von=87
+2+1/4 TR 1 CH 1 NT E' 1/4 von=74
+2+1/2 TR 1 CH 1 NT G' 1/4 von=70
+2+3/4 TR 1 CH 1 NT C'' 1/4 von=72
+3 TR 1 CH 1 NT F'' 1/4 von=86
+3+1/4 TR 1 CH 1 NT C'' 1/4 von=79
+3+1/2 TR 1 CH 1 NT D''' 1/4 von=77
+3+3/4 TR 1 CH 1 NT Bb'' 1/4 von=79
+
+0 TR 1 CH 1 NT D''' 1/4 von=86
+1/80 TR 2 CH 1 ST &B0 &40 &00
+2/15 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 1 CH 1 NT Db''' 1/4 von=73
+1/2 TR 1 CH 1 NT Ab'' 1/4 von=77
+3/4 TR 1 CH 1 NT D''' 1/4 von=75
+1 TR 1 CH 1 NT D'' 1/4 von=78
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=74
+1+1/2 TR 1 CH 1 NT F'' 1/4 von=78
+1+3/4 TR 1 CH 1 NT C'' 1/4 von=74
+2 TR 1 CH 1 NT F'' 1/4 von=81
+2+1/4 TR 1 CH 1 NT D'' 1/4 von=76
+2+1/2 TR 1 CH 1 NT F'' 1/4 von=76
+2+3/4 TR 1 CH 1 NT E'' 1/4 von=71
+3 TR 1 CH 1 NT D'' 1/4 von=85
+3+1/4 TR 1 CH 1 NT C'' 1/4 von=75
+3+1/2 TR 1 CH 1 NT Eb'' 1/4
+3+2/3 TR 0 CH 16 Tempo 165.5
+3+3/4 TR 1 CH 1 NT D'' 1/4 von=74
+
+0 TR 1 CH 1 NT Eb'' 1/4 von=78
+1/4 TR 1 CH 1 NT D'' 1/4 von=74
+1/2 TR 1 CH 1 NT C'' 1/4 von=78
+3/4 TR 1 CH 1 NT D'' 1/4 von=79
+1 TR 1 CH 1 NT D'' 1/4 von=93
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=74
+1+1/2 TR 1 CH 1 NT F'' 1/4 von=70
+1+3/4 TR 1 CH 1 NT Eb'' 1/4
+2 TR 1 CH 1 NT Bb' 1/4 von=85
+2+1/4 TR 1 CH 1 NT C'' 1/4 von=75
+2+1/2 TR 1 CH 1 NT G' 1/4 von=78
+2+3/4 TR 1 CH 1 NT C'' 1/4 von=79
+3 TR 1 CH 1 NT A' 1/4 von=89
+3+1/4 TR 1 CH 1 NT C'' 1/4 von=82
+3+1/2 TR 1 CH 1 NT B' 1/4 von=74
+3+3/4 TR 1 CH 1 NT B' 1/4 von=75
+
+0 TR 0 CH 16 Tempo 173
+0 TR 1 CH 1 NT E'' 1/4 von=82
+0 TR 2 CH 1 NT E--- 4 von=81
+0 TR 2 CH 1 NT D-- 4 von=84
+1/80 TR 2 CH 1 ST &B0 &40 &00
+1/4 TR 1 CH 1 NT Eb' 1/4 von=78
+1/2 TR 1 CH 1 NT A' 1/4 von=83
+3/4 TR 1 CH 1 NT Ab' 1/4 von=78
+1 TR 1 CH 1 NT D'' 1/4 von=92
+1+1/4 TR 1 CH 1 NT G'' 1/4 von=86
+
+0 TR 1 CH 1 NT D'' 1/4 von=93
+0 TR 2 CH 1 NT G--- 4 von=70
+0 TR 2 CH 1 NT Ab-- 2 von=101
+7/96 TR 2 CH 1 ST &B0 &40 &7F
+1/4 TR 1 CH 1 NT F' 1/4 von=77
+1/2 TR 1 CH 1 NT D' 1/4 von=81
+3/4 TR 1 CH 1 NT G' 1/4 von=75
+1 TR 1 CH 1 NT F' 1/4 von=84
+1+1/4 TR 1 CH 1 NT C'' 1/4 von=79
+1+1/2 TR 1 CH 1 NT A' 1/4 von=71
+1+3/4 TR 1 CH 1 NT G' 1/4 von=79
+2 TR 1 CH 1 NT C'' 1/4 von=96
+2+1/4 TR 1 CH 1 NT F'' 1/4 von=79
+2+1/2 TR 1 CH 1 NT D'' 1/4 von=78
+2+3/4 TR 1 CH 1 NT Bb' 1/4 von=78
+3 TR 1 CH 1 NT D'' 1/4 von=91
+3+1/4 TR 1 CH 1 NT C'' 1/4 von=79
+3+1/2 TR 1 CH 1 NT A'' 1/4 von=86
+3+3/4 TR 1 CH 1 NT A'' 1/4 von=70
+3+11/12 TR 0 CH 16 Tempo 167
+
+0 TR 0 CH 16 Tempo 161.5
+0 TR 1 CH 1 NT E'' 1/4 von=86
+1/4 TR 1 CH 1 NT E'' 1/4 von=77
+1/2 TR 1 CH 1 NT A'' 1/4 von=82
+3/4 TR 1 CH 1 NT A'' 1/4 von=77
+1 TR 1 CH 1 NT D'' 1/4 von=88
+1+1/4 TR 1 CH 1 NT B' 1/4 von=79
+1+1/2 TR 1 CH 1 NT A'' 1/4 von=82
+1+3/4 TR 1 CH 1 NT B' 1/4 von=76
+2 TR 1 CH 1 NT A'' 1/4 von=94
+2+1/4 TR 1 CH 1 NT E'' 1/4 von=77
+2+1/2 TR 1 CH 1 NT Bb'' 1/4 von=76
+2+3/4 TR 1 CH 1 NT F#'' 1/4 von=71
+3 TR 1 CH 1 NT B' 1/4 von=83
+3+1/4 TR 1 CH 1 NT E'' 1/4 von=78
+3+1/2 TR 1 CH 1 NT A'' 1/4 von=71
+3+3/4 TR 1 CH 1 NT B'' 1/4 von=71

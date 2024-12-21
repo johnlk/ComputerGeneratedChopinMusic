@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>Compress and Decompress Midi Text Files</title>
+	<style>
+		.text-holder {
+			display: inline-block;
+		}
+		h1 {
+			font-size: 1.5rem;
+			margin-left: 2.8rem;
+		}
+		textarea {
+			width: 31.25rem;
+			height: 18.75rem;
+			margin: 0 -1.25rem 2rem 2rem;
+		}
+		button {
+			width: 6rem;
+			margin: 0 1.5rem 0.5rem -4.5rem;
+			font-size: 0.75rem;
+			padding: 0.5rem;
+			cursor: pointer;
+		}
+	</style>
+	<script src="compress.js"></script>
+	<script src="decompress.js"></script>
+</head>
+<body>
+	<p>This tool helps compress and decompress MIDI text files. The compression removes redundant "BA {section} CR" prefixes from each line while preserving the musical data. This makes the files smaller and easier to read.</p>
+	
+	<div class="text-holder">
+		<h1>Text to Compress</h1>
+		<p>Paste your MIDI text file here to remove redundant prefixes and compress it.</p>
+		<textarea id="toCompress"></textarea>
+		<button onclick="compress()">Compress</button>
+	</div>
+	<div class="text-holder">
+		<h1>Text to Decompress</h1>
+		<p>Paste compressed MIDI text here to restore the full format with all required prefixes.</p>
+		<textarea id="toDecompress"></textarea>
+		<button onclick="decompress()">Decompress</button>
+	</div>
+</body>
+</html>

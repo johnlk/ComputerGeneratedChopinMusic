@@ -1,0 +1,2022 @@
+format=1 tracks=9 division=480
+
+BA    1   CR         0   TR  0   CH 16   Text type 3: "Chopin Prelude  No. 16, Opus 28"
+BA    1   CR         0   TR  0   CH 16   Text type 2: "Copyright © 2002 by Bernd Krueger "
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Frederic Chopin"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Presto con fuoco"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Fertiggestellt am 24.10.02\n"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Normierung: 23.12.2002\n"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Update am 21.6.2010\n"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Update am 21.2.2014\n"
+BA    1   CR         0   TR  0   CH 16   Text type 1: "Dauer: 1:03 Minuten\n"
+BA    1   CR         0   TR  0   CH 16   Meta Event   type &54   96 0 3 0 0
+BA    1   CR         0   TR  0   CH 16   Time signature 4/4, clocks/mtick 24, crotchets/32ndnote 8
+BA    1   CR         0   TR  0   CH 16   Key Db major
+BA    1   CR         0   TR  0   CH 16   Tempo 82.82
+BA    1   CR         0   TR  1   CH 16   Text type 3: "Piano right"
+BA    1   CR         0   TR  1   CH  1   Instrument 1
+BA    1   CR         0   TR  1   CH  1   Channel volume 100
+BA    1   CR         0   TR  1   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  1   CH 16   Text type 1: "bdca426d104a26ac9dcb070447587523"
+BA    1   CR         0   TR  2   CH 16   Text type 3: "Piano left"
+BA    1   CR         0   TR  2   CH  1   Instrument 1
+BA    1   CR         0   TR  2   CH  1   Channel volume 100
+BA    1   CR         0   TR  2   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  2   CH  1   ST &B0 &40 &00
+BA    1   CR         0   TR  2   CH  1   ST &B0 &40 &7F
+BA    1   CR         0   TR  2   CH  1   ST &B0 &5B &7F
+BA    1   CR         0   TR  2   CH  1   ST &B0 &5B &7F
+BA    1   CR         0   TR  3   CH 16   Text type 3: "Chopin: Prelude No.16 in Bb Minor Op. 28"
+BA    1   CR         0   TR  3   CH 16   End of track
+BA    1   CR         0   TR  4   CH 16   Text type 3: "Copyright © 2002 by Bernd Krueger"
+BA    1   CR         0   TR  4   CH 16   End of track
+BA    1   CR         0   TR  5   CH 16   Text type 3: "http://www.piano-midi.de"
+BA    1   CR         0   TR  5   CH 16   End of track
+BA    1   CR         0   TR  6   CH 16   Text type 3: "Edition: 2014-02-14"
+BA    1   CR         0   TR  6   CH 16   End of track
+BA    1   CR         0   TR  7   CH 16   Text type 3: "Spur 7"
+BA    1   CR         0   TR  7   CH  1   Channel volume 127
+BA    1   CR         0   TR  7   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  7   CH 16   End of track
+BA    1   CR         0   TR  8   CH 16   Text type 3: "Spur 8"
+BA    1   CR         0   TR  8   CH  1   Channel volume 127
+BA    1   CR         0   TR  8   CH  1   ST &B0 &0A &40
+BA    1   CR         0   TR  8   CH 16   End of track
+BA    1   CR     1/480   TR  1   CH  1   NT  Eb        319/480   von=81
+BA    1   CR       1/8   TR  1   CH  1   NT  A           13/24
+BA    1   CR       1/4   TR  0   CH 16   Tempo 48.69
+BA    1   CR       1/4   TR  1   CH  1   NT  Gb'         11/24   von=96
+BA    1   CR       1/4   TR  2   CH  1   NT  F---         5/12   von=70
+BA    1   CR       1/4   TR  2   CH  1   NT  F--          5/12   von=84
+BA    1   CR       2/3   TR  0   CH 16   Tempo 94.86
+BA    1   CR       2/3   TR  1   CH  1   NT  A             2/3   von=68
+BA    1   CR       2/3   TR  1   CH  1   NT  F'          17/24   von=80
+BA    1   CR       2/3   TR  1   CH  1   NT  Eb            2/3   von=62
+BA    1   CR       2/3   TR  2   CH  1   NT  C-            2/3   von=47
+BA    1   CR       2/3   TR  2   CH  1   NT  F-            2/3   von=53
+BA    1   CR       2/3   TR  2   CH  1   NT  C             2/3   von=71
+BA    1   CR     1+1/3   TR  1   CH  1   NT  Eb            2/3   von=64
+BA    1   CR     1+1/3   TR  1   CH  1   NT  A             2/3   von=67
+BA    1   CR     1+1/3   TR  1   CH  1   NT  Fb'         17/24   von=80
+BA    1   CR     1+1/3   TR  2   CH  1   NT  C-            2/3   von=46
+BA    1   CR     1+1/3   TR  2   CH  1   NT  F-            2/3   von=52
+BA    1   CR     1+1/3   TR  2   CH  1   NT  C             2/3   von=70
+BA    1   CR     1+1/2   TR  0   CH 16   Tempo 113.52
+BA    1   CR         2   TR  0   CH 16   Tempo 125.61
+BA    1   CR         2   TR  1   CH  1   NT  A             2/3   von=69
+BA    1   CR         2   TR  1   CH  1   NT  Eb            2/3   von=63
+BA    1   CR         2   TR  1   CH  1   NT  Eb'         17/24   von=81
+BA    1   CR         2   TR  2   CH  1   NT  C-            2/3   von=47
+BA    1   CR         2   TR  2   CH  1   NT  F-            2/3   von=53
+BA    1   CR         2   TR  2   CH  1   NT  C             2/3   von=72
+BA    1   CR     2+2/3   TR  0   CH 16   Tempo 120.36
+BA    1   CR     2+2/3   TR  1   CH  1   NT  Db'         17/24   von=83
+BA    1   CR     2+2/3   TR  1   CH  1   NT  Eb            2/3   von=62
+BA    1   CR     2+2/3   TR  1   CH  1   NT  A             2/3   von=69
+BA    1   CR     2+2/3   TR  2   CH  1   NT  C-            2/3   von=48
+BA    1   CR     2+2/3   TR  2   CH  1   NT  F-            2/3   von=55
+BA    1   CR     2+2/3   TR  2   CH  1   NT  C             2/3   von=74
+BA    1   CR     3+1/3   TR  1   CH  1   NT  A             5/8   von=65
+BA    1   CR     3+1/3   TR  1   CH  1   NT  Eb            5/8   von=58
+BA    1   CR     3+1/3   TR  1   CH  1   NT  C'            5/8   von=78
+BA    1   CR     3+1/3   TR  2   CH  1   NT  C-            5/8   von=46
+BA    1   CR     3+1/3   TR  2   CH  1   NT  F-            5/8   von=52
+BA    1   CR     3+1/3   TR  2   CH  1   NT  C             5/8   von=70
+BA    1   CR     3+1/2   TR  0   CH 16   Tempo 15.55
+
+BA    2   CR         0   TR  0   CH 16   Tempo 181.6
+BA    2   CR         0   TR  1   CH  1   NT  F'           7/24   von=39
+BA    2   CR         0   TR  2   CH  1   ST &B0 &40 &00
+BA    2   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=53
+BA    2   CR    21/160   TR  2   CH  1   ST &B0 &40 &7F
+BA    2   CR       1/4   TR  1   CH  1   NT  Eb'          7/24   von=40
+BA    2   CR       1/2   TR  0   CH 16   Tempo 188.07
+BA    2   CR       1/2   TR  1   CH  1   NT  C'           7/24   von=41
+BA    2   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=29
+BA    2   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=23
+BA    2   CR       3/4   TR  1   CH  1   NT  Db'          7/24   von=42
+BA    2   CR   121/160   TR  2   CH  1   ST &B0 &40 &00
+BA    2   CR     11/12   TR  0   CH 16   Tempo 188.66
+BA    2   CR         1   TR  1   CH  1   NT  F            7/24   von=43
+BA    2   CR     1+1/4   TR  1   CH  1   NT  A            7/24   von=45
+BA    2   CR     1+1/2   TR  0   CH 16   Tempo 189.24
+BA    2   CR     1+1/2   TR  1   CH  1   NT  Bb           7/24
+BA    2   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=40
+BA    2   CR     1+3/4   TR  1   CH  1   NT  C'           7/24   von=46
+BA    2   CR         2   TR  0   CH 16   Tempo 186.3
+BA    2   CR         2   TR  1   CH  1   NT  Db'          7/24   von=48
+BA    2   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=57
+BA    2   CR  2+17/160   TR  2   CH  1   ST &B0 &40 &7F
+BA    2   CR     2+1/4   TR  1   CH  1   NT  Eb'          7/24   von=49
+BA    2   CR     2+1/2   TR  0   CH 16   Tempo 189.86
+BA    2   CR     2+1/2   TR  1   CH  1   NT  F'           7/24   von=51
+BA    2   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=34
+BA    2   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=27
+BA    2   CR     2+3/4   TR  1   CH  1   NT  G'           7/24
+BA    2   CR   2+37/48   TR  2   CH  1   ST &B0 &40 &00
+BA    2   CR         3   TR  0   CH 16   Tempo 191.02
+BA    2   CR         3   TR  1   CH  1   NT  A'           7/24   von=52
+BA    2   CR     3+1/4   TR  1   CH  1   NT  Bb'          7/24   von=53
+BA    2   CR     3+1/2   TR  0   CH 16   Tempo 189.27
+BA    2   CR     3+1/2   TR  1   CH  1   NT  C''          7/24   von=54
+BA    2   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=47
+BA    2   CR     3+3/4   TR  1   CH  1   NT  Db''         7/24   von=56
+
+BA    3   CR         0   TR  0   CH 16   Tempo 188.07
+BA    3   CR         0   TR  1   CH  1   NT  Eb''         7/24
+BA    3   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=65
+BA    3   CR      1/80   TR  2   CH  1   ST &B0 &40 &7F
+BA    3   CR       1/4   TR  1   CH  1   NT  F''          7/24   von=57
+BA    3   CR       1/2   TR  0   CH 16   Tempo 192.79
+BA    3   CR       1/2   TR  1   CH  1   NT  G''          7/24   von=58
+BA    3   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=35
+BA    3   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=28
+BA    3   CR       3/4   TR  1   CH  1   NT  A''          7/24   von=59
+BA    3   CR   121/160   TR  2   CH  1   ST &B0 &40 &00
+BA    3   CR         1   TR  0   CH 16   Tempo 193.38
+BA    3   CR         1   TR  1   CH  1   NT  Bb''         7/24   von=61
+BA    3   CR     1+1/4   TR  1   CH  1   NT  C'''         7/24   von=62
+BA    3   CR     1+1/2   TR  0   CH 16   Tempo 193.96
+BA    3   CR     1+1/2   TR  1   CH  1   NT  Db'''        7/24   von=64
+BA    3   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=50
+BA    3   CR     1+3/4   TR  1   CH  1   NT  Eb'''        7/24   von=65
+BA    3   CR         2   TR  0   CH 16   Tempo 190.44
+BA    3   CR         2   TR  1   CH  1   NT  Fb'''        7/24   von=67
+BA    3   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=68
+BA    3   CR    2+1/12   TR  2   CH  1   ST &B0 &40 &7F
+BA    3   CR     2+1/4   TR  1   CH  1   NT  F'''         7/24   von=65
+BA    3   CR     2+1/2   TR  1   CH  1   NT  Eb'''        7/24
+BA    3   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=41
+BA    3   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=34
+BA    3   CR    2+7/12   TR  0   CH 16   Tempo 194.56
+BA    3   CR     2+3/4   TR  1   CH  1   NT  Db'''        7/24   von=63
+BA    3   CR   2+25/32   TR  2   CH  1   ST &B0 &40 &00
+BA    3   CR         3   TR  1   CH  1   NT  C'''         7/24   von=62
+BA    3   CR    3+1/12   TR  0   CH 16   Tempo 193.96
+BA    3   CR     3+1/4   TR  1   CH  1   NT  Bb''         7/24   von=61
+BA    3   CR     3+1/2   TR  1   CH  1   NT  A''          7/24   von=60
+BA    3   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=46
+BA    3   CR    3+7/12   TR  0   CH 16   Tempo 193.38
+BA    3   CR     3+3/4   TR  1   CH  1   NT  Bb''          1/4   von=59
+
+BA    4   CR         0   TR  0   CH 16   Tempo 189.86
+BA    4   CR         0   TR  1   CH  1   NT  Ab''         7/24   von=58
+BA    4   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=60
+BA    4   CR    11/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    4   CR       1/4   TR  1   CH  1   NT  Gb''         7/24   von=57
+BA    4   CR       1/2   TR  1   CH  1   NT  F''          7/24   von=56
+BA    4   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=38
+BA    4   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=32
+BA    4   CR      7/12   TR  0   CH 16   Tempo 192.19
+BA    4   CR       3/4   TR  1   CH  1   NT  Fb''         7/24
+BA    4   CR   373/480   TR  2   CH  1   ST &B0 &40 &00
+BA    4   CR         1   TR  1   CH  1   NT  F''          7/24   von=55
+BA    4   CR    1+1/12   TR  0   CH 16   Tempo 191.61
+BA    4   CR     1+1/4   TR  1   CH  1   NT  Eb''         7/24   von=54
+BA    4   CR     1+1/2   TR  1   CH  1   NT  Db''         7/24   von=53
+BA    4   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=42
+BA    4   CR    1+7/12   TR  0   CH 16   Tempo 191.02
+BA    4   CR     1+3/4   TR  1   CH  1   NT  C''          7/24   von=52
+BA    4   CR         2   TR  0   CH 16   Tempo 186.91
+BA    4   CR         2   TR  1   CH  1   NT  Bb'          7/24   von=51
+BA    4   CR         2   TR  2   CH  1   ST &B0 &40 &7F
+BA    4   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=54
+BA    4   CR     2+1/4   TR  1   CH  1   NT  A'           7/24   von=50
+BA    4   CR     2+1/2   TR  1   CH  1   NT  Bb'          7/24   von=49
+BA    4   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=34
+BA    4   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=28
+BA    4   CR    2+7/12   TR  0   CH 16   Tempo 189.86
+BA    4   CR     2+3/4   TR  1   CH  1   NT  Ab'          7/24
+BA    4   CR 2+187/240   TR  2   CH  1   ST &B0 &40 &00
+BA    4   CR         3   TR  1   CH  1   NT  Gb'          7/24   von=48
+BA    4   CR    3+1/12   TR  0   CH 16   Tempo 189.24
+BA    4   CR     3+1/4   TR  1   CH  1   NT  F'           7/24
+BA    4   CR     3+1/2   TR  1   CH  1   NT  Eb'          7/24   von=46
+BA    4   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=39
+BA    4   CR    3+7/12   TR  0   CH 16   Tempo 188.66
+BA    4   CR     3+3/4   TR  1   CH  1   NT  Db'          7/24   von=45
+BA    4   CR   3+11/12   TR  0   CH 16   Tempo 187.48
+
+BA    5   CR         0   TR  0   CH 16   Tempo 185.23
+BA    5   CR         0   TR  1   CH  1   NT  C'           7/24
+BA    5   CR         0   TR  2   CH  1   ST &B0 &40 &7F
+BA    5   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=51
+BA    5   CR       1/4   TR  1   CH  1   NT  Db'          7/24
+BA    5   CR       1/2   TR  0   CH 16   Tempo 188.07
+BA    5   CR       1/2   TR  1   CH  1   NT  Eb'          7/24
+BA    5   CR       1/2   TR  2   CH  1   NT  Eb            1/4   von=28
+BA    5   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=22
+BA    5   CR       1/2   TR  2   CH  1   NT  Eb-           1/4
+BA    5   CR       3/4   TR  1   CH  1   NT  F'           7/24   von=46
+BA    5   CR         1   TR  1   CH  1   NT  Gb'          7/24   von=47
+BA    5   CR   1+3/160   TR  2   CH  1   ST &B0 &40 &00
+BA    5   CR    1+1/12   TR  0   CH 16   Tempo 188.66
+BA    5   CR     1+1/4   TR  1   CH  1   NT  Ab'          7/24
+BA    5   CR     1+1/2   TR  0   CH 16   Tempo 186.24
+BA    5   CR     1+1/2   TR  1   CH  1   NT  Bb'          7/24   von=48
+BA    5   CR     1+1/2   TR  2   CH  1   NT  Bb---         1/2   von=43
+BA    5   CR     1+3/4   TR  1   CH  1   NT  C''          7/24   von=49
+BA    5   CR         2   TR  1   CH  1   NT  Bb'          7/24   von=48
+BA    5   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=59
+BA    5   CR    2+7/80   TR  2   CH  1   ST &B0 &40 &7F
+BA    5   CR     2+1/4   TR  0   CH 16   Tempo 189.86
+BA    5   CR     2+1/4   TR  1   CH  1   NT  Ab'          7/24
+BA    5   CR     2+1/2   TR  1   CH  1   NT  Gb'          7/24   von=49
+BA    5   CR     2+1/2   TR  2   CH  1   NT  Eb            1/4   von=35
+BA    5   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=29
+BA    5   CR     2+1/2   TR  2   CH  1   NT  Eb-           1/4
+BA    5   CR     2+3/4   TR  1   CH  1   NT  F'           7/24
+BA    5   CR     2+5/6   TR  0   CH 16   Tempo 190.44
+BA    5   CR         3   TR  1   CH  1   NT  Eb'          7/24   von=50
+BA    5   CR   3+7/480   TR  2   CH  1   ST &B0 &40 &00
+BA    5   CR     3+1/4   TR  1   CH  1   NT  Db'          7/24   von=51
+BA    5   CR    3+5/12   TR  0   CH 16   Tempo 191.02
+BA    5   CR     3+1/2   TR  0   CH 16   Tempo 188.26
+BA    5   CR     3+1/2   TR  1   CH  1   NT  C'           7/24
+BA    5   CR     3+1/2   TR  2   CH  1   NT  Bb---         1/2   von=39
+BA    5   CR     3+3/4   TR  1   CH  1   NT  Eb'          7/24
+
+BA    6   CR         0   TR  0   CH 16   Tempo 186.91
+BA    6   CR         0   TR  1   CH  1   NT  Gb'          7/24
+BA    6   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=56
+BA    6   CR      1/80   TR  2   CH  1   ST &B0 &40 &7F
+BA    6   CR       1/4   TR  1   CH  1   NT  D'           7/24   von=48
+BA    6   CR       1/2   TR  0   CH 16   Tempo 191.61
+BA    6   CR       1/2   TR  1   CH  1   NT  F'           7/24   von=51
+BA    6   CR       1/2   TR  2   CH  1   NT  Eb            1/4   von=31
+BA    6   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=26
+BA    6   CR       1/2   TR  2   CH  1   NT  Eb-           1/4
+BA    6   CR       3/4   TR  1   CH  1   NT  Eb'          7/24   von=45
+BA    6   CR         1   TR  0   CH 16   Tempo 186.3
+BA    6   CR         1   TR  1   CH  1   NT  C'           7/24
+BA    6   CR    1+1/40   TR  2   CH  1   ST &B0 &40 &00
+BA    6   CR     1+1/4   TR  1   CH  1   NT  Gb           7/24   von=43
+BA    6   CR     1+1/2   TR  0   CH 16   Tempo 186.91
+BA    6   CR     1+1/2   TR  1   CH  1   NT  Cb'          7/24   von=44
+BA    6   CR     1+1/2   TR  2   CH  1   NT  Bb---         1/2   von=37
+BA    6   CR     1+3/4   TR  1   CH  1   NT  C'           7/24   von=45
+BA    6   CR         2   TR  0   CH 16   Tempo 187.48
+BA    6   CR         2   TR  1   CH  1   NT  Db'          7/24
+BA    6   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=51
+BA    6   CR  2+29/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    6   CR     2+1/4   TR  1   CH  1   NT  C'           7/24   von=46
+BA    6   CR     2+1/2   TR  0   CH 16   Tempo 188.07
+BA    6   CR     2+1/2   TR  1   CH  1   NT  D'           7/24   von=48
+BA    6   CR     2+1/2   TR  2   CH  1   NT  Eb            1/4   von=29
+BA    6   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=24
+BA    6   CR     2+1/2   TR  2   CH  1   NT  Eb-           1/4
+BA    6   CR     2+3/4   TR  1   CH  1   NT  Eb'          7/24
+BA    6   CR   2+11/12   TR  0   CH 16   Tempo 188.66
+BA    6   CR         3   TR  1   CH  1   NT  F'           7/24
+BA    6   CR    3+1/60   TR  2   CH  1   ST &B0 &40 &00
+BA    6   CR     3+1/4   TR  1   CH  1   NT  Eb'          7/24   von=50
+BA    6   CR    3+5/12   TR  0   CH 16   Tempo 189.24
+BA    6   CR     3+1/2   TR  0   CH 16   Tempo 191.61
+BA    6   CR     3+1/2   TR  1   CH  1   NT  Fb'          7/24   von=51
+BA    6   CR     3+1/2   TR  2   CH  1   NT  Bb---         1/2   von=43
+BA    6   CR     3+3/4   TR  1   CH  1   NT  F'            1/4
+BA    6   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA    7   CR         0   TR  0   CH 16   Tempo 186.3
+BA    7   CR         0   TR  1   CH  1   NT  Ab'          7/24   von=52
+BA    7   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=59
+BA    7   CR    29/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    7   CR       1/4   TR  1   CH  1   NT  Gb'          7/24   von=53
+BA    7   CR      5/12   TR  0   CH 16   Tempo 190.44
+BA    7   CR       1/2   TR  0   CH 16   Tempo 191.02
+BA    7   CR       1/2   TR  1   CH  1   NT  A'           7/24   von=55
+BA    7   CR       1/2   TR  2   CH  1   NT  Eb            1/4   von=33
+BA    7   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=28
+BA    7   CR       1/2   TR  2   CH  1   NT  Eb-           1/4
+BA    7   CR       3/4   TR  1   CH  1   NT  Bb'          7/24   von=56
+BA    7   CR       5/6   TR  0   CH 16   Tempo 191.02
+BA    7   CR         1   TR  1   CH  1   NT  Db''         7/24
+BA    7   CR    1+1/30   TR  2   CH  1   ST &B0 &40 &00
+BA    7   CR     1+1/4   TR  1   CH  1   NT  C''          7/24   von=58
+BA    7   CR     1+1/3   TR  0   CH 16   Tempo 191.61
+BA    7   CR     1+1/2   TR  1   CH  1   NT  Db''         7/24   von=59
+BA    7   CR     1+1/2   TR  2   CH  1   NT  Bb---         1/2   von=56
+BA    7   CR     1+3/4   TR  1   CH  1   NT  D''          7/24   von=60
+BA    7   CR     1+5/6   TR  0   CH 16   Tempo 192.19
+BA    7   CR         2   TR  0   CH 16   Tempo 184.21
+BA    7   CR         2   TR  1   CH  1   NT  F''          7/24   von=61
+BA    7   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=68
+BA    7   CR  2+23/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    7   CR     2+1/4   TR  1   CH  1   NT  Eb''         7/24   von=62
+BA    7   CR     2+1/3   TR  0   CH 16   Tempo 189.23
+BA    7   CR     2+1/2   TR  0   CH 16   Tempo 189.73
+BA    7   CR     2+1/2   TR  1   CH  1   NT  Fb''         7/24
+BA    7   CR     2+1/2   TR  2   CH  1   NT  Eb            1/4   von=36
+BA    7   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=29
+BA    7   CR     2+1/2   TR  2   CH  1   NT  Eb-           1/4
+BA    7   CR     2+2/3   TR  0   CH 16   Tempo 190.24
+BA    7   CR     2+3/4   TR  0   CH 16   Tempo 190.74
+BA    7   CR     2+3/4   TR  1   CH  1   NT  F''          7/24   von=63
+BA    7   CR   2+11/12   TR  0   CH 16   Tempo 191.24
+BA    7   CR         3   TR  0   CH 16   Tempo 191.74
+BA    7   CR         3   TR  1   CH  1   NT  A''          7/24   von=64
+BA    7   CR  3+17/480   TR  2   CH  1   ST &B0 &40 &00
+BA    7   CR    3+1/12   TR  0   CH 16   Tempo 192.75
+BA    7   CR     3+1/6   TR  0   CH 16   Tempo 191.24
+BA    7   CR     3+1/4   TR  0   CH 16   Tempo 189.73
+BA    7   CR     3+1/4   TR  1   CH  1   NT  Bb''         7/24   von=65
+BA    7   CR     3+1/3   TR  0   CH 16   Tempo 188.23
+BA    7   CR    3+5/12   TR  0   CH 16   Tempo 187.22
+BA    7   CR     3+1/2   TR  0   CH 16   Tempo 182.21
+BA    7   CR     3+1/2   TR  1   CH  1   NT  Ab''         7/24   von=67
+BA    7   CR     3+1/2   TR  2   CH  1   NT  Bb--          1/2   von=59
+BA    7   CR    3+7/12   TR  0   CH 16   Tempo 177.18
+BA    7   CR     3+2/3   TR  0   CH 16   Tempo 172.17
+BA    7   CR     3+3/4   TR  0   CH 16   Tempo 167.1404
+BA    7   CR     3+3/4   TR  1   CH  1   NT  G''          7/24   von=68
+BA    7   CR     3+5/6   TR  0   CH 16   Tempo 162.13
+BA    7   CR   3+11/12   TR  0   CH 16   Tempo 157.1
+
+BA    8   CR         0   TR  0   CH 16   Tempo 190.44
+BA    8   CR         0   TR  1   CH  1   NT  Gb''         7/24   von=67
+BA    8   CR         0   TR  2   CH  1   NT  A--           1/2   von=73
+BA    8   CR    17/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    8   CR       1/4   TR  1   CH  1   NT  F'''         7/24   von=66
+BA    8   CR       1/2   TR  0   CH 16   Tempo 195.15
+BA    8   CR       1/2   TR  1   CH  1   NT  Eb'''        7/24
+BA    8   CR       1/2   TR  2   CH  1   NT  Eb            1/4   von=43
+BA    8   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=36
+BA    8   CR       3/4   TR  0   CH 16   Tempo 193.96
+BA    8   CR       3/4   TR  1   CH  1   NT  Eb''         7/24   von=65
+BA    8   CR         1   TR  1   CH  1   NT  Db'''        7/24   von=63
+BA    8   CR  1+13/480   TR  2   CH  1   ST &B0 &40 &00
+BA    8   CR     1+1/4   TR  1   CH  1   NT  C'''         7/24   von=62
+BA    8   CR     1+1/2   TR  0   CH 16   Tempo 193.38
+BA    8   CR     1+1/2   TR  1   CH  1   NT  C''          7/24
+BA    8   CR     1+1/2   TR  2   CH  1   NT  A---          1/2   von=46
+BA    8   CR     1+3/4   TR  1   CH  1   NT  Bb''         7/24   von=61
+BA    8   CR         2   TR  0   CH 16   Tempo 187.48
+BA    8   CR         2   TR  1   CH  1   NT  A''          7/24   von=60
+BA    8   CR         2   TR  2   CH  1   NT  A--           1/2   von=60
+BA    8   CR  2+29/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    8   CR     2+1/4   TR  1   CH  1   NT  A'           7/24   von=59
+BA    8   CR     2+1/2   TR  0   CH 16   Tempo 192.79
+BA    8   CR     2+1/2   TR  1   CH  1   NT  Ab''         7/24   von=57
+BA    8   CR     2+1/2   TR  2   CH  1   NT  Eb            1/4   von=37
+BA    8   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=31
+BA    8   CR     2+3/4   TR  1   CH  1   NT  Gb''         7/24
+BA    8   CR         3   TR  0   CH 16   Tempo 192.19
+BA    8   CR         3   TR  1   CH  1   NT  Gb'          7/24   von=56
+BA    8   CR  3+17/480   TR  2   CH  1   ST &B0 &40 &00
+BA    8   CR     3+1/4   TR  1   CH  1   NT  F''          7/24
+BA    8   CR     3+1/2   TR  1   CH  1   NT  Eb''         7/24   von=55
+BA    8   CR     3+1/2   TR  2   CH  1   NT  Ab--          1/2   von=40
+BA    8   CR     3+3/4   TR  0   CH 16   Tempo 191.61
+BA    8   CR     3+3/4   TR  1   CH  1   NT  Gb'          7/24   von=54
+
+BA    9   CR         0   TR  1   CH  1   NT  F'           7/24
+BA    9   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=55
+BA    9   CR    49/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    9   CR       1/4   TR  1   CH  1   NT  Eb''         7/24   von=52
+BA    9   CR      5/12   TR  0   CH 16   Tempo 191.02
+BA    9   CR       1/2   TR  1   CH  1   NT  Db''         7/24   von=51
+BA    9   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=34
+BA    9   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=28
+BA    9   CR       3/4   TR  1   CH  1   NT  F'           7/24
+BA    9   CR     61/80   TR  2   CH  1   ST &B0 &40 &00
+BA    9   CR         1   TR  1   CH  1   NT  Db''         7/24   von=50
+BA    9   CR     1+1/6   TR  0   CH 16   Tempo 190.44
+BA    9   CR     1+1/4   TR  1   CH  1   NT  C''          7/24
+BA    9   CR     1+1/2   TR  1   CH  1   NT  Eb'          7/24   von=49
+BA    9   CR     1+1/2   TR  2   CH  1   NT  Bb--          1/2   von=39
+BA    9   CR     1+3/4   TR  1   CH  1   NT  C''          7/24   von=47
+BA    9   CR   1+11/12   TR  0   CH 16   Tempo 189.86
+BA    9   CR         2   TR  1   CH  1   NT  Db'          7/24   von=46
+BA    9   CR         2   TR  2   CH  1   NT  Db-           1/2   von=49
+BA    9   CR  2+49/480   TR  2   CH  1   ST &B0 &40 &7F
+BA    9   CR     2+1/4   TR  1   CH  1   NT  Bb'          7/24
+BA    9   CR     2+1/2   TR  1   CH  1   NT  Ab'          7/24   von=45
+BA    9   CR     2+1/2   TR  2   CH  1   NT  F             1/4   von=29
+BA    9   CR     2+1/2   TR  2   CH  1   NT  Bb-           1/4   von=25
+BA    9   CR     2+1/2   TR  2   CH  1   NT  F-            1/4
+BA    9   CR     2+2/3   TR  0   CH 16   Tempo 189.24
+BA    9   CR     2+3/4   TR  1   CH  1   NT  C'           7/24
+BA    9   CR 2+187/240   TR  2   CH  1   ST &B0 &40 &00
+BA    9   CR         3   TR  1   CH  1   NT  Ab'          7/24   von=44
+BA    9   CR     3+1/4   TR  1   CH  1   NT  Gb'          7/24   von=42
+BA    9   CR    3+5/12   TR  0   CH 16   Tempo 188.66
+BA    9   CR     3+1/2   TR  1   CH  1   NT  Bb           7/24
+BA    9   CR     3+1/2   TR  2   CH  1   NT  Db-           1/2   von=33
+BA    9   CR     3+3/4   TR  1   CH  1   NT  Gb'           1/4
+
+BA   10   CR         0   TR  0   CH 16   Tempo 188.66
+BA   10   CR         0   TR  1   CH  1   NT  A            7/24   von=40
+BA   10   CR         0   TR  2   CH  1   NT  Eb-           1/2   von=41
+BA   10   CR    17/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   10   CR       1/4   TR  1   CH  1   NT  Bb           7/24   von=42
+BA   10   CR       1/3   TR  0   CH 16   Tempo 189.24
+BA   10   CR       1/2   TR  1   CH  1   NT  C'           7/24
+BA   10   CR       1/2   TR  2   CH  1   NT  Gb            1/4   von=25
+BA   10   CR       1/2   TR  2   CH  1   NT  A-            1/4   von=20
+BA   10   CR       2/3   TR  0   CH 16   Tempo 189.86
+BA   10   CR       3/4   TR  1   CH  1   NT  Db'          7/24   von=44
+BA   10   CR         1   TR  0   CH 16   Tempo 190.44
+BA   10   CR         1   TR  1   CH  1   NT  Eb'          7/24   von=45
+BA   10   CR    1+1/40   TR  2   CH  1   ST &B0 &40 &00
+BA   10   CR     1+1/4   TR  0   CH 16   Tempo 191.02
+BA   10   CR     1+1/4   TR  1   CH  1   NT  Fb'          7/24   von=46
+BA   10   CR     1+1/2   TR  1   CH  1   NT  F'           7/24   von=47
+BA   10   CR     1+1/2   TR  2   CH  1   NT  Eb-           1/2   von=35
+BA   10   CR    1+7/12   TR  0   CH 16   Tempo 191.61
+BA   10   CR     1+3/4   TR  1   CH  1   NT  Gb'          7/24   von=48
+BA   10   CR   1+11/12   TR  0   CH 16   Tempo 192.19
+BA   10   CR         2   TR  0   CH 16   Tempo 189.24
+BA   10   CR         2   TR  1   CH  1   NT  Fb'          7/24   von=51
+BA   10   CR         2   TR  2   CH  1   NT  Db-           1/2   von=49
+BA   10   CR  2+17/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   10   CR     2+1/4   TR  1   CH  1   NT  F'           7/24   von=49
+BA   10   CR     2+1/2   TR  0   CH 16   Tempo 192.19
+BA   10   CR     2+1/2   TR  1   CH  1   NT  D'           7/24   von=47
+BA   10   CR     2+1/2   TR  2   CH  1   NT  F             1/4   von=28
+BA   10   CR     2+1/2   TR  2   CH  1   NT  Bb-           1/4   von=18
+BA   10   CR     2+1/2   TR  2   CH  1   NT  F-            1/4
+BA   10   CR     2+3/4   TR  0   CH 16   Tempo 191.61
+BA   10   CR     2+3/4   TR  1   CH  1   NT  Eb'          7/24   von=46
+BA   10   CR         3   TR  0   CH 16   Tempo 191.02
+BA   10   CR         3   TR  1   CH  1   NT  C'           7/24   von=45
+BA   10   CR  3+17/480   TR  2   CH  1   ST &B0 &40 &00
+BA   10   CR     3+1/4   TR  1   CH  1   NT  Db'          7/24   von=44
+BA   10   CR     3+1/3   TR  0   CH 16   Tempo 190.44
+BA   10   CR     3+1/2   TR  1   CH  1   NT  C'           7/24   von=43
+BA   10   CR     3+1/2   TR  2   CH  1   NT  Db-           1/2   von=40
+BA   10   CR    3+7/12   TR  0   CH 16   Tempo 189.86
+BA   10   CR     3+3/4   TR  1   CH  1   NT  Bb            1/4   von=41
+BA   10   CR     3+5/6   TR  0   CH 16   Tempo 189.24
+BA   10   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA   11   CR         0   TR  1   CH  1   NT  A            7/24   von=39
+BA   11   CR         0   TR  2   CH  1   NT  Eb-           1/2   von=50
+BA   11   CR    17/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   11   CR       1/4   TR  1   CH  1   NT  Bb           7/24   von=41
+BA   11   CR       1/3   TR  0   CH 16   Tempo 190.44
+BA   11   CR       1/2   TR  1   CH  1   NT  C'           7/24   von=42
+BA   11   CR       1/2   TR  2   CH  1   NT  Gb            1/4   von=27
+BA   11   CR       1/2   TR  2   CH  1   NT  A-            1/4   von=22
+BA   11   CR       3/4   TR  0   CH 16   Tempo 191.02
+BA   11   CR       3/4   TR  1   CH  1   NT  Db'          7/24   von=44
+BA   11   CR         1   TR  1   CH  1   NT  Eb'          7/24   von=45
+BA   11   CR    1+1/48   TR  2   CH  1   ST &B0 &40 &00
+BA   11   CR     1+1/6   TR  0   CH 16   Tempo 191.61
+BA   11   CR     1+1/4   TR  1   CH  1   NT  Fb'          7/24   von=47
+BA   11   CR     1+1/2   TR  1   CH  1   NT  F'           7/24   von=49
+BA   11   CR     1+1/2   TR  2   CH  1   NT  Eb-           1/2   von=36
+BA   11   CR    1+7/12   TR  0   CH 16   Tempo 192.19
+BA   11   CR     1+3/4   TR  1   CH  1   NT  Gb'          7/24   von=50
+BA   11   CR   1+11/12   TR  0   CH 16   Tempo 192.79
+BA   11   CR         2   TR  0   CH 16   Tempo 187.48
+BA   11   CR         2   TR  1   CH  1   NT  Fb'          7/24   von=51
+BA   11   CR         2   TR  2   CH  1   NT  Db-           1/2   von=51
+BA   11   CR  2+23/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   11   CR     2+1/4   TR  1   CH  1   NT  F'           7/24   von=50
+BA   11   CR     2+1/3   TR  0   CH 16   Tempo 192.19
+BA   11   CR     2+1/2   TR  0   CH 16   Tempo 192.19
+BA   11   CR     2+1/2   TR  1   CH  1   NT  D'           7/24   von=48
+BA   11   CR     2+1/2   TR  2   CH  1   NT  F             1/4   von=29
+BA   11   CR     2+1/2   TR  2   CH  1   NT  Bb-           1/4   von=24
+BA   11   CR     2+1/2   TR  2   CH  1   NT  F-            1/4
+BA   11   CR     2+2/3   TR  0   CH 16   Tempo 191.61
+BA   11   CR     2+3/4   TR  1   CH  1   NT  Eb'          7/24
+BA   11   CR         3   TR  1   CH  1   NT  C'           7/24   von=46
+BA   11   CR   3+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   11   CR    3+1/12   TR  0   CH 16   Tempo 191.02
+BA   11   CR     3+1/4   TR  1   CH  1   NT  Db'          7/24   von=45
+BA   11   CR    3+5/12   TR  0   CH 16   Tempo 190.44
+BA   11   CR     3+1/2   TR  1   CH  1   NT  C'           7/24
+BA   11   CR     3+1/2   TR  2   CH  1   NT  Db-           1/2   von=36
+BA   11   CR     3+3/4   TR  0   CH 16   Tempo 189.86
+BA   11   CR     3+3/4   TR  1   CH  1   NT  Bb            1/4   von=43
+BA   11   CR     3+5/6   TR  0   CH 16   Tempo 191.61
+
+BA   12   CR         0   TR  0   CH 16   Tempo 191.84
+BA   12   CR         0   TR  1   CH  1   NT  Cb'          7/24   von=41
+BA   12   CR         0   TR  2   CH  1   NT  F-            1/2   von=42
+BA   12   CR    17/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   12   CR       1/4   TR  0   CH 16   Tempo 192.36
+BA   12   CR       1/4   TR  1   CH  1   NT  C'           7/24   von=42
+BA   12   CR       1/2   TR  0   CH 16   Tempo 192.89
+BA   12   CR       1/2   TR  1   CH  1   NT  D'           7/24   von=44
+BA   12   CR       1/2   TR  2   CH  1   NT  Ab            1/4   von=28
+BA   12   CR       1/2   TR  2   CH  1   NT  Cb            1/4   von=23
+BA   12   CR       2/3   TR  0   CH 16   Tempo 193.41
+BA   12   CR       3/4   TR  1   CH  1   NT  Eb'          7/24   von=45
+BA   12   CR     11/12   TR  0   CH 16   Tempo 193.94
+BA   12   CR         1   TR  1   CH  1   NT  Fb'          7/24   von=48
+BA   12   CR    1+1/80   TR  2   CH  1   ST &B0 &40 &00
+BA   12   CR    1+1/12   TR  0   CH 16   Tempo 194.46
+BA   12   CR     1+1/4   TR  1   CH  1   NT  F'           7/24   von=50
+BA   12   CR     1+1/3   TR  0   CH 16   Tempo 194.99
+BA   12   CR     1+1/2   TR  0   CH 16   Tempo 195.51
+BA   12   CR     1+1/2   TR  1   CH  1   NT  G'           7/24   von=51
+BA   12   CR     1+1/2   TR  2   CH  1   NT  F-            1/2   von=39
+BA   12   CR     1+3/4   TR  0   CH 16   Tempo 196.04
+BA   12   CR     1+3/4   TR  1   CH  1   NT  Ab'          7/24   von=53
+BA   12   CR   1+11/12   TR  0   CH 16   Tempo 196.57
+BA   12   CR         2   TR  0   CH 16   Tempo 191.02
+BA   12   CR         2   TR  1   CH  1   NT  Gb'          7/24   von=54
+BA   12   CR         2   TR  2   CH  1   NT  Eb-           1/2   von=54
+BA   12   CR  2+17/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   12   CR     2+1/4   TR  1   CH  1   NT  G'           7/24   von=52
+BA   12   CR    2+5/12   TR  0   CH 16   Tempo 196.57
+BA   12   CR     2+1/2   TR  1   CH  1   NT  Fb'          7/24   von=51
+BA   12   CR     2+1/2   TR  2   CH  1   NT  G             1/4   von=32
+BA   12   CR     2+1/2   TR  2   CH  1   NT  C             1/4   von=26
+BA   12   CR     2+1/2   TR  2   CH  1   NT  G-            1/4
+BA   12   CR     2+2/3   TR  0   CH 16   Tempo 196.04
+BA   12   CR     2+3/4   TR  1   CH  1   NT  F'           7/24   von=48
+BA   12   CR   2+11/12   TR  0   CH 16   Tempo 195.51
+BA   12   CR         3   TR  1   CH  1   NT  D'           7/24
+BA   12   CR   3+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   12   CR     3+1/6   TR  0   CH 16   Tempo 194.99
+BA   12   CR     3+1/4   TR  1   CH  1   NT  Eb'          7/24
+BA   12   CR    3+5/12   TR  0   CH 16   Tempo 194.46
+BA   12   CR     3+1/2   TR  1   CH  1   NT  D'           7/24   von=46
+BA   12   CR     3+1/2   TR  2   CH  1   NT  Eb-           1/2   von=35
+BA   12   CR     3+2/3   TR  0   CH 16   Tempo 193.94
+BA   12   CR     3+3/4   TR  1   CH  1   NT  C'            1/4   von=45
+BA   12   CR   3+11/12   TR  0   CH 16   Tempo 193.41
+
+BA   13   CR         0   TR  1   CH  1   NT  Cb'          7/24   von=43
+BA   13   CR         0   TR  2   CH  1   ST &B0 &40 &7F
+BA   13   CR         0   TR  2   CH  1   NT  F-            1/2   von=42
+BA   13   CR       1/4   TR  0   CH 16   Tempo 193.94
+BA   13   CR       1/4   TR  1   CH  1   NT  C'           7/24   von=44
+BA   13   CR       1/2   TR  0   CH 16   Tempo 194.46
+BA   13   CR       1/2   TR  1   CH  1   NT  D'           7/24   von=45
+BA   13   CR       1/2   TR  2   CH  1   NT  Ab            1/4   von=28
+BA   13   CR       1/2   TR  2   CH  1   NT  Cb            1/4   von=23
+BA   13   CR       3/4   TR  1   CH  1   NT  Eb'          7/24   von=47
+BA   13   CR       5/6   TR  0   CH 16   Tempo 194.99
+BA   13   CR         1   TR  1   CH  1   NT  Fb'          7/24   von=49
+BA   13   CR  1+11/480   TR  2   CH  1   ST &B0 &40 &00
+BA   13   CR    1+1/12   TR  0   CH 16   Tempo 195.51
+BA   13   CR     1+1/4   TR  1   CH  1   NT  F'           7/24   von=51
+BA   13   CR    1+5/12   TR  0   CH 16   Tempo 196.04
+BA   13   CR     1+1/2   TR  1   CH  1   NT  G'           7/24   von=53
+BA   13   CR     1+1/2   TR  2   CH  1   NT  F-            1/2   von=38
+BA   13   CR     1+2/3   TR  0   CH 16   Tempo 196.57
+BA   13   CR     1+3/4   TR  1   CH  1   NT  Ab'          7/24   von=54
+BA   13   CR   1+11/12   TR  0   CH 16   Tempo 197.09
+BA   13   CR 1+451/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   13   CR         2   TR  0   CH 16   Tempo 192.19
+BA   13   CR         2   TR  1   CH  1   NT  Gb'          7/24   von=57
+BA   13   CR         2   TR  2   CH  1   NT  Eb-           1/2   von=52
+BA   13   CR     2+1/4   TR  1   CH  1   NT  G'           7/24   von=56
+BA   13   CR    2+5/12   TR  0   CH 16   Tempo 197.09
+BA   13   CR     2+1/2   TR  1   CH  1   NT  Fb'          7/24   von=54
+BA   13   CR     2+1/2   TR  2   CH  1   NT  G             1/4   von=32
+BA   13   CR     2+1/2   TR  2   CH  1   NT  C             1/4   von=26
+BA   13   CR     2+1/2   TR  2   CH  1   NT  G-            1/4
+BA   13   CR     2+3/4   TR  1   CH  1   NT  F'           7/24   von=51
+BA   13   CR         3   TR  0   CH 16   Tempo 196.57
+BA   13   CR         3   TR  1   CH  1   NT  D'           7/24
+BA   13   CR   3+3/160   TR  2   CH  1   ST &B0 &40 &00
+BA   13   CR     3+1/6   TR  0   CH 16   Tempo 196.04
+BA   13   CR     3+1/4   TR  1   CH  1   NT  Eb'          7/24
+BA   13   CR     3+1/2   TR  1   CH  1   NT  D'           7/24   von=49
+BA   13   CR     3+1/2   TR  2   CH  1   NT  Eb-           1/2   von=45
+BA   13   CR     3+3/4   TR  1   CH  1   NT  C'            1/4   von=48
+BA   13   CR   3+11/12   TR  0   CH 16   Tempo 196.57
+
+BA   14   CR         0   TR  0   CH 16   Tempo 193.96
+BA   14   CR         0   TR  1   CH  1   NT  Db'          7/24   von=46
+BA   14   CR         0   TR  2   CH  1   NT  F-            1/2   von=55
+BA   14   CR    11/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   14   CR       1/4   TR  1   CH  1   NT  Eb'          7/24   von=45
+BA   14   CR       1/2   TR  1   CH  1   NT  F'           7/24   von=47
+BA   14   CR       1/2   TR  2   CH  1   NT  Ab            1/4   von=28
+BA   14   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=23
+BA   14   CR       1/2   TR  2   CH  1   NT  Ab-           1/4
+BA   14   CR       3/4   TR  0   CH 16   Tempo 195.75
+BA   14   CR       3/4   TR  1   CH  1   NT  Gb'          7/24   von=49
+BA   14   CR         1   TR  0   CH 16   Tempo 197.62
+BA   14   CR         1   TR  1   CH  1   NT  Ab'          7/24   von=50
+BA   14   CR    1+1/32   TR  2   CH  1   ST &B0 &40 &00
+BA   14   CR     1+1/4   TR  1   CH  1   NT  Bb'          7/24   von=51
+BA   14   CR     1+1/2   TR  0   CH 16   Tempo 200.77
+BA   14   CR     1+1/2   TR  1   CH  1   NT  Cb''         7/24   von=53
+BA   14   CR     1+1/2   TR  2   CH  1   NT  F-            1/2   von=40
+BA   14   CR     1+3/4   TR  1   CH  1   NT  C''          7/24   von=55
+BA   14   CR         2   TR  0   CH 16   Tempo 192.19
+BA   14   CR         2   TR  1   CH  1   NT  Db''         7/24   von=56
+BA   14   CR         2   TR  2   CH  1   NT  Gb-           1/2   von=55
+BA   14   CR  2+29/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   14   CR     2+1/4   TR  1   CH  1   NT  D''          7/24   von=57
+BA   14   CR    2+5/12   TR  0   CH 16   Tempo 195.75
+BA   14   CR     2+1/2   TR  0   CH 16   Tempo 198.67
+BA   14   CR     2+1/2   TR  1   CH  1   NT  F''          7/24   von=58
+BA   14   CR     2+1/2   TR  2   CH  1   NT  A             1/4   von=34
+BA   14   CR     2+1/2   TR  2   CH  1   NT  C             1/4   von=28
+BA   14   CR     2+1/2   TR  2   CH  1   NT  A-            1/4
+BA   14   CR     2+2/3   TR  0   CH 16   Tempo 198.14
+BA   14   CR     2+3/4   TR  1   CH  1   NT  Eb''         7/24   von=56
+BA   14   CR     2+5/6   TR  0   CH 16   Tempo 197.62
+BA   14   CR   2+11/12   TR  0   CH 16   Tempo 197.09
+BA   14   CR         3   TR  1   CH  1   NT  C''          7/24
+BA   14   CR   3+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   14   CR    3+1/12   TR  0   CH 16   Tempo 196.57
+BA   14   CR     3+1/4   TR  0   CH 16   Tempo 196.04
+BA   14   CR     3+1/4   TR  1   CH  1   NT  A'           7/24   von=54
+BA   14   CR     3+1/3   TR  0   CH 16   Tempo 195.51
+BA   14   CR     3+1/2   TR  0   CH 16   Tempo 194.99
+BA   14   CR     3+1/2   TR  1   CH  1   NT  Gb'          7/24   von=53
+BA   14   CR     3+1/2   TR  2   CH  1   NT  Gb-           1/2   von=39
+BA   14   CR     3+2/3   TR  0   CH 16   Tempo 194.46
+BA   14   CR     3+3/4   TR  0   CH 16   Tempo 193.94
+BA   14   CR     3+3/4   TR  1   CH  1   NT  Eb'           1/4   von=51
+BA   14   CR   3+11/12   TR  0   CH 16   Tempo 192.19
+
+BA   15   CR         0   TR  0   CH 16   Tempo 192.36
+BA   15   CR         0   TR  1   CH  1   NT  Db'          7/24   von=48
+BA   15   CR         0   TR  2   CH  1   NT  F-            1/2   von=51
+BA   15   CR    23/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   15   CR       1/4   TR  0   CH 16   Tempo 192.89
+BA   15   CR       1/4   TR  1   CH  1   NT  Eb'          7/24   von=51
+BA   15   CR       1/2   TR  0   CH 16   Tempo 193.41
+BA   15   CR       1/2   TR  1   CH  1   NT  F'           7/24
+BA   15   CR       1/2   TR  2   CH  1   NT  Ab            1/4   von=30
+BA   15   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=27
+BA   15   CR       1/2   TR  2   CH  1   NT  Ab-           1/4
+BA   15   CR       2/3   TR  0   CH 16   Tempo 193.94
+BA   15   CR       3/4   TR  1   CH  1   NT  Gb'          7/24   von=53
+BA   15   CR     11/12   TR  0   CH 16   Tempo 194.46
+BA   15   CR         1   TR  1   CH  1   NT  Ab'          7/24   von=55
+BA   15   CR    1+1/32   TR  2   CH  1   ST &B0 &40 &00
+BA   15   CR    1+1/12   TR  0   CH 16   Tempo 194.99
+BA   15   CR     1+1/4   TR  1   CH  1   NT  Bb'          7/24   von=56
+BA   15   CR     1+1/3   TR  0   CH 16   Tempo 195.51
+BA   15   CR     1+1/2   TR  0   CH 16   Tempo 196.04
+BA   15   CR     1+1/2   TR  1   CH  1   NT  Cb''         7/24   von=58
+BA   15   CR     1+1/2   TR  2   CH  1   NT  F-            1/2   von=45
+BA   15   CR     1+3/4   TR  0   CH 16   Tempo 196.57
+BA   15   CR     1+3/4   TR  1   CH  1   NT  C''          7/24
+BA   15   CR   1+11/12   TR  0   CH 16   Tempo 197.09
+BA   15   CR         2   TR  0   CH 16   Tempo 195.15
+BA   15   CR         2   TR  1   CH  1   NT  Db''         7/24   von=60
+BA   15   CR         2   TR  2   CH  1   NT  Fb-           1/2   von=59
+BA   15   CR  2+23/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   15   CR    2+1/12   TR  0   CH 16   Tempo 191.02
+BA   15   CR     2+1/4   TR  1   CH  1   NT  C''          7/24   von=62
+BA   15   CR     2+1/2   TR  0   CH 16   Tempo 196.57
+BA   15   CR     2+1/2   TR  1   CH  1   NT  Eb''         7/24   von=63
+BA   15   CR     2+1/2   TR  2   CH  1   NT  G             1/4   von=34
+BA   15   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=29
+BA   15   CR     2+1/2   TR  2   CH  1   NT  Bb-           1/4
+BA   15   CR     2+2/3   TR  0   CH 16   Tempo 196.04
+BA   15   CR     2+3/4   TR  1   CH  1   NT  Db''         7/24   von=60
+BA   15   CR     2+5/6   TR  0   CH 16   Tempo 195.51
+BA   15   CR   2+11/12   TR  0   CH 16   Tempo 194.99
+BA   15   CR         3   TR  1   CH  1   NT  Bb'          7/24   von=58
+BA   15   CR   3+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   15   CR    3+1/12   TR  0   CH 16   Tempo 194.46
+BA   15   CR     3+1/6   TR  0   CH 16   Tempo 193.94
+BA   15   CR     3+1/4   TR  1   CH  1   NT  G'           7/24   von=56
+BA   15   CR     3+1/3   TR  0   CH 16   Tempo 193.41
+BA   15   CR     3+1/2   TR  0   CH 16   Tempo 192.89
+BA   15   CR     3+1/2   TR  1   CH  1   NT  Fb'          7/24   von=55
+BA   15   CR     3+1/2   TR  2   CH  1   NT  Fb-           1/2   von=49
+BA   15   CR    3+7/12   TR  0   CH 16   Tempo 192.36
+BA   15   CR     3+3/4   TR  0   CH 16   Tempo 191.84
+BA   15   CR     3+3/4   TR  1   CH  1   NT  Db'           1/4   von=52
+BA   15   CR     3+5/6   TR  0   CH 16   Tempo 191.31
+BA   15   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA   16   CR         0   TR  1   CH  1   NT  C'           7/24   von=56
+BA   16   CR         0   TR  2   CH  1   NT  Eb-           1/2   von=64
+BA   16   CR      1/12   TR  0   CH 16   Tempo 191.02
+BA   16   CR      1/12   TR  2   CH  1   ST &B0 &40 &7F
+BA   16   CR       1/4   TR  1   CH  1   NT  Db'          7/24
+BA   16   CR      5/12   TR  0   CH 16   Tempo 191.61
+BA   16   CR       1/2   TR  1   CH  1   NT  D'           7/24   von=57
+BA   16   CR       1/2   TR  2   CH  1   NT  C             1/4   von=30
+BA   16   CR       1/2   TR  2   CH  1   NT  Gb            1/4   von=37
+BA   16   CR       1/2   TR  2   CH  1   NT  A-            1/4   von=30
+BA   16   CR       2/3   TR  0   CH 16   Tempo 192.19
+BA   16   CR       3/4   TR  1   CH  1   NT  Eb'          7/24   von=59
+BA   16   CR     11/12   TR  0   CH 16   Tempo 192.79
+BA   16   CR         1   TR  1   CH  1   NT  Fb'          7/24   von=60
+BA   16   CR  1+11/480   TR  2   CH  1   ST &B0 &40 &00
+BA   16   CR     1+1/4   TR  0   CH 16   Tempo 193.38
+BA   16   CR     1+1/4   TR  1   CH  1   NT  F'           7/24   von=61
+BA   16   CR     1+1/2   TR  0   CH 16   Tempo 193.96
+BA   16   CR     1+1/2   TR  1   CH  1   NT  Gb'          7/24
+BA   16   CR     1+1/2   TR  2   CH  1   NT  Eb-           1/2   von=55
+BA   16   CR     1+3/4   TR  0   CH 16   Tempo 194.56
+BA   16   CR     1+3/4   TR  1   CH  1   NT  G'           7/24   von=62
+BA   16   CR         2   TR  0   CH 16   Tempo 195.15
+BA   16   CR         2   TR  1   CH  1   NT  Ab'          7/24
+BA   16   CR         2   TR  2   CH  1   NT  Db-           1/2   von=66
+BA   16   CR    2+1/80   TR  2   CH  1   ST &B0 &40 &7F
+BA   16   CR     2+1/4   TR  0   CH 16   Tempo 194.56
+BA   16   CR     2+1/4   TR  1   CH  1   NT  A'           7/24
+BA   16   CR     2+1/2   TR  0   CH 16   Tempo 193.96
+BA   16   CR     2+1/2   TR  1   CH  1   NT  C''          7/24   von=61
+BA   16   CR     2+1/2   TR  2   CH  1   NT  F             1/4   von=37
+BA   16   CR     2+1/2   TR  2   CH  1   NT  Bb-           1/4   von=30
+BA   16   CR     2+1/2   TR  2   CH  1   NT  F-            1/4
+BA   16   CR     2+2/3   TR  0   CH 16   Tempo 193.38
+BA   16   CR     2+3/4   TR  1   CH  1   NT  Bb'          7/24
+BA   16   CR   2+11/12   TR  0   CH 16   Tempo 192.79
+BA   16   CR         3   TR  1   CH  1   NT  Gb'          7/24   von=59
+BA   16   CR    3+1/60   TR  2   CH  1   ST &B0 &40 &00
+BA   16   CR    3+1/12   TR  0   CH 16   Tempo 192.19
+BA   16   CR     3+1/4   TR  1   CH  1   NT  F'           7/24   von=58
+BA   16   CR     3+1/3   TR  0   CH 16   Tempo 191.61
+BA   16   CR     3+1/2   TR  0   CH 16   Tempo 191.02
+BA   16   CR     3+1/2   TR  1   CH  1   NT  Eb'          7/24   von=57
+BA   16   CR     3+3/4   TR  0   CH 16   Tempo 190.44
+BA   16   CR     3+3/4   TR  1   CH  1   NT  Db'           1/4   von=56
+BA   16   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA   17   CR         0   TR  0   CH 16   Tempo 185.74
+BA   17   CR         0   TR  1   CH  1   NT  C'           7/24   von=66
+BA   17   CR         0   TR  2   CH  1   NT  F--           1/2   von=91
+BA   17   CR    17/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   17   CR       1/4   TR  1   CH  1   NT  Bb           7/24   von=65
+BA   17   CR       1/2   TR  1   CH  1   NT  A            7/24
+BA   17   CR       3/4   TR  1   CH  1   NT  C'           7/24
+BA   17   CR     13/16   TR  2   CH  1   NT  C-         1+3/16   von=68
+BA   17   CR       7/8   TR  2   CH  1   NT  F-          1+1/8
+BA   17   CR     15/16   TR  2   CH  1   NT  A-         1+1/16
+BA   17   CR         1   TR  1   CH  1   NT  Gb           7/24   von=64
+BA   17   CR         1   TR  2   CH  1   NT  Eb              1   von=81
+BA   17   CR     1+1/4   TR  1   CH  1   NT  F            7/24   von=65
+BA   17   CR     1+1/2   TR  1   CH  1   NT  Fb           7/24   von=67
+BA   17   CR     1+3/4   TR  1   CH  1   NT  F            7/24   von=69
+BA   17   CR         2   TR  0   CH 16   Tempo 188.77
+BA   17   CR         2   TR  1   CH  1   NT  Gb           7/24   von=70
+BA   17   CR     2+1/4   TR  0   CH 16   Tempo 188.26
+BA   17   CR     2+1/4   TR  1   CH  1   NT  F            7/24   von=68
+BA   17   CR    2+5/12   TR  0   CH 16   Tempo 187.76
+BA   17   CR     2+1/2   TR  1   CH  1   NT  Bb           7/24   von=72
+BA   17   CR    2+7/12   TR  0   CH 16   Tempo 187.25
+BA   17   CR     2+3/4   TR  1   CH  1   NT  A            7/24   von=71
+BA   17   CR     2+5/6   TR  0   CH 16   Tempo 186.75
+BA   17   CR   2+11/12   TR  0   CH 16   Tempo 187.22
+BA   17   CR         3   TR  0   CH 16   Tempo 182.21
+BA   17   CR         3   TR  1   CH  1   NT  Db'          7/24   von=74
+BA   17   CR    3+1/12   TR  0   CH 16   Tempo 176.69
+BA   17   CR     3+1/6   TR  0   CH 16   Tempo 171.66
+BA   17   CR     3+1/4   TR  0   CH 16   Tempo 166.14
+BA   17   CR     3+1/4   TR  1   CH  1   NT  C'           7/24   von=71
+BA   17   CR     3+1/3   TR  0   CH 16   Tempo 160.62
+BA   17   CR    3+5/12   TR  0   CH 16   Tempo 155.6
+BA   17   CR     3+1/2   TR  0   CH 16   Tempo 150.08
+BA   17   CR     3+1/2   TR  1   CH  1   NT  Ab'          7/24   von=74
+BA   17   CR    3+7/12   TR  0   CH 16   Tempo 145.06
+BA   17   CR     3+2/3   TR  0   CH 16   Tempo 139.54
+BA   17   CR     3+3/4   TR  0   CH 16   Tempo 134.02
+BA   17   CR     3+3/4   TR  1   CH  1   NT  Gb'           1/4   von=75
+BA   17   CR   3+11/12   TR  0   CH 16   Tempo 183.71
+
+BA   18   CR         0   TR  0   CH 16   Tempo 181.6
+BA   18   CR         0   TR  1   CH  1   NT  F'           7/24   von=77
+BA   18   CR         0   TR  2   CH  1   NT  Bb---         1/2   von=77
+BA   18   CR         0   TR  2   CH  1   ST &B0 &40 &00
+BA   18   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=96
+BA   18   CR    21/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   18   CR       1/4   TR  1   CH  1   NT  C'           7/24
+BA   18   CR       1/2   TR  0   CH 16   Tempo 188.07
+BA   18   CR       1/2   TR  1   CH  1   NT  Eb'          7/24   von=78
+BA   18   CR       1/2   TR  2   CH  1   NT  Db-           1/4   von=43
+BA   18   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=62
+BA   18   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=51
+BA   18   CR       3/4   TR  1   CH  1   NT  Db'          7/24   von=79
+BA   18   CR     11/12   TR  0   CH 16   Tempo 188.66
+BA   18   CR         1   TR  1   CH  1   NT  F            7/24
+BA   18   CR    1+1/30   TR  2   CH  1   ST &B0 &40 &00
+BA   18   CR     1+1/4   TR  1   CH  1   NT  A            7/24   von=80
+BA   18   CR     1+1/2   TR  0   CH 16   Tempo 186.24
+BA   18   CR     1+1/2   TR  1   CH  1   NT  Bb           7/24   von=81
+BA   18   CR     1+1/2   TR  2   CH  1   NT  F---          1/2   von=60
+BA   18   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=79
+BA   18   CR     1+3/4   TR  1   CH  1   NT  C'           7/24
+BA   18   CR         2   TR  0   CH 16   Tempo 185.72
+BA   18   CR         2   TR  1   CH  1   NT  Db'          7/24   von=82
+BA   18   CR         2   TR  2   CH  1   NT  Bb---         1/2   von=78
+BA   18   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=98
+BA   18   CR  2+17/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   18   CR     2+1/4   TR  1   CH  1   NT  Eb'          7/24   von=83
+BA   18   CR     2+1/2   TR  0   CH 16   Tempo 190.44
+BA   18   CR     2+1/2   TR  1   CH  1   NT  F'           7/24   von=84
+BA   18   CR     2+1/2   TR  2   CH  1   NT  Db-           1/4   von=42
+BA   18   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=62
+BA   18   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=50
+BA   18   CR     2+3/4   TR  1   CH  1   NT  G'           7/24
+BA   18   CR         3   TR  0   CH 16   Tempo 191.02
+BA   18   CR         3   TR  1   CH  1   NT  A'           7/24   von=85
+BA   18   CR    3+1/48   TR  2   CH  1   ST &B0 &40 &00
+BA   18   CR     3+1/4   TR  1   CH  1   NT  Bb'          7/24   von=86
+BA   18   CR     3+1/2   TR  0   CH 16   Tempo 188.77
+BA   18   CR     3+1/2   TR  1   CH  1   NT  C''          7/24
+BA   18   CR     3+1/2   TR  2   CH  1   NT  F---          1/2   von=61
+BA   18   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=77
+BA   18   CR     3+3/4   TR  1   CH  1   NT  Db''         7/24   von=87
+
+BA   19   CR         0   TR  0   CH 16   Tempo 188.66
+BA   19   CR         0   TR  1   CH  1   NT  Eb''         7/24   von=88
+BA   19   CR         0   TR  2   CH  1   NT  Bb---         1/2   von=73
+BA   19   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=93
+BA   19   CR    23/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   19   CR       1/4   TR  1   CH  1   NT  F''          7/24   von=89
+BA   19   CR       1/2   TR  0   CH 16   Tempo 192.79
+BA   19   CR       1/2   TR  1   CH  1   NT  G''          7/24
+BA   19   CR       1/2   TR  2   CH  1   NT  Db-           1/4   von=44
+BA   19   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=63
+BA   19   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=52
+BA   19   CR       3/4   TR  1   CH  1   NT  A''          7/24   von=90
+BA   19   CR         1   TR  0   CH 16   Tempo 193.38
+BA   19   CR         1   TR  1   CH  1   NT  Bb''         7/24   von=91
+BA   19   CR   1+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   19   CR     1+1/4   TR  1   CH  1   NT  C'''         7/24
+BA   19   CR     1+1/2   TR  0   CH 16   Tempo 191.79
+BA   19   CR     1+1/2   TR  1   CH  1   NT  Db'''        7/24   von=92
+BA   19   CR     1+1/2   TR  2   CH  1   NT  F---          1/2   von=62
+BA   19   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=79
+BA   19   CR     1+3/4   TR  1   CH  1   NT  Eb'''        7/24   von=93
+BA   19   CR         2   TR  0   CH 16   Tempo 191.02
+BA   19   CR         2   TR  1   CH  1   NT  Fb'''        7/24   von=94
+BA   19   CR         2   TR  2   CH  1   NT  Bb---         1/2
+BA   19   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=96
+BA   19   CR    2+1/12   TR  2   CH  1   ST &B0 &40 &7F
+BA   19   CR     2+1/4   TR  1   CH  1   NT  F'''         7/24   von=92
+BA   19   CR     2+1/2   TR  1   CH  1   NT  Eb'''        7/24
+BA   19   CR     2+1/2   TR  2   CH  1   NT  Db-           1/4   von=51
+BA   19   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=72
+BA   19   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=60
+BA   19   CR    2+7/12   TR  0   CH 16   Tempo 194.56
+BA   19   CR     2+3/4   TR  1   CH  1   NT  Db'''        7/24   von=91
+BA   19   CR         3   TR  1   CH  1   NT  C'''         7/24   von=90
+BA   19   CR    3+1/12   TR  0   CH 16   Tempo 193.96
+BA   19   CR     3+1/4   TR  1   CH  1   NT  Bb''         7/24   von=88
+BA   19   CR     3+1/2   TR  1   CH  1   NT  A''          7/24   von=87
+BA   19   CR     3+1/2   TR  2   CH  1   NT  F---          1/2   von=56
+BA   19   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=74
+BA   19   CR    3+7/12   TR  0   CH 16   Tempo 193.38
+BA   19   CR     3+3/4   TR  1   CH  1   NT  Bb''         7/24   von=86
+
+BA   20   CR         0   TR  0   CH 16   Tempo 189.24
+BA   20   CR         0   TR  1   CH  1   NT  Ab''         7/24
+BA   20   CR         0   TR  2   CH  1   NT  Bb---         1/2   von=70
+BA   20   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=92
+BA   20   CR    13/120   TR  2   CH  1   ST &B0 &40 &7F
+BA   20   CR       1/4   TR  1   CH  1   NT  Gb''         7/24   von=85
+BA   20   CR       1/2   TR  1   CH  1   NT  F''          7/24   von=83
+BA   20   CR       1/2   TR  2   CH  1   NT  Db-           1/4   von=49
+BA   20   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=68
+BA   20   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=58
+BA   20   CR      7/12   TR  0   CH 16   Tempo 192.19
+BA   20   CR       3/4   TR  1   CH  1   NT  Fb''         7/24   von=82
+BA   20   CR         1   TR  1   CH  1   NT  F''          7/24   von=79
+BA   20   CR  1+11/480   TR  2   CH  1   ST &B0 &40 &00
+BA   20   CR    1+1/12   TR  0   CH 16   Tempo 191.61
+BA   20   CR     1+1/4   TR  1   CH  1   NT  Eb''         7/24   von=77
+BA   20   CR     1+1/2   TR  1   CH  1   NT  Db''         7/24   von=76
+BA   20   CR     1+1/2   TR  2   CH  1   NT  F---          1/2   von=49
+BA   20   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=65
+BA   20   CR    1+7/12   TR  0   CH 16   Tempo 191.02
+BA   20   CR     1+3/4   TR  1   CH  1   NT  C''          7/24   von=74
+BA   20   CR         2   TR  1   CH  1   NT  Bb'          7/24   von=72
+BA   20   CR         2   TR  2   CH  1   NT  Bb---         1/2   von=62
+BA   20   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=77
+BA   20   CR    2+1/12   TR  0   CH 16   Tempo 190.44
+BA   20   CR    2+1/12   TR  2   CH  1   ST &B0 &40 &7F
+BA   20   CR     2+1/4   TR  1   CH  1   NT  A'           7/24   von=69
+BA   20   CR     2+1/2   TR  1   CH  1   NT  Bb'          7/24   von=68
+BA   20   CR     2+1/2   TR  2   CH  1   NT  Db-           1/4   von=40
+BA   20   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=57
+BA   20   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=48
+BA   20   CR    2+7/12   TR  0   CH 16   Tempo 189.86
+BA   20   CR     2+3/4   TR  1   CH  1   NT  Ab'          7/24   von=67
+BA   20   CR         3   TR  1   CH  1   NT  Gb'          7/24   von=66
+BA   20   CR    3+1/60   TR  2   CH  1   ST &B0 &40 &00
+BA   20   CR    3+1/12   TR  0   CH 16   Tempo 189.24
+BA   20   CR     3+1/4   TR  1   CH  1   NT  F'           7/24   von=65
+BA   20   CR     3+1/2   TR  0   CH 16   Tempo 185.23
+BA   20   CR     3+1/2   TR  1   CH  1   NT  Eb'          7/24   von=63
+BA   20   CR     3+1/2   TR  2   CH  1   NT  F---          1/2   von=45
+BA   20   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=59
+BA   20   CR     3+3/4   TR  1   CH  1   NT  Db'           1/4   von=61
+BA   20   CR   3+11/12   TR  0   CH 16   Tempo 187.48
+
+BA   21   CR         0   TR  0   CH 16   Tempo 180.19
+BA   21   CR         0   TR  1   CH  1   NT  C'           7/24
+BA   21   CR         0   TR  2   CH  1   NT  Bb---         1/2   von=56
+BA   21   CR         0   TR  2   CH  1   NT  Bb--          1/2   von=67
+BA   21   CR    19/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   21   CR       1/4   TR  1   CH  1   NT  Db'          7/24
+BA   21   CR       1/2   TR  0   CH 16   Tempo 188.07
+BA   21   CR       1/2   TR  1   CH  1   NT  Eb'          7/24   von=62
+BA   21   CR       1/2   TR  2   CH  1   NT  Eb            1/4   von=47
+BA   21   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=39
+BA   21   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=33
+BA   21   CR       3/4   TR  1   CH  1   NT  F'           7/24   von=64
+BA   21   CR         1   TR  1   CH  1   NT  Gb'          7/24   von=66
+BA   21   CR   1+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   21   CR    1+1/12   TR  0   CH 16   Tempo 188.66
+BA   21   CR     1+1/4   TR  1   CH  1   NT  Ab'          7/24
+BA   21   CR     1+1/2   TR  1   CH  1   NT  Bb'          7/24   von=68
+BA   21   CR     1+1/2   TR  2   CH  1   NT  F---          1/2   von=47
+BA   21   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=62
+BA   21   CR     1+2/3   TR  0   CH 16   Tempo 189.24
+BA   21   CR     1+3/4   TR  1   CH  1   NT  C''          7/24   von=70
+BA   21   CR         2   TR  0   CH 16   Tempo 186.3
+BA   21   CR         2   TR  1   CH  1   NT  Bb'          7/24
+BA   21   CR         2   TR  2   CH  1   NT  Bb---         1/2   von=64
+BA   21   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=76
+BA   21   CR   2+17/96   TR  2   CH  1   ST &B0 &40 &7F
+BA   21   CR     2+1/4   TR  1   CH  1   NT  Ab'          7/24   von=71
+BA   21   CR     2+1/2   TR  1   CH  1   NT  Gb'          7/24   von=73
+BA   21   CR     2+1/2   TR  2   CH  1   NT  Eb            1/4   von=57
+BA   21   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=47
+BA   21   CR     2+1/2   TR  2   CH  1   NT  Eb-           1/4   von=39
+BA   21   CR     2+3/4   TR  1   CH  1   NT  F'           7/24   von=75
+BA   21   CR     2+5/6   TR  0   CH 16   Tempo 190.44
+BA   21   CR         3   TR  1   CH  1   NT  Eb'          7/24
+BA   21   CR    3+1/30   TR  2   CH  1   ST &B0 &40 &00
+BA   21   CR     3+1/4   TR  1   CH  1   NT  Db'          7/24   von=73
+BA   21   CR    3+5/12   TR  0   CH 16   Tempo 191.02
+BA   21   CR     3+1/2   TR  1   CH  1   NT  C'           7/24   von=72
+BA   21   CR     3+1/2   TR  2   CH  1   NT  F---          1/2   von=51
+BA   21   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=67
+BA   21   CR     3+3/4   TR  1   CH  1   NT  Eb'          7/24   von=73
+
+BA   22   CR         0   TR  0   CH 16   Tempo 187.48
+BA   22   CR         0   TR  1   CH  1   NT  Gb'          7/24   von=77
+BA   22   CR         0   TR  2   CH  1   NT  A---          1/2   von=69
+BA   22   CR         0   TR  2   CH  1   NT  A--           1/2   von=89
+BA   22   CR      1/12   TR  2   CH  1   ST &B0 &40 &7F
+BA   22   CR       1/4   TR  1   CH  1   NT  D'           7/24   von=68
+BA   22   CR       1/2   TR  1   CH  1   NT  Fb'          7/24   von=74
+BA   22   CR       1/2   TR  2   CH  1   NT  Eb            1/4   von=61
+BA   22   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=50
+BA   22   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=42
+BA   22   CR       3/4   TR  1   CH  1   NT  Eb'          7/24   von=66
+BA   22   CR         1   TR  0   CH 16   Tempo 186.3
+BA   22   CR         1   TR  1   CH  1   NT  C'           7/24   von=72
+BA   22   CR   1+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   22   CR     1+1/4   TR  1   CH  1   NT  Gb           7/24   von=68
+BA   22   CR     1+1/2   TR  0   CH 16   Tempo 186.91
+BA   22   CR     1+1/2   TR  1   CH  1   NT  Cb'          7/24   von=69
+BA   22   CR     1+1/2   TR  2   CH  1   NT  Eb---         1/2   von=48
+BA   22   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=63
+BA   22   CR     1+3/4   TR  1   CH  1   NT  C'           7/24   von=70
+BA   22   CR         2   TR  0   CH 16   Tempo 187.48
+BA   22   CR         2   TR  1   CH  1   NT  Db'          7/24   von=72
+BA   22   CR         2   TR  2   CH  1   NT  A---          1/2   von=61
+BA   22   CR         2   TR  2   CH  1   NT  A--           1/2   von=81
+BA   22   CR  2+21/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   22   CR     2+1/4   TR  1   CH  1   NT  C'           7/24   von=73
+BA   22   CR     2+1/2   TR  0   CH 16   Tempo 188.07
+BA   22   CR     2+1/2   TR  1   CH  1   NT  D'           7/24   von=74
+BA   22   CR     2+1/2   TR  2   CH  1   NT  Eb            1/4   von=57
+BA   22   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=47
+BA   22   CR     2+1/2   TR  2   CH  1   NT  Eb-           1/4   von=39
+BA   22   CR     2+3/4   TR  1   CH  1   NT  Eb'          7/24
+BA   22   CR   2+11/12   TR  0   CH 16   Tempo 188.66
+BA   22   CR         3   TR  1   CH  1   NT  Fb'          7/24   von=75
+BA   22   CR    3+1/32   TR  2   CH  1   ST &B0 &40 &00
+BA   22   CR     3+1/4   TR  1   CH  1   NT  Eb'          7/24   von=76
+BA   22   CR    3+5/12   TR  0   CH 16   Tempo 189.24
+BA   22   CR     3+1/2   TR  1   CH  1   NT  Fb'          7/24   von=78
+BA   22   CR     3+1/2   TR  2   CH  1   NT  Eb---         1/2   von=64
+BA   22   CR     3+1/2   TR  2   CH  1   NT  Eb--          1/2   von=82
+BA   22   CR     3+3/4   TR  1   CH  1   NT  F'            1/4   von=79
+BA   22   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA   23   CR         0   TR  0   CH 16   Tempo 185.72
+BA   23   CR         0   TR  1   CH  1   NT  Ab'          7/24   von=80
+BA   23   CR         0   TR  2   CH  1   NT  A---          1/2   von=78
+BA   23   CR         0   TR  2   CH  1   NT  A--           1/2   von=98
+BA   23   CR    21/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   23   CR       1/4   TR  1   CH  1   NT  Gb'          7/24   von=81
+BA   23   CR      5/12   TR  0   CH 16   Tempo 190.44
+BA   23   CR       1/2   TR  0   CH 16   Tempo 191.02
+BA   23   CR       1/2   TR  1   CH  1   NT  Cb''         7/24   von=82
+BA   23   CR       1/2   TR  2   CH  1   NT  Eb            1/4   von=61
+BA   23   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=50
+BA   23   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=42
+BA   23   CR       3/4   TR  1   CH  1   NT  C''          7/24   von=84
+BA   23   CR       5/6   TR  0   CH 16   Tempo 191.02
+BA   23   CR         1   TR  1   CH  1   NT  Db''         7/24   von=85
+BA   23   CR    1+1/30   TR  2   CH  1   ST &B0 &40 &00
+BA   23   CR     1+1/4   TR  1   CH  1   NT  C''          7/24   von=86
+BA   23   CR     1+1/3   TR  0   CH 16   Tempo 191.61
+BA   23   CR     1+1/2   TR  1   CH  1   NT  D''          7/24   von=87
+BA   23   CR     1+1/2   TR  2   CH  1   NT  Eb---         1/2   von=57
+BA   23   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=77
+BA   23   CR     1+3/4   TR  1   CH  1   NT  Eb''         7/24   von=88
+BA   23   CR     1+5/6   TR  0   CH 16   Tempo 192.19
+BA   23   CR         2   TR  0   CH 16   Tempo 187.48
+BA   23   CR         2   TR  1   CH  1   NT  Fb''         7/24   von=90
+BA   23   CR         2   TR  2   CH  1   NT  A---          1/2   von=74
+BA   23   CR         2   TR  2   CH  1   NT  A--           1/2   von=93
+BA   23   CR  2+43/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   23   CR     2+1/4   TR  1   CH  1   NT  Eb''         7/24   von=91
+BA   23   CR     2+1/3   TR  0   CH 16   Tempo 191.24
+BA   23   CR     2+1/2   TR  0   CH 16   Tempo 191.74
+BA   23   CR     2+1/2   TR  1   CH  1   NT  Fb''         7/24   von=92
+BA   23   CR     2+1/2   TR  2   CH  1   NT  Eb            1/4   von=66
+BA   23   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=55
+BA   23   CR     2+1/2   TR  2   CH  1   NT  Eb-           1/4   von=46
+BA   23   CR    2+7/12   TR  0   CH 16   Tempo 192.25
+BA   23   CR     2+2/3   TR  0   CH 16   Tempo 192.75
+BA   23   CR     2+3/4   TR  0   CH 16   Tempo 193.24
+BA   23   CR     2+3/4   TR  1   CH  1   NT  F''          7/24
+BA   23   CR     2+5/6   TR  0   CH 16   Tempo 193.75
+BA   23   CR   2+11/12   TR  0   CH 16   Tempo 193.75
+BA   23   CR         3   TR  0   CH 16   Tempo 192.25
+BA   23   CR         3   TR  1   CH  1   NT  Ab''         7/24   von=93
+BA   23   CR    3+1/30   TR  2   CH  1   ST &B0 &40 &00
+BA   23   CR    3+1/12   TR  0   CH 16   Tempo 190.24
+BA   23   CR     3+1/6   TR  0   CH 16   Tempo 188.73
+BA   23   CR     3+1/4   TR  0   CH 16   Tempo 186.73
+BA   23   CR     3+1/4   TR  1   CH  1   NT  Bb''         7/24   von=94
+BA   23   CR     3+1/3   TR  0   CH 16   Tempo 185.21
+BA   23   CR    3+5/12   TR  0   CH 16   Tempo 183.21
+BA   23   CR     3+1/2   TR  0   CH 16   Tempo 181.7
+BA   23   CR     3+1/2   TR  1   CH  1   NT  Ab''         7/24   von=96
+BA   23   CR     3+1/2   TR  2   CH  1   NT  Eb---         1/2   von=62
+BA   23   CR     3+1/2   TR  2   CH  1   NT  Eb--          1/2   von=82
+BA   23   CR    3+7/12   TR  0   CH 16   Tempo 179.69
+BA   23   CR     3+2/3   TR  0   CH 16   Tempo 178.19
+BA   23   CR     3+3/4   TR  0   CH 16   Tempo 176.18
+BA   23   CR     3+3/4   TR  1   CH  1   NT  G''          7/24   von=97
+BA   23   CR     3+5/6   TR  0   CH 16   Tempo 174.18
+
+BA   24   CR         0   TR  0   CH 16   Tempo 191.61
+BA   24   CR         0   TR  1   CH  1   NT  Gb''         7/24   von=95
+BA   24   CR         0   TR  2   CH  1   NT  Ab---         1/2   von=76
+BA   24   CR         0   TR  2   CH  1   NT  Ab--          1/2   von=99
+BA   24   CR      2/15   TR  2   CH  1   ST &B0 &40 &7F
+BA   24   CR       1/4   TR  1   CH  1   NT  F'''         7/24
+BA   24   CR       1/2   TR  1   CH  1   NT  Eb'''        7/24   von=93
+BA   24   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=51
+BA   24   CR       1/2   TR  2   CH  1   NT  Gb            1/4   von=73
+BA   24   CR       1/2   TR  2   CH  1   NT  C             1/4   von=61
+BA   24   CR       3/4   TR  0   CH 16   Tempo 193.96
+BA   24   CR       3/4   TR  1   CH  1   NT  Gb''         7/24   von=91
+BA   24   CR         1   TR  1   CH  1   NT  Eb'''        7/24   von=89
+BA   24   CR  1+13/480   TR  2   CH  1   ST &B0 &40 &00
+BA   24   CR     1+1/4   TR  1   CH  1   NT  Db'''        7/24   von=87
+BA   24   CR     1+1/2   TR  0   CH 16   Tempo 187.76
+BA   24   CR     1+1/2   TR  1   CH  1   NT  F''          7/24   von=85
+BA   24   CR     1+1/2   TR  2   CH  1   NT  Eb---         1/2   von=53
+BA   24   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=69
+BA   24   CR     1+3/4   TR  1   CH  1   NT  Db'''        7/24   von=83
+BA   24   CR         2   TR  0   CH 16   Tempo 188.77
+BA   24   CR         2   TR  1   CH  1   NT  C'''         7/24   von=81
+BA   24   CR         2   TR  2   CH  1   NT  Ab---         1/2   von=63
+BA   24   CR         2   TR  2   CH  1   NT  Ab--          1/2   von=82
+BA   24   CR    2+2/15   TR  2   CH  1   ST &B0 &40 &7F
+BA   24   CR     2+1/4   TR  1   CH  1   NT  Eb''         7/24   von=80
+BA   24   CR     2+1/2   TR  0   CH 16   Tempo 191.79
+BA   24   CR     2+1/2   TR  1   CH  1   NT  C'''         7/24   von=78
+BA   24   CR     2+1/2   TR  2   CH  1   NT  Eb-           1/4   von=43
+BA   24   CR     2+1/2   TR  2   CH  1   NT  Gb            1/4   von=61
+BA   24   CR     2+1/2   TR  2   CH  1   NT  C             1/4   von=51
+BA   24   CR     2+3/4   TR  1   CH  1   NT  Bb''         7/24   von=76
+BA   24   CR         3   TR  0   CH 16   Tempo 192.19
+BA   24   CR         3   TR  1   CH  1   NT  Db''         7/24   von=74
+BA   24   CR  3+17/480   TR  2   CH  1   ST &B0 &40 &00
+BA   24   CR     3+1/4   TR  1   CH  1   NT  Bb''         7/24   von=73
+BA   24   CR     3+1/2   TR  1   CH  1   NT  Ab''         7/24   von=71
+BA   24   CR     3+1/2   TR  2   CH  1   NT  Ab---         1/2   von=58
+BA   24   CR     3+3/4   TR  0   CH 16   Tempo 191.61
+BA   24   CR     3+3/4   TR  1   CH  1   NT  C''           1/4   von=69
+
+BA   25   CR         0   TR  0   CH 16   Tempo 186.91
+BA   25   CR         0   TR  1   CH  1   NT  Ab''         7/24   von=68
+BA   25   CR         0   TR  2   CH  1   NT  Ab--          1/2   von=73
+BA   25   CR    49/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   25   CR       1/4   TR  1   CH  1   NT  Gb''         7/24   von=67
+BA   25   CR      5/12   TR  0   CH 16   Tempo 191.02
+BA   25   CR       1/2   TR  1   CH  1   NT  Bb'          7/24   von=65
+BA   25   CR       1/2   TR  2   CH  1   NT  F-            1/4   von=43
+BA   25   CR       1/2   TR  2   CH  1   NT  F             1/4   von=52
+BA   25   CR       1/2   TR  2   CH  1   NT  Db            1/4   von=43
+BA   25   CR       3/4   TR  1   CH  1   NT  Gb''         7/24   von=64
+BA   25   CR         1   TR  1   CH  1   NT  F''          7/24   von=62
+BA   25   CR  1+11/480   TR  2   CH  1   ST &B0 &40 &00
+BA   25   CR     1+1/6   TR  0   CH 16   Tempo 190.44
+BA   25   CR     1+1/4   TR  1   CH  1   NT  Ab'          7/24   von=61
+BA   25   CR     1+1/2   TR  1   CH  1   NT  F''          7/24   von=60
+BA   25   CR     1+1/2   TR  2   CH  1   NT  Ab---         1/2   von=51
+BA   25   CR     1+3/4   TR  1   CH  1   NT  Eb''         7/24   von=59
+BA   25   CR   1+11/12   TR  0   CH 16   Tempo 189.86
+BA   25   CR         2   TR  1   CH  1   NT  Gb'          7/24   von=57
+BA   25   CR         2   TR  2   CH  1   NT  Ab--          1/2   von=58
+BA   25   CR  2+49/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   25   CR     2+1/4   TR  1   CH  1   NT  Eb''         7/24   von=56
+BA   25   CR     2+1/2   TR  1   CH  1   NT  Db''         7/24   von=55
+BA   25   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=45
+BA   25   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=38
+BA   25   CR     2+2/3   TR  0   CH 16   Tempo 189.24
+BA   25   CR     2+3/4   TR  1   CH  1   NT  F'           7/24   von=54
+BA   25   CR         3   TR  1   CH  1   NT  Bb'          7/24   von=53
+BA   25   CR  3+17/480   TR  2   CH  1   ST &B0 &40 &00
+BA   25   CR     3+1/4   TR  1   CH  1   NT  Ab'          7/24   von=51
+BA   25   CR    3+5/12   TR  0   CH 16   Tempo 188.66
+BA   25   CR     3+1/2   TR  1   CH  1   NT  F'           7/24
+BA   25   CR     3+1/2   TR  2   CH  1   NT  Ab---         1/2   von=42
+BA   25   CR     3+3/4   TR  1   CH  1   NT  Db'           1/4   von=50
+
+BA   26   CR         0   TR  0   CH 16   Tempo 190.26
+BA   26   CR         0   TR  1   CH  1   NT  C'           7/24   von=48
+BA   26   CR         0   TR  2   CH  1   NT  Ab--          1/2   von=49
+BA   26   CR      1/10   TR  2   CH  1   ST &B0 &40 &7F
+BA   26   CR       1/4   TR  0   CH 16   Tempo 190.78
+BA   26   CR       1/4   TR  1   CH  1   NT  Db'          7/24   von=49
+BA   26   CR       1/2   TR  0   CH 16   Tempo 191.31
+BA   26   CR       1/2   TR  1   CH  1   NT  Eb'          7/24   von=50
+BA   26   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=30
+BA   26   CR       1/2   TR  2   CH  1   NT  C             1/4   von=37
+BA   26   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=30
+BA   26   CR       3/4   TR  0   CH 16   Tempo 191.84
+BA   26   CR       3/4   TR  1   CH  1   NT  Fb'          7/24   von=51
+BA   26   CR     11/12   TR  0   CH 16   Tempo 192.36
+BA   26   CR         1   TR  1   CH  1   NT  F'           7/24   von=52
+BA   26   CR  1+13/480   TR  2   CH  1   ST &B0 &40 &00
+BA   26   CR     1+1/6   TR  0   CH 16   Tempo 192.89
+BA   26   CR     1+1/4   TR  1   CH  1   NT  Gb'          7/24   von=53
+BA   26   CR    1+5/12   TR  0   CH 16   Tempo 193.41
+BA   26   CR     1+1/2   TR  1   CH  1   NT  Ab'          7/24
+BA   26   CR     1+1/2   TR  2   CH  1   NT  Ab---         1/2   von=42
+BA   26   CR     1+2/3   TR  0   CH 16   Tempo 193.94
+BA   26   CR     1+3/4   TR  1   CH  1   NT  A'           7/24   von=55
+BA   26   CR     1+5/6   TR  0   CH 16   Tempo 194.46
+BA   26   CR   1+11/12   TR  0   CH 16   Tempo 192.19
+BA   26   CR         2   TR  0   CH 16   Tempo 189.24
+BA   26   CR         2   TR  1   CH  1   NT  G'           7/24   von=54
+BA   26   CR         2   TR  2   CH  1   NT  Ab--          1/2   von=51
+BA   26   CR  2+77/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   26   CR     2+1/4   TR  1   CH  1   NT  Ab'          7/24   von=53
+BA   26   CR     2+1/2   TR  0   CH 16   Tempo 194.46
+BA   26   CR     2+1/2   TR  1   CH  1   NT  Eb'          7/24
+BA   26   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=38
+BA   26   CR     2+1/2   TR  2   CH  1   NT  Fb-           1/4   von=24
+BA   26   CR     2+3/4   TR  1   CH  1   NT  Fb'          7/24   von=51
+BA   26   CR     2+5/6   TR  0   CH 16   Tempo 193.94
+BA   26   CR         3   TR  1   CH  1   NT  Ab           7/24
+BA   26   CR    3+1/32   TR  2   CH  1   ST &B0 &40 &00
+BA   26   CR    3+1/12   TR  0   CH 16   Tempo 193.41
+BA   26   CR     3+1/4   TR  1   CH  1   NT  Fb'          7/24   von=50
+BA   26   CR    3+5/12   TR  0   CH 16   Tempo 192.89
+BA   26   CR     3+1/2   TR  1   CH  1   NT  Eb'          7/24   von=48
+BA   26   CR     3+1/2   TR  2   CH  1   NT  Ab---         1/2   von=45
+BA   26   CR     3+2/3   TR  0   CH 16   Tempo 192.36
+BA   26   CR     3+3/4   TR  1   CH  1   NT  Db'           1/4   von=47
+BA   26   CR   3+11/12   TR  0   CH 16   Tempo 191.84
+
+BA   27   CR         0   TR  0   CH 16   Tempo 190.78
+BA   27   CR         0   TR  1   CH  1   NT  C'           7/24   von=45
+BA   27   CR         0   TR  2   CH  1   NT  Ab--          1/2   von=49
+BA   27   CR    29/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   27   CR       1/4   TR  0   CH 16   Tempo 191.31
+BA   27   CR       1/4   TR  1   CH  1   NT  Db'          7/24   von=47
+BA   27   CR       1/2   TR  0   CH 16   Tempo 191.84
+BA   27   CR       1/2   TR  1   CH  1   NT  Eb'          7/24   von=48
+BA   27   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=30
+BA   27   CR       1/2   TR  2   CH  1   NT  C             1/4   von=37
+BA   27   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=30
+BA   27   CR       3/4   TR  0   CH 16   Tempo 192.36
+BA   27   CR       3/4   TR  1   CH  1   NT  Fb'          7/24   von=50
+BA   27   CR     11/12   TR  0   CH 16   Tempo 192.89
+BA   27   CR         1   TR  1   CH  1   NT  F'           7/24   von=51
+BA   27   CR    1+1/40   TR  2   CH  1   ST &B0 &40 &00
+BA   27   CR     1+1/6   TR  0   CH 16   Tempo 193.41
+BA   27   CR     1+1/4   TR  1   CH  1   NT  Gb'          7/24   von=52
+BA   27   CR    1+5/12   TR  0   CH 16   Tempo 193.94
+BA   27   CR     1+1/2   TR  1   CH  1   NT  Ab'          7/24   von=53
+BA   27   CR     1+1/2   TR  2   CH  1   NT  Ab--          1/2   von=42
+BA   27   CR     1+2/3   TR  0   CH 16   Tempo 194.46
+BA   27   CR     1+3/4   TR  1   CH  1   NT  A'           7/24
+BA   27   CR     1+5/6   TR  0   CH 16   Tempo 194.99
+BA   27   CR   1+11/12   TR  0   CH 16   Tempo 192.19
+BA   27   CR         2   TR  0   CH 16   Tempo 188.66
+BA   27   CR         2   TR  1   CH  1   NT  G'           7/24   von=55
+BA   27   CR         2   TR  2   CH  1   NT  Db-           1/2   von=51
+BA   27   CR  2+43/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   27   CR     2+1/4   TR  1   CH  1   NT  Ab'          7/24   von=53
+BA   27   CR     2+1/2   TR  0   CH 16   Tempo 194.46
+BA   27   CR     2+1/2   TR  1   CH  1   NT  Eb'          7/24
+BA   27   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=38
+BA   27   CR     2+1/2   TR  2   CH  1   NT  Fb-           1/4   von=24
+BA   27   CR     2+3/4   TR  0   CH 16   Tempo 193.94
+BA   27   CR     2+3/4   TR  1   CH  1   NT  Fb'          7/24   von=52
+BA   27   CR   2+11/12   TR  0   CH 16   Tempo 193.41
+BA   27   CR         3   TR  1   CH  1   NT  Ab           7/24   von=51
+BA   27   CR    3+1/32   TR  2   CH  1   ST &B0 &40 &00
+BA   27   CR    3+1/12   TR  0   CH 16   Tempo 192.89
+BA   27   CR     3+1/4   TR  1   CH  1   NT  Fb'          7/24
+BA   27   CR     3+1/3   TR  0   CH 16   Tempo 192.36
+BA   27   CR     3+1/2   TR  0   CH 16   Tempo 191.84
+BA   27   CR     3+1/2   TR  1   CH  1   NT  Db'          7/24   von=50
+BA   27   CR     3+1/2   TR  2   CH  1   NT  G--           1/2   von=45
+BA   27   CR     3+2/3   TR  0   CH 16   Tempo 191.31
+BA   27   CR     3+3/4   TR  1   CH  1   NT  Cb'           1/4   von=48
+BA   27   CR     3+5/6   TR  0   CH 16   Tempo 190.78
+
+BA   28   CR         0   TR  1   CH  1   NT  Bb           7/24   von=47
+BA   28   CR         0   TR  2   CH  1   NT  Gb--          1/2   von=49
+BA   28   CR      7/96   TR  2   CH  1   ST &B0 &40 &7F
+BA   28   CR       1/6   TR  0   CH 16   Tempo 191.31
+BA   28   CR       1/4   TR  1   CH  1   NT  Cb'          7/24   von=48
+BA   28   CR      5/12   TR  0   CH 16   Tempo 191.84
+BA   28   CR       1/2   TR  1   CH  1   NT  Db'          7/24   von=50
+BA   28   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=30
+BA   28   CR       1/2   TR  2   CH  1   NT  Fb            1/4   von=37
+BA   28   CR       1/2   TR  2   CH  1   NT  Bb-           1/4   von=30
+BA   28   CR       2/3   TR  0   CH 16   Tempo 192.36
+BA   28   CR       3/4   TR  1   CH  1   NT  D'           7/24   von=51
+BA   28   CR     11/12   TR  0   CH 16   Tempo 192.89
+BA   28   CR         1   TR  1   CH  1   NT  Eb'          7/24
+BA   28   CR    1+1/32   TR  2   CH  1   ST &B0 &40 &00
+BA   28   CR     1+1/6   TR  0   CH 16   Tempo 193.41
+BA   28   CR     1+1/4   TR  1   CH  1   NT  Fb'          7/24   von=53
+BA   28   CR    1+5/12   TR  0   CH 16   Tempo 193.94
+BA   28   CR     1+1/2   TR  1   CH  1   NT  Gb'          7/24
+BA   28   CR     1+1/2   TR  2   CH  1   NT  Gb---         1/2   von=42
+BA   28   CR     1+2/3   TR  0   CH 16   Tempo 194.46
+BA   28   CR     1+3/4   TR  1   CH  1   NT  G'           7/24   von=54
+BA   28   CR   1+11/12   TR  0   CH 16   Tempo 194.99
+BA   28   CR         2   TR  0   CH 16   Tempo 187.48
+BA   28   CR         2   TR  1   CH  1   NT  F'           7/24   von=55
+BA   28   CR         2   TR  2   CH  1   NT  Gb--          1/2   von=51
+BA   28   CR  2+21/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   28   CR     2+1/4   TR  1   CH  1   NT  Gb'          7/24   von=54
+BA   28   CR     2+1/2   TR  0   CH 16   Tempo 194.99
+BA   28   CR     2+1/2   TR  1   CH  1   NT  Eb'          7/24   von=53
+BA   28   CR     2+1/2   TR  2   CH  1   NT  Cb            1/4   von=24
+BA   28   CR     2+1/2   TR  2   CH  1   NT  D             1/4   von=38
+BA   28   CR     2+1/2   TR  2   CH  1   NT  Gb-           1/4   von=24
+BA   28   CR     2+3/4   TR  0   CH 16   Tempo 194.46
+BA   28   CR     2+3/4   TR  1   CH  1   NT  Fb'          7/24
+BA   28   CR   2+11/12   TR  0   CH 16   Tempo 193.94
+BA   28   CR         3   TR  1   CH  1   NT  Db'          7/24   von=52
+BA   28   CR    3+1/48   TR  2   CH  1   ST &B0 &40 &00
+BA   28   CR    3+1/12   TR  0   CH 16   Tempo 193.41
+BA   28   CR     3+1/4   TR  0   CH 16   Tempo 192.89
+BA   28   CR     3+1/4   TR  1   CH  1   NT  D'           7/24   von=51
+BA   28   CR     3+1/2   TR  0   CH 16   Tempo 192.36
+BA   28   CR     3+1/2   TR  1   CH  1   NT  Cb'          7/24   von=50
+BA   28   CR     3+1/2   TR  2   CH  1   NT  F--           1/2   von=45
+BA   28   CR     3+2/3   TR  0   CH 16   Tempo 191.84
+BA   28   CR     3+3/4   TR  1   CH  1   NT  A             1/4   von=49
+BA   28   CR     3+5/6   TR  0   CH 16   Tempo 191.31
+
+BA   29   CR         0   TR  0   CH 16   Tempo 190.78
+BA   29   CR         0   TR  1   CH  1   NT  Ab           7/24   von=48
+BA   29   CR         0   TR  2   CH  1   NT  Fb--          1/2   von=49
+BA   29   CR    13/120   TR  2   CH  1   ST &B0 &40 &7F
+BA   29   CR       1/4   TR  1   CH  1   NT  A            7/24   von=49
+BA   29   CR       1/3   TR  0   CH 16   Tempo 189.24
+BA   29   CR       1/2   TR  1   CH  1   NT  Cb'          7/24   von=50
+BA   29   CR       1/2   TR  2   CH  1   NT  Fb-           1/4   von=30
+BA   29   CR       1/2   TR  2   CH  1   NT  D             1/4   von=37
+BA   29   CR       1/2   TR  2   CH  1   NT  Ab-           1/4   von=30
+BA   29   CR       2/3   TR  0   CH 16   Tempo 189.86
+BA   29   CR       3/4   TR  1   CH  1   NT  C'           7/24   von=51
+BA   29   CR         1   TR  0   CH 16   Tempo 190.44
+BA   29   CR         1   TR  1   CH  1   NT  Db'          7/24   von=52
+BA   29   CR   1+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   29   CR     1+1/4   TR  0   CH 16   Tempo 191.02
+BA   29   CR     1+1/4   TR  1   CH  1   NT  D'           7/24   von=53
+BA   29   CR     1+1/2   TR  1   CH  1   NT  Fb'          7/24
+BA   29   CR     1+1/2   TR  2   CH  1   NT  Fb---         1/2   von=42
+BA   29   CR    1+7/12   TR  0   CH 16   Tempo 191.61
+BA   29   CR     1+3/4   TR  1   CH  1   NT  F'           7/24   von=55
+BA   29   CR   1+11/12   TR  0   CH 16   Tempo 192.19
+BA   29   CR         2   TR  0   CH 16   Tempo 187.48
+BA   29   CR         2   TR  1   CH  1   NT  Eb'          7/24   von=56
+BA   29   CR         2   TR  2   CH  1   NT  Fb--          1/2   von=51
+BA   29   CR  2+13/120   TR  2   CH  1   ST &B0 &40 &7F
+BA   29   CR     2+1/4   TR  1   CH  1   NT  Fb'          7/24   von=53
+BA   29   CR     2+1/2   TR  0   CH 16   Tempo 192.19
+BA   29   CR     2+1/2   TR  1   CH  1   NT  Db'          7/24   von=54
+BA   29   CR     2+1/2   TR  2   CH  1   NT  A-            1/4   von=24
+BA   29   CR     2+1/2   TR  2   CH  1   NT  C             1/4   von=38
+BA   29   CR     2+1/2   TR  2   CH  1   NT  Fb-           1/4   von=24
+BA   29   CR     2+3/4   TR  0   CH 16   Tempo 191.61
+BA   29   CR     2+3/4   TR  1   CH  1   NT  D'           7/24   von=52
+BA   29   CR         3   TR  0   CH 16   Tempo 191.02
+BA   29   CR         3   TR  1   CH  1   NT  Cb'          7/24   von=53
+BA   29   CR    3+1/40   TR  2   CH  1   ST &B0 &40 &00
+BA   29   CR     3+1/4   TR  1   CH  1   NT  C'           7/24   von=51
+BA   29   CR     3+1/3   TR  0   CH 16   Tempo 190.44
+BA   29   CR     3+1/2   TR  1   CH  1   NT  Cb'          7/24
+BA   29   CR     3+1/2   TR  2   CH  1   NT  Fb---         1/2   von=38
+BA   29   CR     3+1/2   TR  2   CH  1   NT  Fb--          1/2   von=45
+BA   29   CR    3+7/12   TR  0   CH 16   Tempo 189.86
+BA   29   CR     3+3/4   TR  1   CH  1   NT  A             1/4   von=50
+BA   29   CR     3+5/6   TR  0   CH 16   Tempo 189.24
+BA   29   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA   30   CR         0   TR  0   CH 16   Tempo 179.93
+BA   30   CR         0   TR  1   CH  1   NT  Ab           7/24   von=59
+BA   30   CR         0   TR  2   CH  1   NT  F---          1/2   von=48
+BA   30   CR         0   TR  2   CH  1   NT  F--           1/2   von=57
+BA   30   CR    43/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   30   CR       1/4   TR  1   CH  1   NT  A            7/24   von=57
+BA   30   CR       1/2   TR  1   CH  1   NT  Db'          7/24   von=63
+BA   30   CR       3/4   TR  1   CH  1   NT  C'           7/24   von=58
+BA   30   CR       3/4   TR  2   CH  1   NT  C-              1   von=41
+BA   30   CR       7/8   TR  2   CH  1   NT  F-            7/8
+BA   30   CR         1   TR  0   CH 16   Tempo 183.71
+BA   30   CR         1   TR  1   CH  1   NT  Bb           7/24   von=61
+BA   30   CR         1   TR  2   CH  1   NT  Eb            3/4   von=49
+BA   30   CR    1+1/40   TR  2   CH  1   ST &B0 &40 &00
+BA   30   CR  1+53/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   30   CR     1+1/4   TR  1   CH  1   NT  A            7/24   von=59
+BA   30   CR     1+1/2   TR  1   CH  1   NT  Gb'          7/24   von=63
+BA   30   CR     1+3/4   TR  1   CH  1   NT  F'           7/24   von=61
+BA   30   CR     1+3/4   TR  2   CH  1   NT  Bb--            1   von=44
+BA   30   CR     1+7/8   TR  2   CH  1   NT  F-            7/8
+BA   30   CR         2   TR  0   CH 16   Tempo 187.1
+BA   30   CR         2   TR  1   CH  1   NT  Eb'          7/24
+BA   30   CR         2   TR  2   CH  1   NT  Db            3/4   von=52
+BA   30   CR    2+1/30   TR  2   CH  1   ST &B0 &40 &00
+BA   30   CR  2+23/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   30   CR     2+1/4   TR  0   CH 16   Tempo 175.13
+BA   30   CR     2+1/4   TR  1   CH  1   NT  Db'           1/4   von=63
+BA   30   CR     2+1/2   TR  1   CH  1   NT  C''          7/24   von=68
+BA   30   CR    2+7/12   TR  0   CH 16   Tempo 187.59
+BA   30   CR     2+3/4   TR  1   CH  1   NT  Bb'          7/24   von=66
+BA   30   CR     2+3/4   TR  2   CH  1   NT  Eb-             1   von=40
+BA   30   CR     2+7/8   TR  2   CH  1   NT  Bb-           7/8
+BA   30   CR         3   TR  0   CH 16   Tempo 185.18
+BA   30   CR         3   TR  1   CH  1   NT  Ab'          7/24   von=65
+BA   30   CR         3   TR  2   CH  1   NT  Gb            3/4   von=47
+BA   30   CR   3+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   30   CR     3+1/6   TR  2   CH  1   ST &B0 &40 &7F
+BA   30   CR     3+1/4   TR  1   CH  1   NT  Gb'          7/24   von=64
+BA   30   CR     3+1/2   TR  0   CH 16   Tempo 183.28
+BA   30   CR     3+1/2   TR  1   CH  1   NT  F'           7/24   von=63
+BA   30   CR     3+3/4   TR  1   CH  1   NT  Eb'          7/24
+BA   30   CR     3+3/4   TR  2   CH  1   NT  Ab--            1   von=48
+BA   30   CR     3+7/8   TR  2   CH  1   NT  Gb-           7/8
+
+BA   31   CR         0   TR  0   CH 16   Tempo 184.22
+BA   31   CR         0   TR  1   CH  1   NT  Db'          7/24
+BA   31   CR         0   TR  2   CH  1   NT  C             3/4   von=57
+BA   31   CR      1/48   TR  2   CH  1   ST &B0 &40 &00
+BA   31   CR    37/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   31   CR       1/4   TR  0   CH 16   Tempo 175.13
+BA   31   CR       1/4   TR  1   CH  1   NT  C'            1/4   von=57
+BA   31   CR       1/2   TR  0   CH 16   Tempo 183.75
+BA   31   CR       1/2   TR  1   CH  1   NT  Bb'          7/24   von=61
+BA   31   CR       3/4   TR  1   CH  1   NT  Ab'          7/24   von=60
+BA   31   CR       3/4   TR  2   CH  1   NT  Db-             1   von=41
+BA   31   CR       7/8   TR  2   CH  1   NT  Ab-           7/8
+BA   31   CR         1   TR  0   CH 16   Tempo 188.06
+BA   31   CR         1   TR  1   CH  1   NT  Gb'          7/24   von=59
+BA   31   CR         1   TR  2   CH  1   NT  F             3/4   von=49
+BA   31   CR    1+1/48   TR  2   CH  1   ST &B0 &40 &00
+BA   31   CR    1+2/15   TR  2   CH  1   ST &B0 &40 &7F
+BA   31   CR     1+1/4   TR  1   CH  1   NT  F'           7/24   von=58
+BA   31   CR     1+1/2   TR  0   CH 16   Tempo 185.18
+BA   31   CR     1+1/2   TR  1   CH  1   NT  Eb'          7/24   von=57
+BA   31   CR     1+3/4   TR  1   CH  1   NT  Db'          7/24   von=61
+BA   31   CR     1+3/4   TR  2   CH  1   NT  Gb--            1   von=44
+BA   31   CR     1+7/8   TR  2   CH  1   NT  Db-           7/8
+BA   31   CR         2   TR  0   CH 16   Tempo 188.26
+BA   31   CR         2   TR  1   CH  1   NT  C'           7/24
+BA   31   CR         2   TR  2   CH  1   NT  Bb-           3/4   von=52
+BA   31   CR  2+19/480   TR  2   CH  1   ST &B0 &40 &00
+BA   31   CR  2+23/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   31   CR     2+1/4   TR  0   CH 16   Tempo 180.88
+BA   31   CR     2+1/4   TR  1   CH  1   NT  Bb            1/4   von=58
+BA   31   CR     2+1/2   TR  0   CH 16   Tempo 189.02
+BA   31   CR     2+1/2   TR  1   CH  1   NT  Ab'          7/24   von=62
+BA   31   CR     2+3/4   TR  1   CH  1   NT  Gb'          7/24   von=61
+BA   31   CR     2+3/4   TR  2   CH  1   NT  C-              1   von=40
+BA   31   CR     2+5/6   TR  0   CH 16   Tempo 190.28
+BA   31   CR     2+7/8   TR  2   CH  1   NT  Gb-           7/8
+BA   31   CR   2+11/12   TR  0   CH 16   Tempo 189.27
+BA   31   CR         3   TR  1   CH  1   NT  F'           7/24   von=60
+BA   31   CR         3   TR  2   CH  1   NT  Eb            3/4   von=47
+BA   31   CR    3+1/48   TR  2   CH  1   ST &B0 &40 &00
+BA   31   CR  3+23/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   31   CR     3+1/6   TR  0   CH 16   Tempo 188.77
+BA   31   CR     3+1/4   TR  1   CH  1   NT  Eb'          7/24   von=59
+BA   31   CR    3+5/12   TR  0   CH 16   Tempo 188.26
+BA   31   CR     3+1/2   TR  1   CH  1   NT  Db'          7/24   von=58
+BA   31   CR    3+7/12   TR  0   CH 16   Tempo 187.76
+BA   31   CR     3+3/4   TR  1   CH  1   NT  C'           7/24   von=57
+BA   31   CR     3+5/6   TR  0   CH 16   Tempo 187.25
+
+BA   32   CR         0   TR  1   CH  1   NT  Bb           7/24   von=64
+BA   32   CR         0   TR  2   CH  1   NT  Bb-             1   von=40
+BA   32   CR         0   TR  2   CH  1   NT  F-              1
+BA   32   CR         0   TR  2   CH  1   NT  Db-             1
+BA   32   CR         0   TR  2   CH  1   NT  Db              1   von=47
+BA   32   CR    11/480   TR  2   CH  1   ST &B0 &40 &00
+BA   32   CR       1/4   TR  1   CH  1   NT  A            7/24   von=62
+BA   32   CR       1/2   TR  1   CH  1   NT  Ab           7/24   von=59
+BA   32   CR       3/4   TR  1   CH  1   NT  G             1/4   von=57
+BA   32   CR     11/12   TR  0   CH 16   Tempo 189.27
+BA   32   CR         1   TR  1   CH  1   NT  Ab           7/24   von=64
+BA   32   CR         1   TR  2   CH  1   NT  Eb-             1   von=40
+BA   32   CR         1   TR  2   CH  1   NT  Gb-             1
+BA   32   CR         1   TR  2   CH  1   NT  Bb-             1
+BA   32   CR         1   TR  2   CH  1   NT  C               1   von=47
+BA   32   CR     1+1/6   TR  0   CH 16   Tempo 188.77
+BA   32   CR     1+1/4   TR  1   CH  1   NT  G            7/24   von=61
+BA   32   CR     1+1/3   TR  0   CH 16   Tempo 188.26
+BA   32   CR     1+1/2   TR  0   CH 16   Tempo 187.76
+BA   32   CR     1+1/2   TR  1   CH  1   NT  Gb           7/24   von=58
+BA   32   CR     1+2/3   TR  0   CH 16   Tempo 187.25
+BA   32   CR     1+3/4   TR  1   CH  1   NT  F             1/4   von=56
+BA   32   CR     1+5/6   TR  0   CH 16   Tempo 186.75
+BA   32   CR         2   TR  0   CH 16   Tempo 189.27
+BA   32   CR         2   TR  1   CH  1   NT  G            7/24   von=63
+BA   32   CR     2+1/6   TR  0   CH 16   Tempo 188.77
+BA   32   CR     2+1/4   TR  1   CH  1   NT  Gb           7/24   von=60
+BA   32   CR     2+1/3   TR  0   CH 16   Tempo 188.26
+BA   32   CR     2+1/2   TR  0   CH 16   Tempo 187.76
+BA   32   CR     2+1/2   TR  1   CH  1   NT  F            7/24   von=58
+BA   32   CR     2+2/3   TR  0   CH 16   Tempo 187.25
+BA   32   CR     2+3/4   TR  1   CH  1   NT  Fb            1/4   von=55
+BA   32   CR     2+5/6   TR  0   CH 16   Tempo 186.75
+BA   32   CR         3   TR  0   CH 16   Tempo 189.77
+BA   32   CR         3   TR  1   CH  1   NT  Gb           7/24   von=63
+BA   32   CR         3   TR  2   CH  1   NT  Gb-           1/4   von=53
+BA   32   CR     3+1/6   TR  0   CH 16   Tempo 189.27
+BA   32   CR     3+1/4   TR  1   CH  1   NT  F            7/24   von=60
+BA   32   CR     3+1/4   TR  2   CH  1   NT  F-            1/4   von=51
+BA   32   CR     3+1/3   TR  0   CH 16   Tempo 188.77
+BA   32   CR     3+1/2   TR  0   CH 16   Tempo 188.26
+BA   32   CR     3+1/2   TR  1   CH  1   NT  Fb           7/24   von=57
+BA   32   CR     3+1/2   TR  2   CH  1   NT  Fb-           1/4   von=48
+BA   32   CR     3+2/3   TR  0   CH 16   Tempo 187.76
+BA   32   CR     3+3/4   TR  1   CH  1   NT  Eb            1/4   von=55
+BA   32   CR     3+3/4   TR  2   CH  1   NT  Eb-           1/4   von=46
+BA   32   CR     3+5/6   TR  0   CH 16   Tempo 187.25
+BA   32   CR   3+11/12   TR  0   CH 16   Tempo 190.24
+
+BA   33   CR         0   TR  1   CH  1   NT  F            7/24   von=64
+BA   33   CR         0   TR  2   CH  1   NT  F-            1/4   von=54
+BA   33   CR      1/12   TR  0   CH 16   Tempo 189.73
+BA   33   CR       1/6   TR  0   CH 16   Tempo 189.23
+BA   33   CR       1/4   TR  0   CH 16   Tempo 188.73
+BA   33   CR       1/4   TR  1   CH  1   NT  Fb           7/24   von=62
+BA   33   CR       1/4   TR  2   CH  1   NT  Fb-           1/4   von=52
+BA   33   CR       1/3   TR  0   CH 16   Tempo 188.23
+BA   33   CR      5/12   TR  0   CH 16   Tempo 187.73
+BA   33   CR       1/2   TR  1   CH  1   NT  Eb           7/24   von=58
+BA   33   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=49
+BA   33   CR      7/12   TR  0   CH 16   Tempo 187.22
+BA   33   CR       2/3   TR  0   CH 16   Tempo 186.73
+BA   33   CR       3/4   TR  0   CH 16   Tempo 186.22
+BA   33   CR       3/4   TR  1   CH  1   NT  D             1/4   von=56
+BA   33   CR       3/4   TR  2   CH  1   NT  D-            1/4   von=47
+BA   33   CR       5/6   TR  0   CH 16   Tempo 185.72
+BA   33   CR     11/12   TR  0   CH 16   Tempo 185.21
+BA   33   CR         1   TR  0   CH 16   Tempo 187.73
+BA   33   CR         1   TR  1   CH  1   NT  Fb           7/24   von=62
+BA   33   CR         1   TR  2   CH  1   NT  Fb-           1/4   von=52
+BA   33   CR     1+1/6   TR  0   CH 16   Tempo 187.22
+BA   33   CR     1+1/4   TR  1   CH  1   NT  Eb           7/24   von=59
+BA   33   CR     1+1/4   TR  2   CH  1   NT  Eb-           1/4   von=49
+BA   33   CR     1+1/3   TR  0   CH 16   Tempo 186.73
+BA   33   CR     1+1/2   TR  0   CH 16   Tempo 186.22
+BA   33   CR     1+1/2   TR  1   CH  1   NT  D            7/24   von=56
+BA   33   CR     1+1/2   TR  2   CH  1   NT  D-            1/4   von=47
+BA   33   CR     1+2/3   TR  0   CH 16   Tempo 185.72
+BA   33   CR     1+3/4   TR  1   CH  1   NT  Db            1/4   von=53
+BA   33   CR     1+3/4   TR  2   CH  1   NT  Db-           1/4   von=45
+BA   33   CR     1+5/6   TR  0   CH 16   Tempo 185.21
+BA   33   CR   1+11/12   TR  0   CH 16   Tempo 184.72
+BA   33   CR         2   TR  0   CH 16   Tempo 188.23
+BA   33   CR         2   TR  1   CH  1   NT  Eb           7/24   von=59
+BA   33   CR         2   TR  2   CH  1   NT  Eb-           1/4   von=50
+BA   33   CR     2+1/6   TR  0   CH 16   Tempo 187.73
+BA   33   CR     2+1/4   TR  1   CH  1   NT  D            7/24   von=57
+BA   33   CR     2+1/4   TR  2   CH  1   NT  D-            1/4   von=48
+BA   33   CR     2+1/3   TR  0   CH 16   Tempo 187.22
+BA   33   CR     2+1/2   TR  0   CH 16   Tempo 186.73
+BA   33   CR     2+1/2   TR  1   CH  1   NT  Db           7/24   von=54
+BA   33   CR     2+1/2   TR  2   CH  1   NT  Db-           1/4   von=46
+BA   33   CR    2+7/12   TR  0   CH 16   Tempo 186.22
+BA   33   CR     2+3/4   TR  0   CH 16   Tempo 185.72
+BA   33   CR     2+3/4   TR  1   CH  1   NT  C             1/4   von=51
+BA   33   CR     2+3/4   TR  2   CH  1   NT  C-            1/4   von=43
+BA   33   CR   2+11/12   TR  0   CH 16   Tempo 185.21
+BA   33   CR         3   TR  0   CH 16   Tempo 184.72
+BA   33   CR         3   TR  1   CH  1   NT  Eb           7/24   von=58
+BA   33   CR         3   TR  2   CH  1   NT  Eb-           1/4   von=49
+BA   33   CR    3+1/12   TR  0   CH 16   Tempo 187.73
+BA   33   CR     3+1/4   TR  0   CH 16   Tempo 187.22
+BA   33   CR     3+1/4   TR  1   CH  1   NT  Db           7/24   von=55
+BA   33   CR     3+1/4   TR  2   CH  1   NT  Db-           1/4   von=46
+BA   33   CR     3+1/3   TR  0   CH 16   Tempo 186.73
+BA   33   CR    3+5/12   TR  0   CH 16   Tempo 186.22
+BA   33   CR     3+1/2   TR  0   CH 16   Tempo 185.72
+BA   33   CR     3+1/2   TR  1   CH  1   NT  C            7/24   von=52
+BA   33   CR     3+1/2   TR  2   CH  1   NT  C-            1/4   von=44
+BA   33   CR     3+2/3   TR  0   CH 16   Tempo 185.21
+BA   33   CR     3+3/4   TR  0   CH 16   Tempo 184.72
+BA   33   CR     3+3/4   TR  1   CH  1   NT  Bb-           1/4   von=50
+BA   33   CR     3+3/4   TR  2   CH  1   NT  Bb--          1/4   von=41
+BA   33   CR     3+5/6   TR  0   CH 16   Tempo 184.21
+BA   33   CR   3+11/12   TR  0   CH 16   Tempo 183.71
+
+BA   34   CR         0   TR  0   CH 16   Tempo 188.66
+BA   34   CR         0   TR  1   CH  1   NT  A-           7/24   von=40
+BA   34   CR         0   TR  2   CH  1   NT  Eb--          1/2   von=39
+BA   34   CR       1/4   TR  1   CH  1   NT  Bb-          7/24   von=42
+BA   34   CR       1/3   TR  0   CH 16   Tempo 189.24
+BA   34   CR       1/2   TR  1   CH  1   NT  C            7/24
+BA   34   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=28
+BA   34   CR       1/2   TR  2   CH  1   NT  A--           1/4   von=23
+BA   34   CR       2/3   TR  0   CH 16   Tempo 189.86
+BA   34   CR       3/4   TR  1   CH  1   NT  Db           7/24   von=44
+BA   34   CR         1   TR  0   CH 16   Tempo 190.44
+BA   34   CR         1   TR  1   CH  1   NT  Eb           7/24   von=45
+BA   34   CR     1+1/4   TR  0   CH 16   Tempo 191.02
+BA   34   CR     1+1/4   TR  1   CH  1   NT  Fb           7/24   von=46
+BA   34   CR     1+1/2   TR  1   CH  1   NT  F            7/24   von=47
+BA   34   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=42
+BA   34   CR    1+7/12   TR  0   CH 16   Tempo 191.61
+BA   34   CR     1+3/4   TR  1   CH  1   NT  Gb           7/24   von=48
+BA   34   CR   1+11/12   TR  0   CH 16   Tempo 192.19
+BA   34   CR         2   TR  0   CH 16   Tempo 189.24
+BA   34   CR         2   TR  1   CH  1   NT  Fb           7/24   von=51
+BA   34   CR         2   TR  2   CH  1   NT  Db--          1/2   von=54
+BA   34   CR     2+1/4   TR  1   CH  1   NT  F            7/24   von=49
+BA   34   CR     2+1/2   TR  0   CH 16   Tempo 192.19
+BA   34   CR     2+1/2   TR  1   CH  1   NT  D            7/24   von=47
+BA   34   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=32
+BA   34   CR     2+1/2   TR  2   CH  1   NT  Bb--          1/4   von=21
+BA   34   CR     2+3/4   TR  0   CH 16   Tempo 191.61
+BA   34   CR     2+3/4   TR  1   CH  1   NT  Eb           7/24   von=46
+BA   34   CR         3   TR  0   CH 16   Tempo 191.02
+BA   34   CR         3   TR  1   CH  1   NT  C            7/24   von=45
+BA   34   CR     3+1/4   TR  1   CH  1   NT  Db           7/24   von=44
+BA   34   CR     3+1/3   TR  0   CH 16   Tempo 190.44
+BA   34   CR     3+1/2   TR  1   CH  1   NT  C            7/24   von=43
+BA   34   CR     3+1/2   TR  2   CH  1   NT  Db--          1/2   von=34
+BA   34   CR    3+7/12   TR  0   CH 16   Tempo 189.86
+BA   34   CR     3+3/4   TR  1   CH  1   NT  Bb-           1/4   von=41
+BA   34   CR     3+5/6   TR  0   CH 16   Tempo 189.24
+BA   34   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA   35   CR         0   TR  1   CH  1   NT  A-           7/24   von=39
+BA   35   CR         0   TR  2   CH  1   NT  Eb--          1/2   von=41
+BA   35   CR       1/4   TR  1   CH  1   NT  Bb-          7/24   von=41
+BA   35   CR       1/3   TR  0   CH 16   Tempo 190.44
+BA   35   CR       1/2   TR  1   CH  1   NT  C            7/24   von=42
+BA   35   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=29
+BA   35   CR       1/2   TR  2   CH  1   NT  A--           1/4   von=25
+BA   35   CR       3/4   TR  0   CH 16   Tempo 191.02
+BA   35   CR       3/4   TR  1   CH  1   NT  Db           7/24   von=44
+BA   35   CR         1   TR  1   CH  1   NT  Eb           7/24   von=45
+BA   35   CR     1+1/6   TR  0   CH 16   Tempo 191.61
+BA   35   CR     1+1/4   TR  1   CH  1   NT  Fb           7/24   von=47
+BA   35   CR     1+1/2   TR  1   CH  1   NT  F            7/24   von=49
+BA   35   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=42
+BA   35   CR    1+7/12   TR  0   CH 16   Tempo 192.19
+BA   35   CR     1+3/4   TR  1   CH  1   NT  Gb           7/24   von=51
+BA   35   CR   1+11/12   TR  0   CH 16   Tempo 192.79
+BA   35   CR         2   TR  0   CH 16   Tempo 187.48
+BA   35   CR         2   TR  1   CH  1   NT  Fb           7/24
+BA   35   CR         2   TR  2   CH  1   NT  Db--          1/2   von=56
+BA   35   CR     2+1/4   TR  1   CH  1   NT  F            7/24   von=50
+BA   35   CR     2+1/3   TR  0   CH 16   Tempo 192.19
+BA   35   CR     2+1/2   TR  0   CH 16   Tempo 192.19
+BA   35   CR     2+1/2   TR  1   CH  1   NT  D            7/24   von=48
+BA   35   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=33
+BA   35   CR     2+1/2   TR  2   CH  1   NT  Bb--          1/4   von=28
+BA   35   CR     2+2/3   TR  0   CH 16   Tempo 191.61
+BA   35   CR     2+3/4   TR  1   CH  1   NT  Eb           7/24
+BA   35   CR         3   TR  1   CH  1   NT  C            7/24   von=46
+BA   35   CR    3+1/12   TR  0   CH 16   Tempo 191.02
+BA   35   CR     3+1/4   TR  1   CH  1   NT  Db           7/24   von=45
+BA   35   CR    3+5/12   TR  0   CH 16   Tempo 190.44
+BA   35   CR     3+1/2   TR  1   CH  1   NT  C            7/24
+BA   35   CR     3+1/2   TR  2   CH  1   NT  Db--          1/2   von=36
+BA   35   CR     3+3/4   TR  0   CH 16   Tempo 189.86
+BA   35   CR     3+3/4   TR  1   CH  1   NT  Bb-           1/4   von=43
+BA   35   CR     3+5/6   TR  0   CH 16   Tempo 191.61
+
+BA   36   CR         0   TR  0   CH 16   Tempo 190.28
+BA   36   CR         0   TR  1   CH  1   NT  C            7/24   von=39
+BA   36   CR         0   TR  2   CH  1   NT  Eb--          1/2   von=39
+BA   36   CR      1/12   TR  0   CH 16   Tempo 191.84
+BA   36   CR       1/4   TR  1   CH  1   NT  Db           7/24   von=41
+BA   36   CR      5/12   TR  0   CH 16   Tempo 192.36
+BA   36   CR       1/2   TR  1   CH  1   NT  Eb           7/24   von=42
+BA   36   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=29
+BA   36   CR       1/2   TR  2   CH  1   NT  Bb--          1/4   von=25
+BA   36   CR       2/3   TR  0   CH 16   Tempo 192.89
+BA   36   CR       3/4   TR  1   CH  1   NT  F            7/24   von=44
+BA   36   CR     11/12   TR  0   CH 16   Tempo 193.41
+BA   36   CR         1   TR  1   CH  1   NT  Gb           7/24   von=45
+BA   36   CR     1+1/6   TR  0   CH 16   Tempo 193.94
+BA   36   CR     1+1/4   TR  1   CH  1   NT  C'           7/24   von=47
+BA   36   CR    1+5/12   TR  0   CH 16   Tempo 194.46
+BA   36   CR     1+1/2   TR  0   CH 16   Tempo 189.27
+BA   36   CR     1+1/2   TR  1   CH  1   NT  Bb           7/24   von=45
+BA   36   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=41
+BA   36   CR     1+3/4   TR  1   CH  1   NT  C            7/24   von=47
+BA   36   CR   1+11/12   TR  0   CH 16   Tempo 192.79
+BA   36   CR         2   TR  0   CH 16   Tempo 187.48
+BA   36   CR         2   TR  1   CH  1   NT  Bb-          7/24   von=39
+BA   36   CR         2   TR  2   CH  1   NT  F--           1/2   von=49
+BA   36   CR     2+1/4   TR  1   CH  1   NT  C            7/24   von=41
+BA   36   CR     2+1/3   TR  0   CH 16   Tempo 193.41
+BA   36   CR     2+1/2   TR  1   CH  1   NT  Db           7/24   von=43
+BA   36   CR     2+1/2   TR  2   CH  1   NT  Bb-           1/4   von=30
+BA   36   CR     2+1/2   TR  2   CH  1   NT  Db-           1/4   von=26
+BA   36   CR    2+7/12   TR  0   CH 16   Tempo 193.94
+BA   36   CR     2+3/4   TR  0   CH 16   Tempo 194.46
+BA   36   CR     2+3/4   TR  1   CH  1   NT  Eb           7/24   von=45
+BA   36   CR         3   TR  0   CH 16   Tempo 194.99
+BA   36   CR         3   TR  1   CH  1   NT  F            7/24   von=47
+BA   36   CR     3+1/6   TR  0   CH 16   Tempo 195.51
+BA   36   CR     3+1/4   TR  1   CH  1   NT  C'           7/24   von=49
+BA   36   CR     3+1/3   TR  0   CH 16   Tempo 196.04
+BA   36   CR    3+5/12   TR  0   CH 16   Tempo 194.33
+BA   36   CR     3+1/2   TR  0   CH 16   Tempo 188.26
+BA   36   CR     3+1/2   TR  1   CH  1   NT  Bb           7/24   von=47
+BA   36   CR     3+1/2   TR  2   CH  1   NT  F---          1/2   von=38
+BA   36   CR     3+3/4   TR  1   CH  1   NT  Gb            1/4   von=48
+
+BA   37   CR         0   TR  0   CH 16   Tempo 190.28
+BA   37   CR         0   TR  1   CH  1   NT  Fb           7/24   von=39
+BA   37   CR         0   TR  2   CH  1   NT  F--           1/2   von=39
+BA   37   CR      1/12   TR  0   CH 16   Tempo 191.31
+BA   37   CR       1/4   TR  1   CH  1   NT  F            7/24   von=41
+BA   37   CR       1/3   TR  0   CH 16   Tempo 191.84
+BA   37   CR       1/2   TR  1   CH  1   NT  Gb           7/24   von=42
+BA   37   CR       1/2   TR  2   CH  1   NT  A-            1/4   von=29
+BA   37   CR       1/2   TR  2   CH  1   NT  Eb-           1/4   von=25
+BA   37   CR      7/12   TR  0   CH 16   Tempo 192.36
+BA   37   CR       3/4   TR  0   CH 16   Tempo 192.89
+BA   37   CR       3/4   TR  1   CH  1   NT  F            7/24   von=44
+BA   37   CR         1   TR  0   CH 16   Tempo 193.41
+BA   37   CR         1   TR  1   CH  1   NT  Bb           7/24   von=47
+BA   37   CR     1+1/4   TR  0   CH 16   Tempo 193.94
+BA   37   CR     1+1/4   TR  1   CH  1   NT  A            7/24   von=45
+BA   37   CR    1+5/12   TR  0   CH 16   Tempo 194.46
+BA   37   CR     1+1/2   TR  0   CH 16   Tempo 189.27
+BA   37   CR     1+1/2   TR  1   CH  1   NT  Gb'          7/24   von=54
+BA   37   CR     1+1/2   TR  2   CH  1   NT  F--           1/2   von=40
+BA   37   CR     1+3/4   TR  1   CH  1   NT  F'           7/24   von=52
+BA   37   CR   1+11/12   TR  0   CH 16   Tempo 192.79
+BA   37   CR         2   TR  0   CH 16   Tempo 187.48
+BA   37   CR         2   TR  1   CH  1   NT  Eb'          7/24   von=56
+BA   37   CR         2   TR  2   CH  1   NT  Bb--          1/2   von=57
+BA   37   CR     2+1/4   TR  1   CH  1   NT  Db'          7/24   von=53
+BA   37   CR     2+1/3   TR  0   CH 16   Tempo 193.81
+BA   37   CR    2+5/12   TR  0   CH 16   Tempo 195.51
+BA   37   CR     2+1/2   TR  1   CH  1   NT  Bb           7/24   von=51
+BA   37   CR     2+1/2   TR  2   CH  1   NT  Db            1/4   von=33
+BA   37   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=28
+BA   37   CR    2+7/12   TR  0   CH 16   Tempo 194.99
+BA   37   CR     2+3/4   TR  0   CH 16   Tempo 194.46
+BA   37   CR     2+3/4   TR  1   CH  1   NT  F            7/24   von=47
+BA   37   CR   2+11/12   TR  0   CH 16   Tempo 193.94
+BA   37   CR         3   TR  0   CH 16   Tempo 193.41
+BA   37   CR         3   TR  1   CH  1   NT  Eb           7/24
+BA   37   CR     3+1/6   TR  0   CH 16   Tempo 192.89
+BA   37   CR     3+1/4   TR  1   CH  1   NT  Db           7/24   von=45
+BA   37   CR     3+1/3   TR  0   CH 16   Tempo 192.36
+BA   37   CR    3+5/12   TR  0   CH 16   Tempo 191.84
+BA   37   CR     3+1/2   TR  0   CH 16   Tempo 188.26
+BA   37   CR     3+1/2   TR  1   CH  1   NT  Bb-          7/24   von=44
+BA   37   CR     3+1/2   TR  2   CH  1   NT  Db--          1/2   von=36
+BA   37   CR     3+3/4   TR  1   CH  1   NT  F-            1/4   von=42
+BA   37   CR   3+11/12   TR  0   CH 16   Tempo 191.31
+
+BA   38   CR         0   TR  1   CH  1   NT  A-           7/24   von=40
+BA   38   CR         0   TR  2   CH  1   NT  Eb--          1/2   von=43
+BA   38   CR       1/4   TR  0   CH 16   Tempo 191.84
+BA   38   CR       1/4   TR  1   CH  1   NT  Bb-          7/24   von=42
+BA   38   CR       1/2   TR  1   CH  1   NT  C            7/24
+BA   38   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=28
+BA   38   CR       1/2   TR  2   CH  1   NT  A--           1/4   von=23
+BA   38   CR      7/12   TR  0   CH 16   Tempo 192.36
+BA   38   CR       3/4   TR  1   CH  1   NT  Db           7/24   von=44
+BA   38   CR     11/12   TR  0   CH 16   Tempo 192.89
+BA   38   CR         1   TR  1   CH  1   NT  Eb           7/24   von=45
+BA   38   CR     1+1/4   TR  0   CH 16   Tempo 193.41
+BA   38   CR     1+1/4   TR  1   CH  1   NT  Fb           7/24   von=46
+BA   38   CR     1+1/2   TR  1   CH  1   NT  F            7/24   von=47
+BA   38   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=42
+BA   38   CR    1+7/12   TR  0   CH 16   Tempo 193.94
+BA   38   CR     1+3/4   TR  1   CH  1   NT  Gb           7/24   von=48
+BA   38   CR   1+11/12   TR  0   CH 16   Tempo 194.46
+BA   38   CR         2   TR  0   CH 16   Tempo 189.24
+BA   38   CR         2   TR  1   CH  1   NT  Fb           7/24   von=51
+BA   38   CR         2   TR  2   CH  1   NT  Db--          1/2   von=56
+BA   38   CR     2+1/4   TR  1   CH  1   NT  F            7/24   von=49
+BA   38   CR     2+1/2   TR  0   CH 16   Tempo 192.19
+BA   38   CR     2+1/2   TR  1   CH  1   NT  D            7/24   von=47
+BA   38   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=32
+BA   38   CR     2+1/2   TR  2   CH  1   NT  Bb--          1/4   von=21
+BA   38   CR    2+7/12   TR  0   CH 16   Tempo 193.94
+BA   38   CR     2+3/4   TR  1   CH  1   NT  Eb           7/24   von=46
+BA   38   CR     2+5/6   TR  0   CH 16   Tempo 193.41
+BA   38   CR         3   TR  0   CH 16   Tempo 192.89
+BA   38   CR         3   TR  1   CH  1   NT  C            7/24   von=45
+BA   38   CR     3+1/4   TR  0   CH 16   Tempo 192.36
+BA   38   CR     3+1/4   TR  1   CH  1   NT  Db           7/24   von=44
+BA   38   CR    3+5/12   TR  0   CH 16   Tempo 191.84
+BA   38   CR     3+1/2   TR  1   CH  1   NT  C            7/24   von=43
+BA   38   CR     3+1/2   TR  2   CH  1   NT  Db--          1/2   von=34
+BA   38   CR    3+7/12   TR  0   CH 16   Tempo 191.31
+BA   38   CR     3+3/4   TR  1   CH  1   NT  Bb-           1/4   von=41
+BA   38   CR     3+5/6   TR  0   CH 16   Tempo 189.24
+BA   38   CR   3+11/12   TR  0   CH 16   Tempo 189.86
+
+BA   39   CR         0   TR  0   CH 16   Tempo 190.78
+BA   39   CR         0   TR  1   CH  1   NT  A-           7/24   von=47
+BA   39   CR         0   TR  2   CH  1   NT  Eb--          1/2   von=48
+BA   39   CR       1/4   TR  1   CH  1   NT  Bb-          7/24   von=49
+BA   39   CR       1/3   TR  0   CH 16   Tempo 191.31
+BA   39   CR       1/2   TR  1   CH  1   NT  C            7/24   von=50
+BA   39   CR       1/2   TR  2   CH  1   NT  Gb-           1/4   von=35
+BA   39   CR       1/2   TR  2   CH  1   NT  A--           1/4   von=30
+BA   39   CR       2/3   TR  0   CH 16   Tempo 191.84
+BA   39   CR       3/4   TR  1   CH  1   NT  Db           7/24   von=52
+BA   39   CR     11/12   TR  0   CH 16   Tempo 192.36
+BA   39   CR         1   TR  1   CH  1   NT  Eb           7/24   von=54
+BA   39   CR     1+1/4   TR  0   CH 16   Tempo 192.89
+BA   39   CR     1+1/4   TR  1   CH  1   NT  Fb           7/24   von=56
+BA   39   CR     1+1/2   TR  1   CH  1   NT  F            7/24   von=58
+BA   39   CR     1+1/2   TR  2   CH  1   NT  Eb--          1/2   von=43
+BA   39   CR    1+7/12   TR  0   CH 16   Tempo 193.41
+BA   39   CR     1+3/4   TR  1   CH  1   NT  Gb           7/24   von=60
+BA   39   CR     1+5/6   TR  0   CH 16   Tempo 193.94
+BA   39   CR   1+11/12   TR  0   CH 16   Tempo 192.79
+BA   39   CR         2   TR  0   CH 16   Tempo 187.48
+BA   39   CR         2   TR  1   CH  1   NT  Fb           7/24
+BA   39   CR         2   TR  2   CH  1   NT  Db--          1/2   von=63
+BA   39   CR     2+1/4   TR  1   CH  1   NT  F            7/24   von=59
+BA   39   CR     2+1/3   TR  0   CH 16   Tempo 192.19
+BA   39   CR    2+5/12   TR  0   CH 16   Tempo 193.94
+BA   39   CR     2+1/2   TR  1   CH  1   NT  D            7/24   von=57
+BA   39   CR     2+1/2   TR  2   CH  1   NT  F-            1/4   von=39
+BA   39   CR     2+1/2   TR  2   CH  1   NT  Bb--          1/4   von=33
+BA   39   CR     2+3/4   TR  0   CH 16   Tempo 193.41
+BA   39   CR     2+3/4   TR  1   CH  1   NT  Eb           7/24
+BA   39   CR         3   TR  1   CH  1   NT  C            7/24   von=55
+BA   39   CR    3+1/12   TR  0   CH 16   Tempo 192.89
+BA   39   CR     3+1/4   TR  1   CH  1   NT  Db           7/24   von=53
+BA   39   CR    3+5/12   TR  0   CH 16   Tempo 192.36
+BA   39   CR     3+1/2   TR  1   CH  1   NT  C            7/24
+BA   39   CR     3+1/2   TR  2   CH  1   NT  Db--          1/2   von=43
+BA   39   CR     3+2/3   TR  0   CH 16   Tempo 191.84
+BA   39   CR     3+3/4   TR  0   CH 16   Tempo 189.86
+BA   39   CR     3+3/4   TR  1   CH  1   NT  Bb-           1/4   von=51
+BA   39   CR     3+5/6   TR  0   CH 16   Tempo 191.61
+BA   39   CR     3+7/8   TR  0   CH 16   Tempo 190.28
+
+BA   40   CR         0   TR  1   CH  1   NT  Cb           7/24   von=52
+BA   40   CR         0   TR  2   CH  1   NT  Eb--            1   von=48
+BA   40   CR         0   TR  2   CH  1   NT  Cb-             1
+BA   40   CR         0   TR  2   CH  1   NT  Gb-             1   von=57
+BA   40   CR      1/12   TR  2   CH  1   ST &B0 &40 &7F
+BA   40   CR       1/4   TR  1   CH  1   NT  Db           7/24   von=53
+BA   40   CR      7/24   TR  0   CH 16   Tempo 190.78
+BA   40   CR       1/2   TR  1   CH  1   NT  Eb           7/24   von=55
+BA   40   CR     17/24   TR  0   CH 16   Tempo 191.29
+BA   40   CR       3/4   TR  1   CH  1   NT  Fb           7/24   von=56
+BA   40   CR         1   TR  1   CH  1   NT  Gb           7/24   von=58
+BA   40   CR   1+3/160   TR  2   CH  1   ST &B0 &40 &00
+BA   40   CR  1+43/240   TR  2   CH  1   ST &B0 &40 &7F
+BA   40   CR     1+1/4   TR  1   CH  1   NT  Ab           7/24   von=60
+BA   40   CR     1+1/2   TR  1   CH  1   NT  Bb           7/24   von=62
+BA   40   CR     1+3/4   TR  1   CH  1   NT  Cb'          7/24   von=63
+BA   40   CR         2   TR  0   CH 16   Tempo 187.25
+BA   40   CR         2   TR  1   CH  1   NT  Db'          7/24   von=66
+BA   40   CR         2   TR  2   CH  1   NT  Eb-             1   von=52
+BA   40   CR         2   TR  2   CH  1   NT  Gb-             1
+BA   40   CR         2   TR  2   CH  1   NT  Cb              1
+BA   40   CR         2   TR  2   CH  1   NT  Gb              1   von=61
+BA   40   CR   2+7/240   TR  2   CH  1   ST &B0 &40 &00
+BA   40   CR  2+21/160   TR  2   CH  1   ST &B0 &40 &7F
+BA   40   CR     2+1/4   TR  1   CH  1   NT  Eb'          7/24   von=68
+BA   40   CR     2+1/2   TR  1   CH  1   NT  Fb'          7/24   von=70
+BA   40   CR     2+3/4   TR  1   CH  1   NT  Gb'          7/24   von=72
+BA   40   CR         3   TR  1   CH  1   NT  Ab'          7/24   von=73
+BA   40   CR         3   TR  2   CH  1   NT  Db-             1   von=46
+BA   40   CR         3   TR  2   CH  1   NT  Gb-             1
+BA   40   CR         3   TR  2   CH  1   NT  Bb-             1
+BA   40   CR         3   TR  2   CH  1   NT  Fb              1   von=55
+BA   40   CR    3+1/48   TR  2   CH  1   ST &B0 &40 &00
+BA   40   CR     3+1/6   TR  2   CH  1   ST &B0 &40 &7F
+BA   40   CR     3+1/4   TR  1   CH  1   NT  Bb'          7/24   von=76
+BA   40   CR     3+1/2   TR  1   CH  1   NT  Cb''         7/24   von=77
+BA   40   CR     3+3/4   TR  1   CH  1   NT  Db''         7/24   von=80
+
+BA   41   CR         0   TR  1   CH  1   NT  Fb''         7/24   von=81
+BA   41   CR         0   TR  2   CH  1   NT  Eb              2   von=65
+BA   41   CR         0   TR  2   CH  1   NT  Cb-             1   von=55
+BA   41   CR         0   TR  2   CH  1   NT  Gb-             1
+BA   41   CR     3/160   TR  2   CH  1   ST &B0 &40 &00
+BA   41   CR    97/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   41   CR       1/4   TR  1   CH  1   NT  Eb''         7/24   von=78
+BA   41   CR       1/2   TR  1   CH  1   NT  Cb''         7/24
+BA   41   CR       3/4   TR  1   CH  1   NT  Ab'          7/24   von=77
+BA   41   CR         1   TR  1   CH  1   NT  Gb'          7/24   von=74
+BA   41   CR     1+1/4   TR  1   CH  1   NT  Eb'          7/24   von=72
+BA   41   CR     1+1/2   TR  1   CH  1   NT  Cb'          7/24
+BA   41   CR     1+3/4   TR  1   CH  1   NT  Ab           7/24   von=70
+BA   41   CR         2   TR  1   CH  1   NT  Gb           7/24   von=68
+BA   41   CR     2+1/4   TR  1   CH  1   NT  Eb           7/24   von=64
+BA   41   CR     2+1/2   TR  1   CH  1   NT  Cb           7/24   von=61
+BA   41   CR     2+3/4   TR  1   CH  1   NT  Ab-          7/24
+BA   41   CR         3   TR  1   CH  1   NT  Gb-          7/24   von=59
+BA   41   CR   3+3/160   TR  2   CH  1   ST &B0 &40 &00
+BA   41   CR     3+1/4   TR  1   CH  1   NT  Eb-          7/24
+BA   41   CR     3+1/2   TR  1   CH  1   NT  Cb-          7/24   von=57
+BA   41   CR     3+3/4   TR  1   CH  1   NT  Ab--          1/4   von=56
+BA   41   CR     3+7/8   TR  0   CH 16   Tempo 190.28
+
+BA   42   CR         0   TR  0   CH 16   Tempo 188.26
+BA   42   CR         0   TR  1   CH  1   NT  Fb--         7/24   von=62
+BA   42   CR         0   TR  2   CH  1   NT  Fb---        7/24   von=52
+BA   42   CR       1/4   TR  1   CH  1   NT  F--          7/24   von=63
+BA   42   CR       1/4   TR  2   CH  1   NT  F---         7/24
+BA   42   CR       1/2   TR  1   CH  1   NT  Bb--         7/24   von=64
+BA   42   CR       1/2   TR  2   CH  1   NT  Bb---        7/24
+BA   42   CR       3/4   TR  1   CH  1   NT  A--          7/24
+BA   42   CR       3/4   TR  2   CH  1   NT  A---         7/24   von=53
+BA   42   CR     11/12   TR  0   CH 16   Tempo 188.77
+BA   42   CR         1   TR  1   CH  1   NT  Gb--         7/24   von=65
+BA   42   CR         1   TR  2   CH  1   NT  Gb---        7/24
+BA   42   CR     1+1/4   TR  1   CH  1   NT  F--          7/24
+BA   42   CR     1+1/4   TR  2   CH  1   NT  F---         7/24
+BA   42   CR     1+1/2   TR  1   CH  1   NT  Db-          7/24
+BA   42   CR     1+1/2   TR  2   CH  1   NT  Db--         7/24   von=54
+BA   42   CR     1+3/4   TR  1   CH  1   NT  C-           7/24
+BA   42   CR     1+3/4   TR  2   CH  1   NT  C--          7/24
+BA   42   CR     1+5/6   TR  0   CH 16   Tempo 189.27
+BA   42   CR         2   TR  1   CH  1   NT  Bb--         7/24   von=67
+BA   42   CR         2   TR  2   CH  1   NT  Bb---        7/24
+BA   42   CR     2+1/4   TR  1   CH  1   NT  A--          7/24
+BA   42   CR     2+1/4   TR  2   CH  1   NT  A---         7/24   von=55
+BA   42   CR     2+1/2   TR  1   CH  1   NT  Gb-          7/24   von=69
+BA   42   CR     2+1/2   TR  2   CH  1   NT  Gb--         7/24
+BA   42   CR     2+3/4   TR  0   CH 16   Tempo 189.77
+BA   42   CR     2+3/4   TR  1   CH  1   NT  F-           7/24   von=70
+BA   42   CR     2+3/4   TR  2   CH  1   NT  F--          7/24   von=56
+BA   42   CR         3   TR  1   CH  1   NT  Db-          7/24
+BA   42   CR         3   TR  2   CH  1   NT  Db--         7/24
+BA   42   CR     3+1/4   TR  1   CH  1   NT  C-           7/24
+BA   42   CR     3+1/4   TR  2   CH  1   NT  C--          7/24
+BA   42   CR     3+1/2   TR  1   CH  1   NT  Bb-          7/24   von=71
+BA   42   CR     3+1/2   TR  2   CH  1   NT  Bb--         7/24
+BA   42   CR     3+2/3   TR  0   CH 16   Tempo 190.28
+BA   42   CR     3+3/4   TR  1   CH  1   NT  A-           7/24
+BA   42   CR     3+3/4   TR  2   CH  1   NT  A--          7/24
+
+BA   43   CR         0   TR  0   CH 16   Tempo 191.31
+BA   43   CR         0   TR  1   CH  1   NT  Gb-          7/24
+BA   43   CR         0   TR  2   CH  1   NT  Gb--         7/24
+BA   43   CR       1/4   TR  1   CH  1   NT  F-           7/24   von=72
+BA   43   CR       1/4   TR  2   CH  1   NT  F--          7/24   von=57
+BA   43   CR       1/2   TR  1   CH  1   NT  Db           7/24
+BA   43   CR       1/2   TR  2   CH  1   NT  Db-          7/24
+BA   43   CR       2/3   TR  0   CH 16   Tempo 191.84
+BA   43   CR       3/4   TR  1   CH  1   NT  C            7/24
+BA   43   CR       3/4   TR  2   CH  1   NT  C-           7/24
+BA   43   CR         1   TR  1   CH  1   NT  Bb-          7/24   von=73
+BA   43   CR         1   TR  2   CH  1   NT  Bb--         7/24   von=58
+BA   43   CR     1+1/4   TR  0   CH 16   Tempo 192.36
+BA   43   CR     1+1/4   TR  1   CH  1   NT  A-           7/24
+BA   43   CR     1+1/4   TR  2   CH  1   NT  A--          7/24
+BA   43   CR     1+1/2   TR  1   CH  1   NT  Gb           7/24
+BA   43   CR     1+1/2   TR  2   CH  1   NT  Gb-          7/24
+BA   43   CR     1+3/4   TR  1   CH  1   NT  F            7/24   von=74
+BA   43   CR     1+3/4   TR  2   CH  1   NT  F-           7/24   von=59
+BA   43   CR     1+5/6   TR  0   CH 16   Tempo 192.89
+BA   43   CR         2   TR  1   CH  1   NT  Db           7/24
+BA   43   CR         2   TR  2   CH  1   NT  Db-          7/24
+BA   43   CR     2+1/4   TR  1   CH  1   NT  C            7/24   von=75
+BA   43   CR     2+1/4   TR  2   CH  1   NT  C-           7/24   von=60
+BA   43   CR     2+1/2   TR  0   CH 16   Tempo 193.41
+BA   43   CR     2+1/2   TR  1   CH  1   NT  Bb           7/24
+BA   43   CR     2+1/2   TR  2   CH  1   NT  Bb-          7/24
+BA   43   CR     2+3/4   TR  1   CH  1   NT  A            7/24
+BA   43   CR     2+3/4   TR  2   CH  1   NT  A-           7/24
+BA   43   CR         3   TR  1   CH  1   NT  Gb           7/24   von=76
+BA   43   CR         3   TR  2   CH  1   NT  Gb-          7/24
+BA   43   CR    3+1/12   TR  0   CH 16   Tempo 193.94
+BA   43   CR     3+1/4   TR  1   CH  1   NT  F            7/24
+BA   43   CR     3+1/4   TR  2   CH  1   NT  F-           7/24
+BA   43   CR     3+1/2   TR  1   CH  1   NT  Db'          7/24
+BA   43   CR     3+1/2   TR  2   CH  1   NT  Db           7/24
+BA   43   CR     3+2/3   TR  0   CH 16   Tempo 194.46
+BA   43   CR     3+3/4   TR  1   CH  1   NT  C'            1/4   von=77
+BA   43   CR     3+3/4   TR  2   CH  1   NT  C             1/4   von=61
+
+BA   44   CR         0   TR  1   CH  1   NT  Bb           7/24
+BA   44   CR         0   TR  2   CH  1   NT  Bb-          7/24
+BA   44   CR       1/4   TR  1   CH  1   NT  A            7/24
+BA   44   CR       1/4   TR  2   CH  1   NT  A-           7/24
+BA   44   CR       1/3   TR  0   CH 16   Tempo 194.99
+BA   44   CR       1/2   TR  1   CH  1   NT  Gb'          7/24   von=78
+BA   44   CR       1/2   TR  2   CH  1   NT  Gb           7/24   von=62
+BA   44   CR       3/4   TR  1   CH  1   NT  F'           7/24
+BA   44   CR       3/4   TR  2   CH  1   NT  F            7/24
+BA   44   CR     11/12   TR  0   CH 16   Tempo 195.51
+BA   44   CR         1   TR  1   CH  1   NT  Db'          7/24   von=79
+BA   44   CR         1   TR  2   CH  1   NT  Db           7/24   von=63
+BA   44   CR     1+1/4   TR  1   CH  1   NT  C'           7/24
+BA   44   CR     1+1/4   TR  2   CH  1   NT  C            7/24
+BA   44   CR     1+1/2   TR  0   CH 16   Tempo 196.04
+BA   44   CR     1+1/2   TR  1   CH  1   NT  Bb'          7/24
+BA   44   CR     1+1/2   TR  2   CH  1   NT  Bb           7/24
+BA   44   CR     1+3/4   TR  1   CH  1   NT  A'           7/24   von=80
+BA   44   CR     1+3/4   TR  2   CH  1   NT  A            7/24   von=64
+BA   44   CR         2   TR  1   CH  1   NT  Gb'          7/24
+BA   44   CR         2   TR  2   CH  1   NT  Gb           7/24
+BA   44   CR     2+1/6   TR  0   CH 16   Tempo 196.57
+BA   44   CR     2+1/4   TR  1   CH  1   NT  F'           7/24
+BA   44   CR     2+1/4   TR  2   CH  1   NT  F            7/24
+BA   44   CR     2+1/2   TR  1   CH  1   NT  Db''         7/24   von=81
+BA   44   CR     2+1/2   TR  2   CH  1   NT  Db'          7/24
+BA   44   CR     2+3/4   TR  0   CH 16   Tempo 197.09
+BA   44   CR     2+3/4   TR  1   CH  1   NT  C''          7/24
+BA   44   CR     2+3/4   TR  2   CH  1   NT  C'           7/24
+BA   44   CR         3   TR  1   CH  1   NT  Bb'          7/24
+BA   44   CR         3   TR  2   CH  1   NT  Bb           7/24
+BA   44   CR     3+1/4   TR  1   CH  1   NT  A'           7/24   von=82
+BA   44   CR     3+1/4   TR  2   CH  1   NT  A            7/24   von=65
+BA   44   CR     3+1/3   TR  0   CH 16   Tempo 197.62
+BA   44   CR     3+1/2   TR  1   CH  1   NT  Gb''         7/24
+BA   44   CR     3+1/2   TR  2   CH  1   NT  Gb'          7/24
+BA   44   CR     3+3/4   TR  1   CH  1   NT  F''          7/24
+BA   44   CR     3+3/4   TR  2   CH  1   NT  F'           7/24
+BA   44   CR   3+11/12   TR  0   CH 16   Tempo 198.14
+
+BA   45   CR         0   TR  1   CH  1   NT  Db''         7/24   von=83
+BA   45   CR         0   TR  2   CH  1   NT  Db'          7/24   von=66
+BA   45   CR      1/12   TR  0   CH 16   Tempo 197.62
+BA   45   CR       1/4   TR  0   CH 16   Tempo 197.09
+BA   45   CR       1/4   TR  1   CH  1   NT  C''          7/24
+BA   45   CR       1/4   TR  2   CH  1   NT  C'           7/24
+BA   45   CR      5/12   TR  0   CH 16   Tempo 196.57
+BA   45   CR       1/2   TR  0   CH 16   Tempo 196.04
+BA   45   CR       1/2   TR  1   CH  1   NT  Bb''         7/24   von=84
+BA   45   CR       1/2   TR  2   CH  1   NT  Bb'          7/24   von=67
+BA   45   CR       2/3   TR  0   CH 16   Tempo 195.51
+BA   45   CR       3/4   TR  1   CH  1   NT  A''          7/24
+BA   45   CR       3/4   TR  2   CH  1   NT  A'           7/24
+BA   45   CR       5/6   TR  0   CH 16   Tempo 194.99
+BA   45   CR     11/12   TR  0   CH 16   Tempo 194.46
+BA   45   CR         1   TR  1   CH  1   NT  Gb''         7/24
+BA   45   CR         1   TR  2   CH  1   NT  Gb'          7/24
+BA   45   CR    1+1/12   TR  0   CH 16   Tempo 193.94
+BA   45   CR     1+1/6   TR  0   CH 16   Tempo 193.41
+BA   45   CR     1+1/4   TR  1   CH  1   NT  F''          7/24   von=85
+BA   45   CR     1+1/4   TR  2   CH  1   NT  F'           7/24   von=68
+BA   45   CR     1+1/3   TR  0   CH 16   Tempo 192.89
+BA   45   CR     1+1/2   TR  0   CH 16   Tempo 192.36
+BA   45   CR     1+1/2   TR  1   CH  1   NT  Db'''        7/24
+BA   45   CR     1+1/2   TR  2   CH  1   NT  Db''         7/24
+BA   45   CR    1+7/12   TR  0   CH 16   Tempo 191.84
+BA   45   CR     1+3/4   TR  0   CH 16   Tempo 191.31
+BA   45   CR     1+3/4   TR  1   CH  1   NT  C'''         7/24
+BA   45   CR     1+3/4   TR  2   CH  1   NT  C''          7/24
+BA   45   CR     1+5/6   TR  0   CH 16   Tempo 190.78
+BA   45   CR         2   TR  0   CH 16   Tempo 177.67
+BA   45   CR         2   TR  1   CH  1   NT  F'''         7/24   von=93
+BA   45   CR         2   TR  2   CH  1   NT  F''          7/24   von=74
+BA   45   CR         3   TR  1   CH  1   NT  Eb            1/4   von=85
+BA   45   CR         3   TR  1   CH  1   NT  A             1/4
+BA   45   CR         3   TR  1   CH  1   NT  F'            1/4   von=100
+BA   45   CR         3   TR  2   CH  1   NT  F--           1/4   von=64
+BA   45   CR         3   TR  2   CH  1   NT  F-            1/4   von=75
+BA   45   CR  3+29/480   TR  2   CH  1   ST &B0 &40 &7F
+BA   45   CR    3+5/12   TR  2   CH  1   ST &B0 &40 &00
+BA   45   CR     3+1/2   TR  0   CH 16   Tempo 169.58
+BA   45   CR     3+3/4   TR  0   CH 16   Tempo 153.44
+BA   45   CR     3+3/4   TR  2   CH  1   ST &B0 &40 &7F
+BA   45   CR     3+3/4   TR  2   CH  1   NT  Bb---         1/4   von=91
+
+BA   46   CR         0   TR  0   CH 16   Tempo 174.64
+BA   46   CR         0   TR  1   CH  1   NT  Bb'             1   von=113
+BA   46   CR         0   TR  1   CH  1   NT  Bb              1   von=100
+BA   46   CR         0   TR  2   CH  1   NT  Bb--            1   von=72
+BA   46   CR         0   TR  2   CH  1   NT  F-              1
+BA   46   CR         0   TR  2   CH  1   NT  Db              1   von=86
+BA   46   CR         1   TR  0   CH 16   Tempo 165.57
+BA   46   CR         1   TR  1   CH 16   End of track
+BA   46   CR   1+7/240   TR  0   CH 16   Tempo 173.67
+BA   46   CR   1+37/96   TR  0   CH 16   Tempo 181.85
+BA   46   CR   1+31/80   TR  0   CH 16   Tempo 173
+
+BA   47   CR         0   TR  0   CH 16   Tempo 170
+BA   47   CR         0   TR  0   CH 16   End of track
+BA   47   CR    67/240   TR  2   CH  1   ST &B0 &40 &00
+BA   47   CR    67/240   TR  2   CH 16   End of track
+# Successfully parsed
+# Duration = 61.2431 seconds
