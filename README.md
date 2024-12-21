@@ -1,42 +1,59 @@
 # Computer Generated Chopin Music
 
-This project uses deep learning to generate classical piano music in the style of Chopin through a novel text-based approach. Unlike traditional music generation methods that process raw audio or MIDI files directly, this project converts MIDI files into text representations that can be processed by Recurrent Neural Networks (RNNs).
+This project uses deep learning to generate classical piano music in the style of Chopin through a novel text-based approach. This project converts MIDI files into text representations that can be easily processed by RNNs.
+
+## Project History & Evolution
+
+### 2018 Version
+The project originally used Andrej Karpathy's char-rnn implementation for generating music. This version produced interesting results (preserved in `output/generated/2018-karpathy-LSTM/`) but relied on external dependencies and older deep learning frameworks.
+
+### 2024 Update
+After 6 years, the project was modernized with a custom PyTorch-based implementation. The new version features:
+- Simplified architecture using PyTorch's built-in LSTM modules
+- More efficient training pipeline
+- Better code organization and documentation
+- Improved generation quality through modern deep learning practices
 
 ## Technical Overview
 
 ### Architecture
-The project leverages char-rnn, an LSTM-based character-level language model implementation by Andrej Karpathy. The model architecture consists of:
+The current implementation uses a character-level RNN built with PyTorch, consisting of:
+- Embedding layer for character encoding
 - Multi-layer LSTM network
-- Configurable hidden layer size and number of layers
 - Dropout regularization for preventing overfitting
+- Linear output layer for character prediction
 - Mini-batch training with CUDA GPU support
 
 ### Data Processing Pipeline
 1. **MIDI Collection**: Source MIDI files are stored in `data/midi/`
 2. **Text Conversion**: MIDI files are converted to ASCII format using conversion tools in `src/conversion/`
 3. **Data Preprocessing**: ASCII files are stored in `data/ascii/` and processed into training data
-4. **Training**: The LSTM model is trained on the text representation for ~6 hours
+4. **Training**: The PyTorch model is trained on the text representation
 5. **Generation**: New music is sampled from the model at different temperature settings
 
-### MIDI-Text Format
-The ASCII representation captures MIDI events with precise timing and musical parameters:
-
 ### Model Parameters
-- Training duration: 6 hours initial run
+- Training options:
+  - Hidden layer size: 256 (configurable)
+  - Number of LSTM layers: 2 (configurable)
+  - Dropout rate: 0.2
+  - Batch size: 128
+  - Sequence length: 100
 - Temperature settings tested: 0.4, 0.8, 1.0
-- Higher temperatures (e.g. 1.0) produce more creative but potentially error-prone compositions
-- Lower temperatures (e.g. 0.4) generate more conservative, structured pieces
+  - Higher temperatures produce more creative but potentially error-prone compositions
+  - Lower temperatures generate more conservative, structured pieces
 
 ## Generated Outputs
-Three MIDI files were generated with different temperature parameters:
-- `output/generated/temp-0.4/`: Conservative generation
-- `output/generated/temp-0.8/`: Balanced creativity/structure
-- `output/generated/temp-1.0/`: Most experimental generation
+The project maintains both historical and current outputs:
+- `output/generated/2018-karpathy-LSTM/`: Original char-rnn generated pieces
+- `output/generated/2024-pytorch-rnn/`: New PyTorch model generations
+  - `temp-0.4/`: Conservative generation
+  - `temp-0.8/`: Balanced creativity/structure
+  - `temp-1.0/`: Most experimental generation
 
-The MIDI files can be played using standard music software like GarageBand or this [web player](https://midiplayer.ehubsoft.net/). The temperature parameter controls sampling randomness during generation - higher values produce more diverse but potentially less coherent music.
+The MIDI files can be played using standard music software like GarageBand or this [web player](https://midiplayer.ehubsoft.net/).
 
 ## Technical Roadmap
-1. Extended Training: Increase training duration to 30+ hours
+1. Extended Training: Increase training duration and dataset size
 2. Architecture Tuning:
    - Experiment with larger hidden layer sizes
    - Test different dropout rates
@@ -45,10 +62,12 @@ The MIDI files can be played using standard music software like GarageBand or th
 4. Evaluation Metrics: Implement quantitative measures of musical quality
 
 ## Implementation Details
-The core LSTM implementation is based on the char-rnn architecture, which includes:
-- Batch processing for efficient training
+The core implementation is in `src/model/`, featuring:
+- `train.py`: Model definition and training logic
+- `generate.py`: Text generation utilities
+- Efficient batch processing
 - CUDA optimization for GPU acceleration
 - Configurable sequence length for capturing musical patterns
 - Checkpoint saving/loading for iterative training
 
-For detailed information about the char-rnn implementation, see the [original repository](https://github.com/karpathy/char-rnn).
+For detailed usage instructions and parameters, see the model documentation in `src/model/README.md`.
