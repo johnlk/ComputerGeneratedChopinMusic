@@ -3,3 +3,4 @@ vocab.t7
 */.DS_Store
 .DS_Store
 cv/*.t7
+__pycache__/

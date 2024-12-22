@@ -2,13 +2,15 @@
 
 This project uses deep learning to generate classical piano music in the style of Chopin through a novel text-based approach. This project converts MIDI files into text representations that can be easily processed by RNNs.
 
+Best output found here: `output/2024-pytorch-rnn/temp-0.8/tmp.mid`
+
 ## Project History & Evolution
 
-### 2018 Version
-The project originally used Andrej Karpathy's char-rnn implementation for generating music. This version produced interesting results (preserved in `output/generated/2018-karpathy-LSTM/`) but relied on external dependencies and older deep learning frameworks.
+### 2017 Version
+The project originally used Andrej Karpathy's char-rnn implementation for generating music. This version produced interesting results (preserved in `output/2017-karpathy-LSTM/`) but relied on external dependencies and older deep learning frameworks.
 
 ### 2024 Update
-After 6 years, the project was modernized with a custom PyTorch-based implementation. The new version features:
+After 7 years, the project was modernized with a custom PyTorch-based implementation. The new version features:
 - Simplified architecture using PyTorch's built-in LSTM modules
 - More efficient training pipeline
 - Better code organization and documentation
@@ -44,8 +46,8 @@ The current implementation uses a character-level RNN built with PyTorch, consis
 
 ## Generated Outputs
 The project maintains both historical and current outputs:
-- `output/generated/2018-karpathy-LSTM/`: Original char-rnn generated pieces
-- `output/generated/2024-pytorch-rnn/`: New PyTorch model generations
+- `output/2018-karpathy-LSTM/`: Original char-rnn generated pieces
+- `output/2024-pytorch-rnn/`: New PyTorch model generations
   - `temp-0.4/`: Conservative generation
   - `temp-0.8/`: Balanced creativity/structure
   - `temp-1.0/`: Most experimental generation
